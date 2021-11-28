@@ -1,6 +1,10 @@
 {
   "Home": {
     "title": "Pregnacare ",
+    "back": "baya",
+    "footer_menu_home": "Gida",
+    "footer_menu_settings": "Saituna",
+    "footer_menu_about": "Hoto",
     "bullets_p_1": "Jariri",
     "bullets_p_2": "Yara",
     "bullets_p_3": "Nonon uwa",

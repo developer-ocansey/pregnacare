@@ -1,6 +1,11 @@
 {
   "Home": {
     "title": "Pregnacare ",
+    "back": "azụ",
+    "footer_menu_home": "Ụlọ",
+    "footer_menu_video": "Vidiyo",
+    "footer_menu_settings": "Ntọala",
+    "footer_menu_image": "Onyonyo",
     "bullets_p_1": "nwa",
     "bullets_p_2": "Ịzụ nwa",
     "bullets_p_3": "mkpesa niile",
