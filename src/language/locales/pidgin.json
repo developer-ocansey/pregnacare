@@ -1,0 +1,1792 @@
+{
+  "Home": {
+    "title": "Pregnacare",
+    "bullets_p_1": "Pikin",
+    "bullets_p_2": "Breastfeeding",
+    "bullets_p_3": "Common complaints",
+    "bullets_p_4": "Weaning",
+    "bullets_p_5": "Sibling",
+    "bullets_p_6": "Care",
+    "bullets_p_7": "Common complaints",
+    "bullets_p_8": "Mama",
+    "bullets_p_9": "Care",
+    "bullets_p_10": "Common complaints",
+    "bullets_p_11": "Papa",
+    "bullets_p_12": "Relationship",
+    "bullets_p_13": "Family life",
+    "bullets_p_14": "Sex",
+    "bullets_p_15": "Styles",
+    "bullets_p_16": "Common complaints",
+    "bullets_p_17": "Health For Everybody",
+    "bullets_p_18": "Eye",
+    "bullets_p_19": "Nose",
+    "bullets_p_20": "Ear",
+    "bullets_p_21": "Teeth"
+  },
+  "Videos": {
+    "title": "Video Gallery",
+    "link0": "See",
+    "link1": "How talking about sex could end STIs | Teodora Elvira Wi | TEDxMonteCarlo",
+    "link2": "Sex positions during pregnancy",
+    "link3": "Ask Dr. Lisa Oral Sex During Pregnancy Medical Course",
+    "link4": "How Sperm Meets Egg | Parents",
+    "link5": "Conception explained",
+    "link6": "Health Matters: Malaria in Pregnancy",
+    "link7": "Children First Aid: Fever",
+    "link8": "How do I take care of the umbilical cord stump?",
+    "link9": "7 Signs Your Baby is Teething",
+    "link10": "Your Baby's Teething Timeline",
+    "link11": "WHO: Immunization for all throughout life - World Immunization Week 2016",
+    "link12": "Erectile dysfunction ED cause and diagnosis | Andrology Australia",
+    "link13": "WHO: How to handwash? With soap and water",
+    "link14": "Simple Personal Hygiene",
+    "link15": "5 Common Signs of Tuberculosis",
+    "link16": "TB Symptoms Animation",
+    "link17": "Contraception - an Introduction"
+  },
+  "Images": {
+    "title": "Images Gallery"
+  },
+  "About": {
+    "title": "About",
+    "sub_title": "About Pregnacare App",
+    "about_content": "loremipsum"
+  },
+  "Collect_Information": {
+    "title": "Your Profile"
+  },
+  "Settings": {
+    "title": "Settings"
+  },
+  "Content": {
+    "baby": [
+      {
+        "name": "Wetin dey make pikin vomit?",
+        "content": "The common reason wey dey make pikin vomit after some weeks them born am na because air dey mix with the breast them suck when they burps.\nAnother reason be say that the muscle value wey dey for top of belle and open enter stomach dey weak and never mature. For old people this valve dey close very strong that food go fit godown. For people wey don old, them dey use big force open this valve so old people no fit vomit when he chop food. But for pikin them this muscle value no dey close like that. So na small force go open this valve and milk go come out.\nPikin fit vomit if say the pikin belle don dey “full” or if youpress am small small. For example, say you keep the body for long time for your shoulder or you bend pikin for your laps.\nPikin go stop vomiting small small if he don reach 6 months to 1 year. E go better as the pikin dey sit down.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit reduce fever for pikin?",
+        "content": "\na. Make you use medicine \nb. Make you carry the pikin go hospital and give am the medicine wey doctor give. Give am the medicine as doctor talk and make sure you finish am. \nc. Make you use luke-warm water bath pikin. Make you allow the water to dry for pikin body so that him body go cool. Make you no use cold water because e go make pikin shake and the temperature go go high. \nd. Give am extra things to drink. This one go make the body cool from inside.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby2.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=HsRBsNp_cNw"
+        ]
+      },
+      {
+        "name": "Wetin dey make pikin get belle pain?",
+        "content": "Na plenty food or small food, gas for intestine, or small intestine de cause belle pain for pikin. If belle dey pain pikin everytime, a beg go hospital. Colie, strong shit and urinary tract infection dey cause ever time belle pain.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey make pikin get fever when they want bring out teeth?",
+        "content": "Bringing out teeth fit make pikin get fever and dey uncomfortable. But, if him temperature go high pass 100oc, e no fit be teeth again, but na infection. If say the fever dey high, carry am go see doctor.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey make pikin sleep too much?",
+        "content": "Pikin dey sleep too much because them dey grow quick quick. Them fit sleep well well for morning and for afternoon. Pikin dey grow as e dey sleep.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Na which kind food pikin wey wan stop dey suck breast fit chop?",
+        "content": "Make you no force the pikin to chop new food. E don dey suck breast milk before before. So e dey ok if e chop 1 or 2 spoons. Small small e go begin dey chop new food well well. Make you get patient and play with am as you dey give am new food. E go make pikin get interest for the new food. Give am one particular food for a time, at least for 3-4 days before you go change am. Make you no put many many ingridients for the same time. For example, you fit give pap for 3-4 days and then you give pap with milk for another 3-4 days. Continue dey give am breast milk until e go reach 1 year or pass. \na. Pap: Pap wey come form grounded fermeted maize, guine corn, and soya beans dey simple and easy to make. You give am am pikin with spoon or you make am water water and use feeding bottle to give pikin. Many many mama dey like to give their pikin wey wan stop to suck breast milk this kind food. \nb. Vegetables and tubers: Vegetables wey you cook well well dey good for pikin. You fit give am the vegetables and tubers like yam, sweet potato, irish potato, carrots, cassava yo prepare for  family and all vegetables wey you get for farm or market. \nc. Fruit: banana dey good. Comot the seed of orange and give pikin the water. Make you use mango, pawpaw to make juice and give pikin. \nd. Beans: make you comot the back of beans and cook am with small salt and peppeer until e dey soft. Give am pikin. Give pikin moi moi and akara too. \ne. Grains and cerals: Rice na common food wey dey popular to give pikin wey wan stop sucking breastmilk. Just cook am soft. You fit give another cereals like wheat, millets, sorghum for 1 month later. \nf. Swallows: amala with ewedu dey go good for pikin in western part for Nigeria. Put crayfish or boiled fish for the ewedu soup. E go make the soup taste well for pikin. As the pikin dey grow, you fit give am other swallowa like eba, semovita, ponded yam, because the pikin fit digest am. But make sure the swallow dey soft for pikin to chop. \ng. Animal products: give am abimal products like milk, eggs, cheese, yogurt, fish, chicken and meat.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby6.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6a.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6d.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606544/baby/Baby6e.png"
+          }
+        ]
+      },
+      {
+        "name": "I fit give my pikin water after 2 months?",
+        "content": "No, until the pikin reach 6 months old. This kind feeding na Wetin we go call exclusive breastfeeding. Breastmilk dey give your pikin everything him needs. Give am breastmilk even even if e dey vomit. If the pikin reach six months you fit give am water. Na so because he go start to chop other foods wey dey hard pass breast milk and get oil, peper, meat wey go need water for digestion.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby7.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey make pikin shit as e dey comot teeth?",
+        "content": "Teething no dey cause shit shit. Shit shit deyt start becase pikin dey always put them hands and other things for mouth. Them dey put things for their mouth because their gum dey scratch them. The hands and other things them put in their mouth fit touch germs, and germs fit cause them shit shit.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause choking for pikin? ",
+        "content": "Choking dey common and e dey cause injury and fit kill small pikin them. Na so because e dey easy for their small airways to block. E dey take time for pikin them to learn how to chew and swallow food well well. Pikin them no sabi use cough clear their airways wey don  block.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606527/baby/Baby9.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause birth wahala?",
+        "content": "Many many things fit cause birth wahala. Them be: \na. Mama no chop better food when she carry belle. \nb. Mama wey carry belle no get iodine for her food. \nc. Mama no get folic acid for her body before she carry belle. \nd. Wetin e get from family: pikin fit get bad thing from papa and mama wey go make am form bad. \ne. Wetin dey for area: the mama fit de touch and smoke tobacco, chemical, drugs, alcohol and disease like german measles. These things fit make the pikin wey dey for womb get wahala. \nf. If mama donpasas 35 years  \ng. If mama dey take different medicine when she carry belle \nh. If e no dey easy for mama to born pikin.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606527/baby/Baby10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause jaundice for new born pikin?",
+        "content": "Jaundice na when skin and white part of eyes don turn yellow color. This one no be disease but sign say infection dey. If red blood cell wey dey for body don die plenty and liver no fit remove waste product for body fit cause am. E dey common for new born pikin and pikin wey never mature.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606527/baby/Baby11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit care for cord.",
+        "content": "Make sure you use methylated spirit and clean cotton wool to clean baby cord everyday. You fit clean the cord evry time you change diapers. Take proper care of the part wey dey  wear the belle. Make sure say air dey touch the court so e go fit dry and heal quick quick. Make sure pampers no dey touch the cord. Yo fit fold am. Make you allow cord stump to fall for itself. No comot am yourself. Make you no rub kerosene, dusting powder for the cord so that e go commor by force. Make you no worry yourself if the cord no fall for 7 days, e go comot, only dey clean am and make e dey dry. If cord never fall, no put the pikin inside water so that the cord no go wet.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606529/baby/Baby12.jpg"
+          }
+        ],
+        "video": [
+          "https://www.nhs.uk/video/Pages/how-do-i-take-care-of-the-umbilical-cord-stump.aspx?searchtype=&searchterm=&offset=17&"
+        ]
+      },
+      {
+        "name": "How pikin wey dey belle dey chop food?",
+        "content": "Pikin wey dey belle dey chop food through unbiblical cord from placenta. When mama chop food finish. The food go digest and enter blood and pikin go chop through placenta. The placenta dey comot all waste products like germs so that the pikin no get infection.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606530/baby/Baby13.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit take good care of your pikin?",
+        "content": "Make sure you and your pikin dey clean. Make you play rough play with am. Make your skin dey touch him skin. Dey talk to your pikin every time. Change diapers if pikin food  he dey hungry. Give am only breast milk for atleast 6 months  before you use hot water wash pikin feeding bottles and breast pumps. Make you dey clean the unbilical cord with cotton wool and methylated spirit and make it dry. Bath your pikin and clean him body. No keep toys for pikin bed. Make you dey clean pikin room and your room.help your pikin sleep well well. Wear pikin proper cloth any time. Comfort your pikin when e dey cry. No leave am alone. Run go meet doctor if pikin dey sick. Go for immunization for clinic.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby14.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Baby teething",
+        "content": "Pikin teething na when the pikin dey grow teeth. E fit cause pain, high temperature and discomfort wey dey stress for pikin and mama. Shit shit no be sign of baby teething but na sign say pikinget infection for belle. Ways to reduce pain wey teething dey cause: \nA. Use clean finger rub your pikin ,mouth, use finger touch pikin gum. You fit press the gum to reduce pain. \nB. Make your baby mouth dey cool. If mouth dey cool, e go make pain go. Yoyu fit put cool spoon or cool teethy ring to  make baby feel better. \nC. Use teething toys. This one na plastic toys wey pikin fit bit wit him  gum if teeth dey worry am. \nD. Use medicine wey stop pain only.make you no use medicine wey doctor no tell you.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby15.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=PaTji1kwFDU",
+          "https://www.parents.com/baby/health/baby-teeth/baby-teething-timeline/"
+        ]
+      },
+      {
+        "name": "Wetin dey cause cold for pikin?",
+        "content": "Symptoms of common cold fr pikin na sneezing, rummy nose and difficult for breathing. Sometimes, pikin fit get sore throat, cough and high temperature, pikin them dey get cold and cough because their body never dey strong to fit diseases, if you leave pikin with other children them. Them fit get cold. If you no cover pikin head and legs, e fit get cold quick quick. Make you wear pikin them proper cloth every time.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit treat cold for pikin?",
+        "content": "Common cold for pikin no get cure, but you fit help am get btter. You fit give am medicine wey stop pain as doctor been tell you. Make you no give pikin aspirin medicine. Make you no do these things: \n Give am plenty breast milk. If the pikin dey six months or less. If the pikin don old small, give fruit juice and vitamin c, you fit put small water for juice. \nA. make you keep the  pikin warm. \nB. Make you no allow smoke touch pikni. \nC. Remove or comot mocus wey dey pikin nose. \nD. Make you help pikin sleep well well for night. \nE. If pikin no fit sleep for night sit am down for your leg,so that e go breathe well.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby17.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Which time I fit call my doctor for my pikin health?",
+        "content": "If pikin never reach 3 months and he get cold. Na so because e fit be sign say something dey serious for body. Run go meet Doctor if: \nA. The pikin get serious cough \nB. The pikin body dey hot \nC. The symptoms stay reach ten days. \nD. The pikin get ear pain. If know if pikin dey draw him ear or e no dey comfortable.\the pikin no dey breathe well. \nE. The pikin no fit chop food or suck breast milk again,. \nF. The mocus wey dey comot from him nose dey thick and green. \nG. The pikin dey tire",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby18.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Immunization/ vaccination injection",
+        "content": "Immunization/ vaccination injection dey help prevent infectious diseases. Many people dey spread false story for immunization, and this one fit make many papa and mama no greee give their pikin immunization medicine. This don make many pikin themget measles, polio and other diseas way immunization fit prevent. Make sure you carry your pikin go for immmunizatio after you born am and other immunization day. Immunization dey make children dey healthy, some money and make papa and mama no worry much for sick sick.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606529/baby/Baby19.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=9_nyG2TUDcQ"
+        ]
+      },
+      {
+        "name": "Benefits of breastfeeding pikin",
+        "content": "Breastfeeding get many gains for pikin them be: \na. E dey help pikin grow healthy and dey stronger. \nb. Breast milk na the breast food for pikin \nc .Breast milk dey give pikin every thing him wants \nd. Pikin them wey suck only breastmilk for six months no dey go hospital every time. \ne. Breast milk dey bring mama and pikin closer \nf. Breast milk dey gentle for pikin belle and e dey easy for digestion \ng. Pikin them wey suck only breastmilk dey get less colie, no dey shit hard shit, and e no get diarrhea \nh. Breast milk na just Wetin  pikin need for right quantity \ni. Breast milk dey clean and dey prevent infection wey feeding bottle dey bring \nj. Breast milk get everything like vitamin, protein and fat and other things wey dey make pikin grow \nk. Pikn them wey suck only breast dey get good weight and them no dey dey overweight \nl. Breast feeding dey low the pikin’s risk of having asthma and allergies. \nm. Breast milk dey also lower the risk of obesity, diabetes, and some cancer.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606529/baby/Baby20.jpg"
+          }
+        ]
+      }
+    ],
+    "mother": [
+      {
+        "name": "How you go make your belle come down after you born pikin finish",
+        "content": " \n a. Use hot water press for belle so that remaining blood fit comot from your toto. \n b. Tie rapper for belle after you don press am with hot water or you sit down on top hot water. \n c. Make you drink hot pepper soup. \n d. Drink warm water, no be cold or ordinary. \n e. You fit sit down on top hot water if you take cesarean section(cs) born. \n f. Continue de do all these things go reach 3 months after you don born pikin NB: No stop when stomach don come down because e fit big again when you stop. so press am de go, so that e no go big pass how you want am.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit care for your breast when you carry belle",
+        "content": "E dey good to care for the breast well well when you care carry belle. Here na some kind things wey you fit do to care for your breast. Clean clean practices for breast. here na clean clean practices you fit do to care for breast when you carry belle. \n a. Wash your nipple : body water or fluid dey start to pass through the breast for filth month of pregnancy . e be like hard layer and skin wey dey around am be like red . you fit avoid am by keeping your nipples clean . use clean cloth to rub your nippples. \n b. Make you no use soap clean your nipples because e fit cause dryness and make nipples crack. Sesame oil and petroleum jelly dey good to keep nipples clean and soft. \n c. To make nipples big for breast feeding pikin , use your fore finger and thumb to draw your nipple when you de bath . make you no use your nails scratch your nipples . this kind exercise so help milk to come out after you born pikin. \n d. Massage your breast by rubbing them circle by circle with oil and water when you dey bat. \n e. Wear bra wey fit carry the weight of your breast. make sure say the bra so tight your breast . no use bra wey get underwires because them dey disturb milk production. \n f. Make you use maternity bra for breast feeding pikin . E de make breast feeding dey easy and also support breast.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How does belle come",
+        "content": "Every woman get eggs for two places wey dey inside her womb.  One egg dey comot every month, so that if man sperm meet am, dem go form baby. As woman see her mensis, e go take am another 28 days before she go see another one. The first of her menses na the first day of her menstruation circle. For the 14th day, afdter the first day of her menstruation, one egg go comot from the womb. The egg go fit dey alive after two days wey e don enter the womb dey wait for man sperm wey go fertilize am so that e go form baby. When man sperm don fertilize am, e go run go stay for the wall of the womb, and e go start to grow as pikin. E go grow reach nine month before the mama go born am as pikin.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother3.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=vFfqLs94iHc",
+          "https://www.youtube.com/watch?v=DGyRD9HnXVs"
+        ]
+      },
+      {
+        "name": "Wetin dey make woman wey carry belle dey vomit?",
+        "content": "We no know exactly wetin dey cause a woman wey carry belle dey vomit. But e fit be changes wey dey go on inside her body hormones.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Which kind food woman wey carry belle suppose avoid?",
+        "content": " \n a. No eat uncooked meat, fish or the one wey dey no cook very well. Meat and fish fish wey dem no cook or no cook very well get germs wey dey dangerous for the mama and pikin. \n b. No chop uncooked egg: egg wey dry no cook get germs wey fit disturb woman wey carry belle. No chop any food wey dem take uncooked egg do. Make sure say you cook egg or boil am very well before you eat am. \n c. No chop or drink unboiled raw milk. No drink unboiled raw milk or cheese wey dem take unboiled raw milk do. No drink milk wey dem collect fresh from animals. You must boil am well well before you drink am. \n d. Wash all fruits and vegetables. Make sure say you wash fruits and vegetables before you eat and comot all sand sand before you eat or cook them. \n e. No drink alcohol: alcohol fit damage the pikin and affect him growth for inside womb. E fit affect the pikin development. \n f. No take too much caffeine. If you dey take too much caffeine when you carry belle, e go reduce the weight of the pikin when you born am. An example na cola drinks so therefore, make you reduce the bottles of cola drinks wey you dey take when you carry belle.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "If woman woman carry belle shey she fit dey see her normal period?",
+        "content": "True, you fit dey see your regular period as you carry belle. Some women fit dey see regular menses wey be like regular menstruation. But blood wey dey com out from toto no be same thing like regular period. Seeing monthly period while you carry belle fit be because of change wey take place in the cervix wey dey make the cervix soft, twin belle and infection.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause malaria for pregnant woman?",
+        "content": "Malaria dey common for areas wey rain dey fall well well and temperature dey high like in Africa. The yard or place dey help mosquitoes to grow well well. The following condition dey cause malaria: \n a. Loss of immunity. Belle dey reduce the mama”s ability to fight disease. This one fit make the mama fit get malaria. \n b. Area wey malaria dey plenty. Woman wey live for area wey malaria dey plenty fit get body to fight malaria. So, they no fit catch malria quick quick. \n c. Hiv infection: women wey get hiv disease go fit get malaria disease quick quick because them get low immunity.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother7.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=UcIyJbEM_ko"
+        ]
+      },
+      {
+        "name": "Signs and symptoms of malaria in pregnant women:",
+        "content": "for early stage , the signs and symptoms for malaria dey like other infection like dat of influenza and viral infection . na only test fit help us know the particular infection. The common symptoms of malaria for pregnant women na: \n a. High fever and sweating or feeling of cold. \n b. Nausea. \n c. Cough. \n d. Headache. \n e. Vomiting. \n f. Muscle pain. \n g. Diarrhea. \n h. Jaundice. \n i. Breathing problem. \n j. Spleen wey dey large or bigger. \n k. Pale skin appearance. \n l. Sickness all over the body, E  dey important to treat malaria in pregnancy because e fit cause other health problem for mama and pikin.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Serious conditions for malaria for pregnancy:",
+        "content": "malaria fit dey common or dey serious, common malaria infections get symptoms like headache, fever, shivering and sweating wey dey happen every two or three days and fit stay reach six to ten hours Severe malaria dey very dangerous to life. E fit cause loss of blood, serious breathing whala , cerebral malaria , and damage other organ for body . any woman wey get this kind malaria see some bad bad conditions like; loss of blood for pregnancy is caused by malaria germ wey dey destroy blood cell for body. Loss of blood for body fit cause bleeding after the mama born the pikin and e fit cause of death of mama and pikin . serious malaria fit cause water to enter the lungs . E fit reduce the power wey the body get to fight sickness . serious malaria for pregnancy fit cause low blood sugar level in woman.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother9.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How woman wey get belle fit have breastmilk?",
+        "content": "Many many mama breast dey produce milk called colostrum or (pre- milk) for the last stage for them pregnancy . other mamas no dey produce e dey normal for milk to come out from breast or e no come out. if if milk dey come out abeg wear nursing bra so that milk no go dirty your cloth. Colostrum na thick , yellowish fluid wey get antibodies wey dey protect pikin from infection or disease . if you gree to give milk , colostrum go make your pikin fine until milk begin to comot . colostrum get plenty protein, small carbohydrate and fat pass breast milk. e dey easy to digest and e get anything wey the baby or pikin needs for the first few after e don born.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause pregnant woman no fit sleep for night?",
+        "content": " \n a. Discomfort because of big belle. \n b. Back pain. \n c. Heart burn. \n d. Plenty urination for night. \n e. Anxiety. \n f. Waiting for the coming out of pikin. \n g. Frequent and clear dream. \n h. Hormonal changes.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How women wey carry belle fit treat no sleep for night?",
+        "content": " \n a. Manage new sleeping position. \n b. Bath warm water or massage your body before you sleep. \n c. Make your room comfortable for sleeping. put your thermostat for normal and you fit play some good music wey go make you sleep. \n d. Practice those relaxing technique wey them teach you for your clinic. \n e. If you no fit sleep, get up and walk small, you fit read bible or any good book. \n f. Make you do exercise always during the day. \n g. If you fit sleep during the day abeg sleep, but e fit make you no sleep plenty for night.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother12.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause high blood pressure for woman wey carry belle?",
+        "content": "An unhealthy life style fit cause high blood pressure for pregnant woman. such unhealthy life style na; overweight, no dey do any work, smoking and drinking too much alcohol. A woman wey carry belle for the first time fit get high blood pressure. women wey get high blood pressure. women wey carry plenty or twin pikin fit get hypertension because him body get plenty pressure and stress. If her family get history of having hypertension for pregnancy, the woman or mama fit get high blood pressure if she carry belle. Another thing na the age of the woman. pregnant women wey dey over 40 years fit get high blood pressure, women wey get high blood pressure before them go carry belle fit get other serious complication if they carry belle pass those wey no get high blood pressure.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother13.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin be the normal blood pressure for pregnancy?",
+        "content": "To know wetin be your normal blood pressure, your doctor fit take the measure mark for your first visit for clinic. So therefore, them go dey measure your blood pressure anytime you come for hospital. Normal blood pressure for women wey no carry belle  go fit reach 120/80 mm Hg. Blood pressure wey pass 140/90 mm Hg or wey dey 15 degrees higher for top number from where e dey before you carry belle, fit cause serious problem for early pregnancy, say from 5 weeks go reach 6 months, woman wey carry belle fit see her blood pressure come down. Na so because pregnancy hormone fit cause blood vessels to grow wide. For this now, e no fit resist blood flow well well.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother14.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin be low blood pressure for woman wey carry belle?",
+        "content": "We no fit talk any number wey dey too low, but these signs fit show say person get low blood pressure: \n a. Headache. \n b. Dizziness. \n c. Nausea. \n d. Feeling faint faint. \n e. Cold, damp skin.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother15and16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit check your blood pressure when you carry belle?",
+        "content": "E get many many ways wey you fit check your blood pressure when you carry belle. You fit do these: \n a. You fit buy a blood pressure monitor for pharmacy. Make your doctor help you check whether the machine dey work well well or not. Check whether your machine dey read the same thing with the machine wey dey doctor’s office. \n b. Go to pharmacies or other wey them dey sale medicine and check your blood pressure readings. \n c. Take your blood pressure for the same time every day. Make you no cross your legs. No hold anything for hand. Make you use the same to check your blood pressure. \n d. Tell your doctor if you see say you get any sign of high or low blood pressure.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother15and16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin be the bad conditions for blood pressure during pregnancy?",
+        "content": "If say blood pressure stay pass 20 weeks of pregnancy, e fit cause bad condition. Preeclampsia fit start. Medicine wey dey for high blood pressure during pregnancy? True, some traditional medicine for high bood pressure for women wey carry belle fit cause wahala for am. If you carry belle and you get  am for high blood pressure, a beg run quick quik go tell doctor wey sabi. Talk to doctor how you fit check or control hypertension when you dey pregnant.High blood pressure no dey always serious for women wey dey pregnant. Therefore, if you no treat am, hypertension fit kill the woman and him pikin. E dey very very bad say na hypertension wey high blood pressure dey cause be the highest second killer of mothers and pikin. Better follow your doctor talk about your health wahala. Do all him tell you to do and no do those wey him tell you no do, so that you and your pikin fit dey healthy. Make you try know wetin dey cause high blood pressure before you carry belle, and you fit prevent am so that your blood pressure go run down when you carry belle.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother17.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin be preeclampsia?",
+        "content": "This one fit cause damage to your organs, plus including brain and kidneys. Preeclampsia na toxemia or hypertension wey pregnancy dey cause. Preeclampsia wey seizures follow na eclampsia. This one fit kill person. Na to go check up every time for hospital fit help solve this kind wahala. The symptoms na: \n a. Protein wey dey for urine. \n b. Bad swelling in hand and feet. \n c. Headache wey dey stay long.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother18.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit bend down when you carry belle?",
+        "content": "Remember to bend your knees and no be to stretch your back. E go better make you stand up small small using your hand, thighs and knees and no be to strain the muscles wey dey belle. E go help protect your back as e fit allow you do other things as your belle dey grow. If you wan carry anything, make you bend your head down. A beg bend your knee.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother19.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit stand well when you carry belle.",
+        "content": "Good standing when you carry belle dey include teaching the pikin how e fit walk, sit, lie and standing positions as no dey feel any pain. Your big belle fit make you feel say you go fall down. But if you do these things wey follow, you go maintain proper body standing. Them be: \n a. Sitting posture. \n b. Standing posture. \n c. Driving posture. \n d. The better way you fit carry load. \n e. Sleeping and lying position.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20bending.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20sleep.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20drive.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause woman wey get belle dey peece every time?",
+        "content": "True, na the pregnancy hormone dey cause am. This kind pregnancy hormone dey make blood circulate quick quick for body and also e dey make pikin grow. Hormone changes fit make blood go to kidney quick quick, so e go make bladder full always, so that the mama go dey peece well well. Woman wey carry belle dey get more and more blood , e fit take 50% pass the blood wey e get before e carry belle. This na to say plenty water dey enter the kidney and comot through bladder. The pikin wey dey inside belle dey put pressure for him mama bladder, so that the mama go dey peece well well for the last months for her belle.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin de cause tiredness for woman wey carry belle?",
+        "content": "Tiredness dey common for pregnancy. Some women dey feel tired as them carry belle while others no dey tire at all. Changes for hormone in the early stage for pregnancy fit cause tiredness and fit make person sleep. Also, the baby don dey produce more blood wey go carry food go reach the pikin for inside womb. The sugar and blood level dey low. Your feeling of worry fit affect you. For the last 3 months of belle, na the extra weight of pikin dey cause tiredness.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother22.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit mange tire tire when you get belle:",
+        "content": " \n a. Rest: sleep well well when you dey tired. No drink plenty water and other drink before you go sleep, so that you go wake up always to peece. \n b. Arrange your work: short the work wey you dey do at home or office. Call people to help you if you don tire. \n c. Chop better food: chop food wey go give you energy and blood. Chop protein and iron well well. Drink plenty water so that water no go finish for your body.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother23.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Sex when you get belle.",
+        "content": "For better pregnancy, e dey good to have sex with your husband till e reach the time wey you wan born pikin. But sometimes because of health wahala, you fit stop having sex with your husband. Your doctor go advice you well well for this matter.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24a.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24b.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24c.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24d.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24e.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24f.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Emotional care and good food when you carry belle.",
+        "content": "Make sure you dey clean and you also do these things: \n a. You go relax well well when you carry belle and you dey give pikin breast: na those kinds things wey dey distub mind and cause stress dey make breast no produce milk well well. \n b. Make sure you chop food wey get iron and protein well well and food wey get vitamins and calcium. Vegetables and fruits go balance your food well well. And drink water well well evry day. \n c. Remember, hormones for pregnancy fit make your breast soft and sensitive. E dey so because the breast dey produce milk when you carry belle.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother25.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit prevent wahala when you carry belle.",
+        "content": "To prevent any kind wahala, make you do all the things wey we go talk bellow: \n a. Make you use clean water wash your breast every day. \n b. Make you dey check your breast every day. \n c. If you see any bad thing for your breast, run go tell your doctor. \n d. No dey wet your breast, so that the nipples no go crack.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother26.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Which kind thing or sign go make me tell my doctor when I dey have sex?",
+        "content": "Better go call your doctor if you see any sign when you dey have sex. You fit get small smallpain when you dey have sex or when you don finish, but e go stop after some minutes don pass. But if e no stop and you get bleeding when you have sex finish, a beg run go tell your doctor.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother27.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause vaginal discharge for woman wey carry belle?",
+        "content": "When you get belle, your body dey change for many ways. One change you fit see na some thing wey be like water go dey come out from toto or vagina. Changes for vagina discharge dey normal, but if you see any bad thin, go tell your doctor.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother28.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin you fit do and wetin you fit no do when you carry belle.",
+        "content": "If you carry belle, a beg no do: \n a. No use shampoo: na so because shampoo fit brings germs for toto. \n b. No flush toto with water or soap: some dey mix iodine, vinegar, or baking soda with water. E no dey good because  e fit change the balance good bacteria wey dey for toto and cause disease. \n c. No treat disease by yourself: make you go meet doctor for test and treatment. If you carry belle, a beg do: \n 1. Make you use plenty livers if e dey good for you. \n 2. Tell your doctor if you see any bad thing for body. \n 3. Rest well well, e go give you strength. \n 4. No do over work, e fit cause tire tire and cause wahala.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother29.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Which time I go fit tell my doctor about my vagina discharge?",
+        "content": "True, you fit tell your doctor anytime you see bad discharge dey come out from your toto/vagina. No try treat yourself. E dey normal say small small blood fit come out for vagina when you carry belle, but e dey good to tell doctor. But if the blood wey dey come out turn to another thing say e dey big small small, and you dey feel pain, go report to your doctor.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother30.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin make pregnant woman no fit chop solid food for the last stage of her pregnancy?",
+        "content": "E dey normal for pregnant woman to get uncommon complaint and pains. she no fit chop solid because her belle dey full. Na big size of pikin wey dey belle dey cause this kind feeling, so, she no go feel easy when she chop solid food. But e dey normal, so make you no worry at all. But if food no gree you chop, tell your doctor.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother31.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Some common conditions wey pregnant woman fit see for the last stage of pregnancy?",
+        "content": " \n a. Food no dey hungry am: food no dey hungry many women when they reach final stage of their belle. Na so because of pressure wey pikin for belle dey give am. So she no get plenty chance for food to enter. So she fit chop small small snacks for every 3 to 4 hours. No drink water water or juice add as you dey chop food. Na so because water or juice fit full your belle quick quick and na only small chance go remain for food to enter. \n b. Shit dey strong:  This one dey common for many women for their first and five stage of belle. Take plenty fluid, fruits, and vegetables so that your shit go dey soft and come out easily. \n c. Edema: sometimes, plenty water fit remain for body. This one fit cause legs and hands to swell. You fit reduce this edema if you chop small salt or no salt at all. If you wan sit down, put leg for top of table or chair for long time. \n d. Shortness of breath (fatigue/Tiredness): for him last week 3months of belle, she dey carry big load because the pikin dey grow well well. The uterus wey dey big dey put pressure for the respiratory system and cause am to get shortage of health and tiredness. Sometimes, you no fit sleep well because you no dey comfortable. If you dey sleep well, e fit cause tiredness. \n e. Food no dey digest and heartburn. The pikin wey dey grow quick quick dey put pressure for the digestive tract and fit push some food wey dey stomach to go back to throat. This one dey cause heartburn. You fit reduce heartburn if you chop small food for the same time, chew the food well and chop slowly. No lie down when you finish chop immediately. \n f. High blood pressure: if edema de serious, e fit be sign of preeclampsia wey dey cause high blood pressure. Sometimes, e fit be hypertension wey pregnancy dey cause. The high blood pressure fit block blood passage so that the pikin no go get food and air. If you set get hypertension, rest well well, no stand up for long time and if you wan sit down for long time, put your leg for on top chair or pillow. \n g. Urinary tract infection: this kind infection dey common for woman wey carry belle. If you no treat am reach final stage of your belle, e fit cause kidney infection and kidney infection fit make the pikin come out when e never reach to come out.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How pregnant woman fit do exercise?",
+        "content": "Exercise wey dey good fit help stop serious health wahala like pre-eclampsia high blood pressure. If woman carry belle de do exercise, e go reduce body pain and aches wey heavy weight de cause. Different different case de come for each woman and each pregnancy. So therefore, dey take care of yourself and ask your doctor.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother33.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Stomach pain for woman wey get belle",
+        "content": "Pain or stomach pain for woman wey get belle dey common and for everybody e no dey bad for mama and pikin. If the stomach pain dey too much, make you tell your doctor.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother34.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause body pain or stomach pain for woman wey get belle?",
+        "content": "Stomach pain for pregnant woman dey common and e fit be because of body changes so as to carry pikin but e no dey bad for mama and pikin.The common pains na: \n a. Round muscle pain: this kind pain dey sharp and person dey feel like them stab am if e wan change sitting position. E fit be like a dull pain way dey stay for sometimes. Na two large muscles wey run from uterus to reach anus dey cause am. As the uterus dey grow bigger, the two muscles dey stretch and cause discomfort. This kind pain dey always come in the second stage of pregnancy and e no dey bad. \n b. Gas and constipation/ hard shit: na high level of hormones dey cause gas for pregnant women. If body release this hormone the intestine go work slowly and e go make food run slowly. You fit reduce this kind wahala by drinking plenty water, eat foods wey get plenty fiber and do better exercise. \n c. Dey do contractions: if you do contractions e do bad for you and your pikin. Many women dey report say na contraction be like tightening the stomach muscles so that belle go dey hard or strong. E dey important to make we know the difference wey dey between Braxton hicks and true true contraction. The true true contraction dey come together, last for longer time, and dey pain. True true contraction go comot your breath and fit disturb any other thing wey dey do. But dey contraction go allow you do other things. Some doctors talk say na dehydration fit cause contraction, so therefore drink plenty water to reduce this kind wahala. \n d. General discomforts: e dey common for every woman wey carry belle to get discomfort because of pikin wey dey grow inside belle, selection of food and body changes.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother35and36.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Different different types of serious stomach pain for woman wey get belle",
+        "content": "Some women wey stomach pain when carry belle dey dey healthy, but sometimes stomach pain go dey serious if you see any sign of these wahala wey we go discuss now, abeg go report to your doctor. \n a. Pregnancy wey dey outside the womb: this one fit happens one person out of 50 pregnancies. This one dey happen when egg start to grow any where outside womb. Many times, the egg dey lodge for fallopian tube. But this kind pregnancy no go reach maturity, and doctor fit look for the matter. If woman get ectopic pregnancy, e fit dey get pain and serious bleeding from 6th weeks go reach 10th week, woman wey don get am before, or get bad endometriosis, or tubal ligation or use intrauterine device (IUD) to get belle dey always dey get ectopic pregnancy. \n b. Placental breakage: this one na when the placenta break from the uterus before them born the pikin. The symptom na serious pain wey no dey strong and e no go and cause the belle to dey strong and e no get relief. Another sign na heavy blood flow, or water dey comot from womb when the time never reach. Also, the stomach fit get tender or soft, back pain or fluid comot together with blood. \n c. Miscarriage: this one na loss of pikin e dey happen for the first 13 weeks of belle. The signs na mild pain go reach serious back pain, true the contraction (wey dey happen every 5-20minutes) tissues, or thick blood go dey comot from vagina. Brownish or red bleeding, wey come with cramps or nut, and sudden sign say the mama no carry belle again. \n Urinary tract infection: e dey easy and good to treat this kind infection, but if you leave am, e fit cause other health wahala. The signs na pain discomfort, and feeling hot when the person dey piss. Other signs na lower belle pain, nausea, sweat and cold. Abeg run go see doctor if you get these signs. \n e. Pre-eclampsia: the symptoms na high blood pressure and protein for urine after 20 weeks of belle. U fit get pain for upper part of belle, maybe for the side right of ribs, nausea vomiting and too much pressure for belle fit follow.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother37.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Which time make I tell my doctor?",
+        "content": "Abeg call your doctor when you see the following signs and belle pain or discomfort follow am: \n a. Cold. \n b. Serious pain. \n c. Dizziness. \n d. Fever. \ne. Spotting or bleeding. \n f. Nausea or vomiting. \n g. Vagina discharge. \n pain as you dey piss.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother38.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Breast-feeding",
+        "content": "Breast-milk na the best food for pikin, he gets everything wey the pikin want like protein, vitamin and fat. Breastfeeding no dey take time digest, e get antibodies, wey dey help the pikin body fight diseases, e dey very very good, to give pikin only breast milk, until the pikin go r each six month before you give am other things. This kind breastfeeding only go help, the pikin no go dey get asthma or allergies, diarrhea, ear infection, respiratory illness, and other diseases and you no go dey go hospital too much.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother39.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Benefits wey breastfeeding dey give mama",
+        "content": "Breastfeeding go help mama lose all the weight wey she gain when she carry belle quick quick. E dey help reduce bleeding after mama born. E dey lower the risk for ovarian and breast cancer. The osteoporosis or pain for inside bone fit dey lower too, e dey safe time and money, e dey help mama and pikin relax well and play, breastfeeding dey save money because mama no go buy another food again for pikin. E dey reduce poverty because breastfeeding na free. Abeg read am for general health session.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother40.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey make breastmilk come out?",
+        "content": "For the time of pregnancy the placenta dey help the body produce hormone wey dey help the breast produce. When you born the pikin, the hormone, wey dem dey call progesterone go stop work small, so that the breast go start to dey produce from 32hrs go reach 40 hours after them born the pikin, another hormone wey dey call oxytocin go help the milk come out from breast anytime you give the pikin breast.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother41and42.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Which time breast milk dey enter breast?",
+        "content": "Breastmilk dey enter breast after two reach 3 days after dem born pikin, cholesterol go come first, then breast milk go follow am, breastmilk go dey plenty as the pikin dey suck breast, or u fit use breast pump or hand to make breast milk come out. if pikin no suck the breast or you no remove the milk, the breast go stop to dey make milk.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother41and42.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause delay for breastmilk flow?",
+        "content": "Breastmilk come out within 3 days wey dem born pikin, e fit take 5 days make you no fear say breastmilk no go comot on time because e no mean say, e no go comot at all. Worry worry go worse the condition because e dey affect breast. Make you continue dey carry breast give your pikin suck, e go make comot, if you get this kind problem, halla your doctor. Some factors dey delay breastmilk flow, dem be: \n a. Premature born fit make breast no produce plenty milk, na so because pregnancy no stay as e suppose stay, so therefore, the body no go get enough to help breast produce plenty milk. \n b. Very very stress birth like long labor, long pushing time, cesarean operation or forceps fit delay flow of breastmilk. \n c. Damage for nerves wey dey connect milk flow or shift for bones of spine. \n d. Plenty drips use for delivery fit store for breast and fit delay milk production. \n e. Some part of placenta wey remain for body fit delay milk production. Because hormone called progesterone de work high na the time wey progesterone reduce him work go make production start. \n f. If woman loose much blood when e dey born pikin, this one fit damage part of brain wey dey control breastmilk. \n g. If woman born big pikin for him pregnancy, e fit delay milk production. \n h. Plenty medicine wey dey relief pain wey mama take dirty birth fit cause delay for milk production. \n i. If you keep the pikin away from him mama for long time, e fit cause delay for milk production. E better make you give your pikin breast milk immediately them born am, this one dey help milk flow. \n j. Much weight or fat fat de reduce milk produce because e dey disturb the body from responding to the hormone wey dey make milk.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother43.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause pain after mama don born pikin finish?",
+        "content": "Na contraction of womb dey cause pain dem born pikin finish. This contraction de make womb go back to him size before mama carry belle and e dey reduce blood loss after born, this kind pain fit dey mild or serious, depending on the number of pikin and how the stomach muscle dey, the womb dey contract when pikin dey suck breast. For many woman, pain after born dey serious for first and second day and fit stop after the third day. E fit take six or more weeks for the wound to go back to normal size.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother44and45.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How I go fit stop the pain wey dey come after birth?",
+        "content": "Do the following things, e go help: \n a. Massage your lower belle gentle gentle. \n b. Put pillow for under your lower belle and put face down as you lie down. \n c. Put face down with warm heating pad for under your lower belle. \n d. Make you dey piss frequently because bladder wey full dey disturb the uterus for contracting. \n e. Take medicine wey dey cure pains, tell your doctor make e prescribe medicine for you.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother44and45.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Placenta previa",
+        "content": "Na cells wey dey form inside womb during pregnancy dey make up placenta. e dey carry oxygen and food from mama go reach pikin, and e dey also comot bad product from pikin to mama through umbilical cord. Placentas dey normally grow for upper part of the uterus, e dey give chance for pikin to grow well well. Placenta previa na when the placenta dey form for low for womb or for the entrance of womb and fit cause blockage of normal pikin born. E get three kind of placenta previa: \n a. Complete placenta previa: for here, the place covers the whole inside entrance of womb. \n b. Partial placental previa: for here e dey cover one part for inside entrance of womb. \n c. Marginal placenta previa: for here, e dey form for the opening for inside the womb.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother46-48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause placenta previa:",
+        "content": " \n a. Fertilize egg fit lodge very low for uterus, and cause placenta to form closer to or over cervical opening. \n b. The placenta form for wrong way. \n c. The mama don dey old: women wey dey 30 years old get chances three times higher to get placenta previa pass women wey dey 20 years old. \n d. The mama don born many pikin before: women wey don plenty pikin before fit get placenta previa, na one person for every 20 women fit get am. \n e. The lining for the womb gets bad things like fibroid or scars for past previa, cuttings, cesarean operation or abortion. \n f. The belle fit be twins or triplets: women wey carry twins or triplet’s belle fit get placenta previa. \n g. The mama dey smoke cigar or cocaine: smoking and cocaine dey increase risk for getting placenta previa. \n h. The mother carry belle through the help of assisted reproductive technology in- vitro fertilization.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother46-48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Symptoms of  placenta previa",
+        "content": "Sometimes the mama fit see bleeding for first and second stage of belle, the color for the bleeding fit be red bright, and e fit stop and start and start again, after some days or weeks. quick and too much bleeding fit come for the last stage of the belle, this king bleeding wey dey come with pains, for some women fit get pain during bleeding, for 7% in 30% for women wey get placenta previa, no get bleeding at all.  The bleeding dey occur because as the pregnancy dey go the placenta dey comot for the walls of the womb. For the last stage of belle, the walls of womb dey become thinner and spread so that pickin go grow well, if placenta previa dey, the placenta go lodge for low for the womb wall. The thinnings for the walls of the womb make am to stretch and comot from womb wall and cause bleeding.The serious wahala for placenta previa na: \n a. Infection and formulation of  blood clots. \n b. Unborn pickin pain because low oxygen supply. \n c. Slow slow growth for pickin because of insufficient blood supply. \n d. Shock and mama fit die if bleeding dey too much. \ne. Pikin fit get shortage of blood (anaemia).",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother46-48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How u go fit manage placenta previa?",
+        "content": "To reduce the bleeding and sertious wahala make mama rest well well for hospital. Also make mama go for pelvbic sex and any sex weyy go trouble the cervix or uterine wall.  If the test show you get complete placenta previa, your doctor go fit advice you to use operation born the pikin naso because normal born fit tear placenta and cause serious bleeding wey go put mama and pikin for big risk.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother49.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Woman wey lose plenty bloods after born supppose chop which kind food?",
+        "content": " \n a. Oatmeal: this dey very good because e get plenty iron which women wey get shortage of blood need. Researchers don talk say shortage of blood fit cause low level of breast milk. Oatmeal dey easy to cook and dey help build blood. \n b. Garlic dey very good because e dey help milk to come out, and  e dey make food better. \n c. Green pawpaw: e dey good to chop pawpaw wey never ripe because e dey help milk come out. You fit boil am chop. \n d. Carrots:  carrots dey help for breastfeeding, carrots contain vitamin A wey dey help pikin grow well well. \n e. Spinach: spinach get iron well well, abeg wash am well well and boil am before you chop am. \n f. Nuts: nuts like groundnuts, cashnuts etc. dey help breast milk to come out.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50a.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50d.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50e.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause bleeding after born?",
+        "content": "After mama don pikin, the womb go reduce him size by tightening the muscle of womb so  that placental go come out. After the placenta don come out the tightening of the muscles go help reduce bleeding for inside womb. If the womb no shrink well, the bleeding go continue. This kind thing de cause bleeding after born. Sometimes if small small parts of placenta remain for womb e fit cause bleeding, this thing fit make bleeding to happen, dem be: \n a. The placenta comot very early from womb. \n b. The placenta don cover the opening of womb. \n c. The womb dey too big. \n d. E get high blood pressure during belle. \n e. E don born many pikin before. \n f. E get long labor.g. E dey fat well ell. \n h. E dey use medicine to cause labor. \n i. E get infection. \n j. E dey use machine to stop labor. \n k. E dey forceps or vacuum to help am born pikin. \n l. E get general and anesthesia. \n m. E get cut for womb. \n n. Blood no dey clot.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother51.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Child spacing",
+        "content": "Truth about child spacing:\n a. About 214,000,000 women wey still dey born pikin, for developing countries no wan use modern child spacing method. \n b. Some child spacing methods like condoms dey help prevent the passing of HIV and sexually transmitted infections from one person go reach another. \n c. House spacing dey reduce abortion especially abortion wey no dey safe. \n d. Child spacing dey help husband and wife decide how many pikin dem fit born. \n e. Child spacing dey prevent unwanted belle. \n f. And he dey prevent pikin and mama death also. \n g. Child spacing dey help people get the number of people dem want and decide how many years dem fit stay before dem go fit carry another belle. You fit get am if you dey use belle prevention method and treat your infertility sickness. (you go read more for general health).",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother52.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin be the best method of birth control?",
+        "content": "Many many factors dey decide the best birth control you fit choose. Them be: \n a. Age of mama, health condition like heart diseases, high blood pressure, cancer etc. Wetin you choose, whether you go give pikin only breast or not.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother53.jpg"
+          }
+        ]
+      }
+    ],
+    "general_health": [
+      {
+        "name": "Wetin Be Colostrums?",
+        "content": "Colostrums na dey first milk wey dey come out Colostrums na dey first milk wey dey come out from the breast after mama born pikin. Na de breast de make em when pikin deey for belle. Colostrums de small but e dey make body strong to fight disease. Ne de breast dey make em long long time before mama born pikin. As e be, when pikin is born, dey breast dey continue to make milk. Colostrums na him dey comot first when dey pikin begin to suck breast.'",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Make My Heart Knock Fastfast For No Just Reason?",
+        "content": "No be serious matter when dey heart dey knock fast fast for no serious reason, e go stop by itself. But e fit show say something dey wrong for inside body. These things fit below cause am:\n a.  Anemia (shortage of blood).\n b.  Damage for heart from hearth sickness.\n  c.Bad heart bress from birth.\n d.Hearth sickness.\n e.Exercise. \n f.  Smoking. \n g. Stress and fear fear. \n h. Fever. \n i. High blood or low blood pressure. \n j. Too much alcohol drinking. \n k. Side effect for drinking too much medicine. \n l. Drinking too much of sugar sugar an soft drinks. \n m. Drug abuse. \n n. Thyroid wey dey over work.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Fear?",
+        "content": "Fear de start ehen a person see danger. Na the natural way, wey our body dey take respond to danger by fighting or running away. Fear dey help us stay away for danger.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Eye Wahala Or Pain?",
+        "content": "Na germs wey enter for eyes dey cause eye problem. The signs na pain, water wey dey comot for eyes, feeling like say something dey for eyes, eyes dey scratch person, eye dey swell small small. Eye dey pepper person and eye dey pain when e see light or fire.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Jaundice For Old People?",
+        "content": "Jaundice na when white eyes and body parts de turn to yellow color. E show say person don get disease for liver, gallbladder, pancreas or blood. Jaundice de start when yama-yama full for body.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Cold For Chest?",
+        "content": "cold for chest dey  start when the lungs and other bodi parts wey de help us breath get germs. E dey plenty for cold weather. E dey satart with cough . the signs na mucus for nose , small small headache , eyes wey de comot water , bad throat, people like pregnant women , people wey dey smoke , old and young people dey easily get cold for chest. People wey their body no fit fight sickness de get cold for chest,and na people wey dey suffer from cancer , asthma, heart diseses e.t.c. you fit prevent cold chest by covering your mouth when you cough or sneeze, wash your hands everytime . no dey use tissues paper everytime. Throw away the tissue when you don use am.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How You Go Treat Cold For Chest?",
+        "content": "You fit treat cold for chest by doing the following things: \n a. Gargle with salt water: Put one table spoon of salt for warm water . mix am well for inside glass cup make the salt dissolve well well .gargle with this kind of mixture for 2 or 3 times everyday. \n b. Breathe in the steam: Put boiling water inside a bucket and put small drops of peppermint oil or eulalyptus essential oil in it . carri towel over your head and put your head closer to the warm water make smoke enter your nose well well .make you wash your bodi with warm water , remember , pregnant women , small children and people  wey get heart diseases or high blood pressure no fit use kind method. \n c.  Use Apple cider vinegar: Apple cider vinegar dey help body fight diseases . put two teaspoon s of apple cider vinegar wey dem filter inside warm water . add one teaspoon of raw honey . drink am at least two or three times everyday for one week.\n d. Use ginger:Take one teaspoon of ginger wey dem don  cut small and put am iniside hot water for cup and cover am. Make de  ginger stay like five minutes . then put small honey inside the cup. Drink three cups of this kind mixture everi day. Or make u grind dry ginger, cloves and black pepper togeda and use am make mixture for drinking. Drink with honey or milk three times every day. \n e. Use turmeric:Take small turmeric powder mix am inside water wey warm. Gargle am for two or three times every day. You fit mix turmeric powder into milk and bowl am. Add two teaspoon of honey and small black pepper. Drink this kind hot mixture three times a days. U fit put apple cider vinegard and turmeric powder togeda, e dey walk wella.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7d.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7e.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Convulsion?",
+        "content": "Na one kind electric shock wey dey disturb brain dey cause am. Chemical water wey dey inside blood, head wound and disease like meningitis fit cause am too. But na fever dey cause am most. Stroke, lack of oxygen for brain, birth problem and brain tumor dey follow cause am. Another thing wey fit ncause am na diabetes because blood fit dey low or blood sugar go dey high. Lack of vitamin B6 for body fit cause convulsion.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Make Persin No Fit Sleep For Night (Insomnia)?",
+        "content": "Insomnia na wen  pesin no fit sleep for night even wen sleep dey hungry am. People wey get this kind problem no dey happy for their sleep and fit see the following signs: tiredness, low power, no fit listen wella, no fit get their self and dem no dey do well for work or school.  Na the following things dey make pesin no fit sleep wella:\n a. No fit sleep. \n b. Tiredness. \n c.  Waking up always for night. \n d. Low power. \n e.  E no fit return to sleep. \n f. E no fit thing well. \n g.  Sleep wey no dey sweet. \n h. E no do well for school or work. \n i.  Many many worry worry.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth9.jpg"
+          }
+        ]
+      },
+      {
+        "name": "HELLP Sickness",
+        "content": "HELLP na the short way to write three bad sickness wey woory persin. E coonect blood level and liver problem.This kind sickness fit kill persin. The signs for HELLP sickness na nausea, vomiting, headache and belle pain. HELLP fit cause wetin we go call preeclampsia. HELLP sickness fit damage other organs for body, therefore e dey good make we quick treat the blood pressure of mama so that she and her pikin go fit survive. For some cases, the pikin fit come out quick.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin De Cause Ear Pain?",
+        "content": "Na ear infection, wound or blow for ear de cause pain for ear. But na ear infection be the  commonest cause. Other things wey fit cause am na: \n a.  Change for ear pressure like when persin dey fly areoplane. \n b. Dirty wey dey inside ear. \n c. Water or shampoo wey dey inside ear. \n d.  Foreign things wey enter ear. \n e. Bad throat. \n f. Cotton wool wey dey inside ear. \n g. Tooth/teeth wahala. \n h. Teeth wey break. \n i.  Eardrum wey dey fold. \n j. Arthristis or pain wee affect jaw.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be Constipation?",
+        "content": "Constipation na when person no fit shit wella. This kind problem or whala no dey serious. Many people dey shit different different ways. Some people fit shit three times in one day , other fit shit few times in a week. The signs says person no dey shit wella are: no dey go toilet always , e dey heard and small , swollen belle or pot belle and shit no dey comot finish as person dey push.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth12.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Constipation?",
+        "content": "Constipation fit happen when you : \n a.  Change the kind food you de eat or change wetin you de do. \n b.  No dey drink plenty water. \n c.  No dey take plenty of chiken products. \n d.  No dey take plenty fibre for food. \n e.  No dey work wella. \n f.  No dey push wen you dey shit. \n g. De use medicine to make you shit. \n h. Dey use anti depression medicine and iron pills. \n i.  Dey use antacid medicine wey get alluminium and calcium. \n j.  No dey eat well a. \n k.  Have bad stomach or belle. \n l.  You get belle. \n m.  You get problems from muscles and digestives system. \n n.  Cancer dey for colon.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth13.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Acne",
+        "content": "Acne na skin disease wey dey come when the sweat or heat no fit comot for body because oil and dead cells don block de space we dem  dey take comot. E dey show for face , upper back. Acne de get whiteheads or black and pimple de also appear for face , teenagers dey carry am wella but e dey worry oder people too. Acne disease no de go quick , but e den go slowly because as one de go , another one de come out. E de go slowly because as one dey go , another one de come out. E de give mark for body.  We fit treat am.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth141516.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Symptoms For Acne",
+        "content": "The signs depends on how e take worry person : \n a. White heads ( closed, blocked space). \n b. Black heads (open blocked space). \n c. Small small reds , painful bumps. \n d. Big big pimples  wey get pus for mouth. \n e. Big , solid and painful lumps wey dey on the skin. \n f. Painful boils wey get pus for mouth.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth141516.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Acne?",
+        "content": "The things wey dey cause am na: \n a. Plenty plenty oil for body. \n b. Bacteria. \n c. Sweat pores wey oil and dead cell don block. \n d.  E get hormone wey we dey work too much.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth141516.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be Pneumonia (Cold For Body)",
+        "content": "Pneumonia or cold for body na one kind lung disease wey dey make person sick. The sign na: cough, fever,the person no fit breathe well well. You fit treat am for home and you go better between 2 to 3 weeks. Old people and babies fit sick well well because of pneumonia. E better make them go hospital. Person fit catch pneumonia every day and anywhere such like school or work place. Also, you fit get am for hospital or nursing home. E dey serious if person don dey sick everyday.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth1718.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Pneumonia",
+        "content": "Na germs dey cause am. E dey start when person breath in germs wey go enter lung. A person wey catch cold dey easily get pneumonia. This disease dey make am hard for the lungs to fight infection or disease. Person wey get sickness like asthma, cancer, hearth disease or diabetes for long fit easily catch Pneumonia.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth1718.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be Signs And Symptoms Of Pneumonia?",
+        "content": "The symptoms dey come quick quick and them be the followings: \n a. Cough with mucus wey fit dey green or mix blood. \n b.  Tiredness or weakness. \n c.  Fever. \n d.  Breathing fast fast and felling shortage of breath. \n e. Shaking mouth and teeth because of cold. \n f.  Hearth wey dey knock fast fast. \n g. Nausea and vomiting. \n h.  Chest pain wey dey worst when a person cough or breathe in. \n  i.  Diarrhea.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth19.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Cure For Pneumonia?",
+        "content": "Your doctor go give you medicine based on wetin dey cause the pneumonia. Make you take all the medicine wey doctor give as he tell you. Make you finish all the medicine wey doctor give you. Pneumonia fit make you dey sick but antibiotics dey help cure the sickness. As you dey take your medicine for pneumonia, make you dey rest well well, drinke plenty water and other soft drinks and sleep well well. Make you no smoke.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth20.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How You Fit Prevent Pneumonia?",
+        "content": "The best way wey we fit prevent am na to take immunization infection. Make we take our children to hospital for immunization wey dey prevent cold. Make you no go near people wey get cold, measles and chicken pox. Wash your hands well well so that germs no go spread.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth21.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How To Wash Hands Well Well",
+        "content": "Hand washing dey help keep our hands and nails clean, so that germs no fit enter our body. If we wash our hands well well, we go fit stay healthy. We fit use these materials to wash our hands well-well. \n a. Clean water wey dey run. \n b   Soap. \n c.  Clean towel/clothe or toilet roll.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth22.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Steps For Washing Hands Well Well",
+        "content": "\n a.  Pair water for your hans. \n b. Rob soap and water for hands until foam commot. \n c. Use one palm to wash another palm. \n d.  Wash back of your finger. \n e. Wash inside finger. \n f. Wash your finger. \n g. Wash your finger nails. \n h. Wash your two wrists. \n i. Dry your hans with towel wey de clean.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth23.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=3PmVJQUCm4E"
+        ]
+      },
+      {
+        "name": "Why Proper Hand Washing Dey Important.",
+        "content": "If you wash your hands well well, you go de healthy and fine. Your hands no fit catch germs. You no go put things wey you no want inside your mouth. E go help you prevent Ebola, and cholera. E de save person and prevent sickness.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth24.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Which Time You Go Wash Hands?",
+        "content": " \n a. When you finish sport or finish playing outside. \n b.  When you finish work. \n c. When you finish sneezing or coughing. \n d. When you shit finish. \n e. When you finish playing with animals. \n f. Before and when you finish cooking. \n g. Before and when you finish eating. \n h.  Before touching and when you finish feeding animals. \n WARNING. \n a.  Make sure you no share one towel with another person. Use clean cloth to dry your hands every time. \n b. When you use tap water finish, use tissue to cover the tap before you lock am. \n c.  Wash your basin well well and keep the place clean. \n d. Cut your nails so that you go fit remove germs quick quick. \n e. If tap water no dey, beg somebody make him pour water for your hands. \n f. Make you no use water wey another person don use wash hands.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth25.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=3PmVJQUCm4E"
+        ]
+      },
+      {
+        "name": "Personal Hygiene",
+        "content": "This means de way wey we go maintain our body clean and dress well well. E dey good for person, health, therefore make papa and mama dey teach their pikin how them go dey clean. Them go teach them by example.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth262728.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How You Go Keep Personal Hygiene",
+        "content": " \n a.  Bath always. \n b.  Dey wash your hands with soap and water when you go toilet, before you eat food and before cooking food (check when you go wahs hands). \n c. Make you and wuna children no walk with shoes. \n d.  Brush your teeth two times everyday. \n e.  Make wuna no allow goat and other animals enter places wey wuna children dey play. \n f.  Make wuna no allow dog lick children fingers or jump for their beds. \n g.  Clean de house well well. \n h. Wash and spray wuna clothes, bed sheets and blanket for dun everyday.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth262728.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=zh7CACofsio"
+        ]
+      },
+      {
+        "name": "Reason Why You Go Maintain Fine Personal Hygiene",
+        "content": " \n a.  E dey reduce the risk of getting infectious sickness. \n b. You no fit get sickness every time. \n c. E dey help you save better money. \n d. E go make get respect and you go fell better. \n e. E go help you make better friends. \n f.  Pikin go dey follow them papa and mama de clean.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth262728.jpg"
+          }
+        ],
+        "video": "https://study.com/academy/lesson/the-importance-of-personal-hygiene.html"
+      },
+      {
+        "name": "Wetin Be Tuberculosis?",
+        "content": "Tuberculosis na germ wey dey pass from one person to another dey cause this kind sickness. E dey pass through air wey dey we de breath. Person wey carry tuberculosis fit pass am to another person when he cough, sneeze, talk, spits, laugh or sing.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth29.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=U2D6LX-92zA"
+        ]
+      },
+      {
+        "name": "Signs And Symptoms Of Tuberculosis.",
+        "content": "The signs and symptoms be: \n a. Cough wey dey stay reach 2 weeks or more. \n b. Tiredness. \n c.  Night heat. \n d. Pain for chest. \n e. Blood dey comot as person dey cough. \n f.  Food no dey hungery am. \n g. Weight loss. \n h.  Fever. \n i.  Cold.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth30.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?time_continue=4&v=DXK_2WBuxb4"
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Dizziness?",
+        "content": "Many many things fit cause dizziness like inner ear disaturbance, infection, wound for ear, poor health. Other thingd wey dey fit cause am na overthinking, low iron for blood, low sugar, hot weather, and no plenty water body.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth31.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be Irregular Menstruation?",
+        "content": "Irregular mensuration fit happen to woman wey de begin see their mensis and women wey dey reach menopause. Any woman wey dey get painful mensuration fit run fo tell doctor.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth32.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin De Cause Irregular Mensuration?",
+        "content": " \n a. Bad thyroid: Na thyroid dey control the hormones wey dey break many things for body. If this thyroid dey bad, e go bring irregular mensuration. We get two types of bad thyroid: thyroid wey dey over work. The signs of thyroid wey no dey work well be weight gain, tiredness, cold and depression. The symptoms of thyroid wey dey over work be weight loss. Think think, swelling in the throat area. Na only doctor fit check de person and give proper medicine. \n b. Polycystic ovary syndrome:  This kind problem dey start when cysts grow for ovaries. This no dey allow the ovaries to comot, so the person go miss her mensuration or period. Sometimes, the woman dey get hair for face. \n c. Cancer: Cancer fit cause irregular mensuration. Irregular mensis fit be say cervical cancer don dey come.If you dey get this kind problem go test for cervical cancer. \n d. Too much weight loss or gain: When the mama de loose or dey add weight quick quick, e fit cause irregular mensis. Run quich go see your doctor and follow talk whether your weight dey good for you. If you dey watch weight, make you dey eat better better food. \n e. Stress: E dey common for mama wey dey get irregular mensis. E be so because stress wey dey high fit cause an imbalance for hormone wey dey inside body.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth33.jpg"
+          }
+        ]
+      },
+      {
+        "name": "The Gains Wey Dey For Child Spacing:",
+        "content": " \n a. People wey don marry fit know wetin dey for child spacing. E dey improve mama health and help communities grow. \n b. E dey prevent risk for pregnant mama. When a woman dey chose whether e go carry belle and when   e go carry am, her health and body dey get better. Child spacing prevent the woman from carrying belle  wey no want. E dey help papa and mama decide how many children dey won born. \n c.  E dey reduce unsafe abortion and risk wey dey for carrying belle. \n d. E dey reduce dealth of pikins, because if dey born them quick quick. Dey fit dey danger of dealth. E dey reduce the erisk of mama dying because of belle problem. \n e. E dey prevent HIV/AIDS because woman wey get am fit give am to baby wey dey belle. Though, using condom dey help prevent HIV/AIDS. \n f. E dey help people choose for themselves how dem go dey born pikin. E dey help woman go to school and find better better work, because then no dey care for ant pikin. Also, the family fit save money to send den pikin to school. \n g. E dey help small small girls no dey carry belle. Small girls wey carry belle fit get health problem. Dem pikin dey small and fit die prematurely. Small girl wey carry belle fit stop to dey go school. The effect of small girls wey stop school dey stay long for family and communities. \n h. E dey help the community not to grow fast fast. Because if community population dey too much, e dey affect economy and the environment.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth34.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Modern Methods For Preventing Carrying Belle:",
+        "content": "a. Combined Oral Contraceptives (COCS) wey be (Pill): This one get two types of hormones.  E dey work by blocking the ovaries fior releasing eggs. E dey prevent belle by 99% if you use am well every time. E dey reduce some cancers like ovarian cancer. \n b.  Progestogen only pills (POPS) wey be minipill: E get one hormone only. E dey make the mucus wey dey cervik thick so that the sperm and egg no fit meet each other. Alos, e no dey also egg come out. E dey prevent belle for 99% if you use am well well every time. Person wey dey give pikin breast fit use am but e go take am the same time every day. \n c.  Emergency pills: This pill na to prevent belle e go reach five days wey you don meet man. E dey delay egg for entering inside womb. A woman wey them rape fit use am. Remember, e no disturb any belle wey don enter already. \n d. Implants: Na small, flexible rods or capsules you fit put inside skin of your upper arm. E get hormone. E dey make the mucus wey dey for cervik thick so that sperm and egg no go fit meet each other inside wombs. E dey prevent belle reach 99%. Doctor fit put for your body. You fit use am for 3 to 5 years but e depend on the implant. E fit make you bleedc but e no dey haem. \n e.  Interuterine device (IUD) wey be copper T or coil: E be like T, them dey put am for womb. This kind thing dey release copper or hormone wey dey prevent belle every day. The hormone dey make the wall of the womb thick so that the sperm and egg no fit jam. E dey prevent belle go reach 99%. If na copper, e fit make mensis flow longer or heavier. If na hormone, e fit stop mensis and mensis wey dey pain. \n f.  Injectable: This one na injections wey woman fit inject for body every month, 2 or 3 months based on the type. If na one month own, e dey make mucus wey dey for vagina or toto thick so that egg and sperm no fit jam womb. But if na 2-3 month own, e dey prevent belle go reach 99%. E fit cause irregular mensis. \n g. Male condom: This one be like rubber wey man dey use cover penis. E no dey allow sperm enter inside toto. E dey prevent belle reach 98% and prevent other diseases wey man fit get for sex. Remember, weram well well anytime you want prick your woman. \n h.  Female condom: This one na rubber wey woman dey put inside toto. E no dey allow sperm go inside. E dey prevent belle reach 90% and e dey prevent other disease wey woman fit carry from sex. \n i.  Male sterilization: This one na to block the tube wey dey carry sperm from the scrotum go reach prick. E dey work by removing the sperm for the fluid wey dey carrying. E dey effect for 3 months wey the man don release sperm reach 99%. E no dey effect the man power of the man. Remember, since the man wey they don sterilize no go pregnant woman again for him life, e go better make him know everything wey dey for the matter before him go make decision. \n j.  Female sterilization: This one na to cut off or block the tube wey dey carry egg go inside womb. E de block the egg so that e no go meet the sperm. E dey prevent belle reach 99%. E no dey affect woman power for sex. Remember, since she no go fit change am if she don do am, and she no go fit born pikin again for life, e go better make she know everything about the matter before she decide for herself.",
+        "video": [
+          "https://www.youtube.com/watch?v=uaICnx0BfZQ"
+        ],
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "Traditional Method For Preventing Belle",
+        "content": "\n a. Only breast feeding method: this one na temporary natural way wey woman just born pikin fit prevent carrying another belle and the mensis never de comot. E dey the work as the mama dey breastfeed them pikin day and night annnd nooo dey give another food. E no dey allow the egg to enter the womb. E dey prevent belle reach 99% if you do am well continuously. Remember, e no dey work for every woman because it depends on wetin you get grom your generation. \n b. Calendar method: This one na to use calendar check the days when the woman fit carry belle. E dey prevent belle go reach 91%. The day wey woman mensis comot is day 1. You go count am to day 12 when mensis finish go reach day 16. The day 12 reach dey 16 when mensis finish, na the day we woman fit carry belle. If she no protect herself during sex. This one show say na only   five days woman fit carry belle each month. How we come get this five days be say na the woman egg go enter her womb on the 14th day after mensis. The egg weey enter belle fit live for 2 days ahead, so she fit carry belle after 2 days when the egg don enter her womb. So, if you add 2 days to the 14th day, you go reach 16th day. Also, man sperm fit live for 2 days inside the womb before the egg go enter. This one show say  na woman fit carryb belle 2 days before her egg go enter womb if she no protect herself during sex. Remember, no be to check ther date for calendar be de koko, but to know your ovulation day. For example, say your mensis begin on Monday july 23, 2018. You go count that Monday as day 1, and you go count am go reach day 16 wey be Tuesday August 6, 2018. So, from Friday August 3 reach Tuesday August 6 2018, you go protect yourself if you no want carry belle. Remember say this calculation na for every woman whether your mensis period be 25 days or 32 days. But e no de work well with woman wey get irregular mensis. \n c. Removal method: For this method, the man go release him sperm outside the troto. E dey prevent fertilization reach 96%. Remember, e no dey easy for the man to know when easy for the man to know how sperm don enter penis, so e fit release inside toto.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth36.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mouth Odour And Care:",
+        "content": "A person wey no dey clean for mouth fit get mouth odur. E dey show say person don carry disease. Na to wash mouth and body fit solve this wohala. If you get mouth odor, run go meet your doctor to know wetin dey cause am. E get different different types of mouth odor dependly on wetin dey cause am. If you want know whether you get am, ask your family memneror friend to check am for you. Or you fit lick your hand, leave am to dry and then smell am.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth37.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Treatment Of Mouth Odor:",
+        "content": "The only way to treat mouth odor better na to wash your mouth and keep your body clean. Good mouth cleanliness na to: \n a. Brush your teeth two times every day. \n b. Comot small small things wey dey for your mouth. \n c. Make you change your brush every three months. \n d. Use toothpaste wey get fluorine and antibacterial property. \n e. Go meet doctor wey dey cure teeth wahala and clean your teeth two times in one year. E go help you avoid tooth decay or rotten. \n f. Avoid dry mouth, drink plenty water. Avoid alcohol and tobacco because e fit dry your mouth. Lick or chew gum wey plenty sugar no dey. E go help your mouth produce saliva or you fit go meet doctor wey go give you medicine for saliva to come out. \n g. Brush your tongue: Germs, food and dead body cell pack for tongue especially for those wey dey smoke and have dry mouth. Use tongue seraper if you need am. \n h. Food: Eat morning foods wey get rough food wey go help clean the back of the tongue. No chop onions, garlic, and sugar sugar foods. Sugar food dey cause bad breath. No dey drink too much coffee and alcohol.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth38.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Some Common Causes Of Mouth Odor:",
+        "content": " \n a. Tobacco: Tobacco products dey cause mouth odor. E fit make our gum get disease wey dey cause bad breath. \n b. Food: Food particles wey dey pack for mouth fit cause mouth odor. Food like onions and garlic fit cause abd breath. E dey so, because they no fit digest well. Their break down dey enter for blood and lungs and effect breathing. \n c. Dry mouth: Na de saliva dey clean the mouth naturally. If mouth dey dry, mouith odor fit start. \n d. Teeth cleanliness: Brush and comot small small particles of food wey fit pack for mouth and cause mouth odor. Plague fit form for mouth if you no dey brush always. The plague fit swell the gum. If you no clean the openings for mouth always, e fit hide germs and cause halitosis. \n e. Crash food: Fasting and chopping food wey get low carbonhydrates fit increase mouth odor. Na so because the body go dey breakdown fasts. E dey produce strong chemical wey fit make bad aroma. \n f. Drug: Some drugs dey reduce saliva and fit cause mouth odor. Other medicines dey produce odor as them dey digest and put chemical for breath. People wey dey take plenty vitamins supplements fit get bad mouth odor. \n g. Mouth, nose and throat infections: For sometimes, germs covered by stones fit form for the tonsils for back of the throat fit cause odor. Infection or swollen for nose, throat fit cause mouth odor. \n h. Foreign body: Bad odor fit be caused by other things wey fit enter the body through nose. E dey common for pikin them.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth39.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be Toilet Infection:",
+        "content": "The better better name for toilet infection na toto infection. Signs and symptoms of toto infection na swelling of the toto, bad odor, krokro, irritation, discharge of mucus (either whitish, or yellowish) and pain for body. E get different different kinds of toto infection wey include: \n a. Gonorrhea, Chlamydia, toto yeast infection, bacteria infection. The signs na almost same, so e better go for test for lab to now the particular disease.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth40-41.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Symptoms Of Toilet Infection: Bacteria Vaginosis (BV)",
+        "content": "Non- infectious Vaginitis \n Sometimes e get symptoms for toto wey no be infection dey cause am. The symptoms na, Krokro, water dey commot for toto, de person go dey feel hot. Menopause or comoting ovary fit cause am. Foreign foreign product wey bodi no gree collect fit cause am.Them be: \n a. Soap/detergents. \n b.  Toto sprays. \n c.  Spermicide/medicine wey dey kill sperm. \n d. Pant liners. \n e.  Soap wey get perfume. \n f. Fabric softeners. \n g.  Small small things wey remain for toto.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth40-41.jpg"
+          }
+        ]
+      },
+      {
+        "name": "What You Fit Do At Home To Cure Vaginal Infections: ",
+        "content": "Bateria Vaginal (BV). The normal treatment for this disease (BV) na to take antibiotics. E dey good to take flagyl. Other things wey you fit do at home to treat bacteria vaginosis be; \n a. Garlic: Comot the skin of garlic and put am inside toto, leave am them there reach overnight. You fit do am once everyday until the sickness you. \n b. Apple Citer  Vinegar: This one na another nature cure for tto infection. Mix one tablespoon of Apple cider vingar with two cups of water, and put fresh garlic clove. Leave am for sometime so that the garlic go fit dissolve inside the solution before you begin use am to wash toto. \n c. Vaginal yeast infection: Toto pomade dey very good for the cure of small small toto yeast infection. If na big one, you fit swallow vaginal clotrimozole and fluconazole as the doctor wey sabi tell you. No dey wash toto because e fit make the disease enter womb or cervix. Abeg, no dey wash toto if you get toto yeast infection because e dey make disease spread enter cervix.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth4243.png"
+          }
+        ]
+      },
+      {
+        "name": "How You Fit Treat Yeast Infection For Home",
+        "content": " \n a. Yogurt: Put tampon for inside yogurt and put am for toto. You fit do am two times every day  until the infection go. \n b. Garlic: Comot the skin of garlic and put am inside your toto, leave am gor reach overnight. Do am everynight until the infection don go. E dey help cure yeast infection for home. \n c.  Tea tree oil: Tea tree oil dey help cure signs of krokro and body seratching wey yeast infection de cause. Pour small oil of tea tree for tampon and put am inside toto.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth4243.png"
+          }
+        ]
+      },
+      {
+        "name": "How U Fit Prevent Vaginal Infection (Toilet Disease)",
+        "content": " \n a. Dey keep yourself clean and dry every time. \n b. No dey use toto sprays or soap wey get big big perfume for toto. \n c. Make sure say germs from bombom no enter your toto at you de clean am. \n d. No dey wear tight clothes wey no dey allow heat comot for body for example nylon underwear, tight jeans and partyhose wey no get cotton. \n e. if you want have sex, use condom e dey prevent disease wey fit come from sex. \n f. Dey eat yoghurt well well. \n g. No use pads wey get perfume. \n h. No use or wear dirty clothes. \n i. Go check  up every year.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "The Causes of Krokro After Bathing, Prevention Cure.",
+        "content": "Krokro na dey way the body the tell us say e no like wetin dey for am. E dey natural to comot anything wey fit damage body. E fit be water, temperature touch body and toilet papers.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth45and46.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Those Things Wey Fit Cause Krokro After Bathing",
+        "content": " \n a. Water: Water fit scratch body if remain for long time if remain for longtime after bathing. Bathing for long fit cause am or the person no dry body completely whom he bath finish. \n b. Temperature: If na tempturature dey cause am, dey  the doctor wey sabi fit check am. Water used for bathing fit scratch body or fit burn the skin or cause pain and for body. If na big krokro, e fit damage the skin.  Abeg no use hot water e go worse the situation. \n c. Toiletries: Toiletries like toothpaste, soap and shampoo fit scratch body if e touch am. If you dey brush while bathing. E fit touch other part of the bodi and cause krokro. If you no commot am, e go scratch your body. \n d. Srubbing: if you dey use hard sponge scrub body while bathing, e fit cause krokro. \n e. Hypersensivity: If you get skin wey dey reject many many thingd, if yiu scrub am or  use bad water touch am, e fit cause krokro. \n f. Infections: many many small small germs wey dey live inside water fit cause krokro while the person dey bath.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth45and46.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How You Fit Prevent Krokro For Skin",
+        "content": "a. Use mild soap and shampoo: Dey use normal soap or pikin soap. No dey use antiseptic soap. Make sure say you commot all the soap and shampoo wey you take bath body. Dry your body quick quick after bathing. \n b. Use warm water to bath for short time: No dey bath long time with hot water. \n c. Scrub the body small small when you dey bath, no dey scrub the body hard while bathing. Remember, all dead cells go commot by themselves. \n d. Dry the skin well well after bathing: Make sure say you use dry towel to clean your body after bathing. Allow breeze to dry your body before you go wear clothe. \n e. Rob pomade for dry skin after bathing: Make sure your skin dry well well before you rub cream. No dey use pomade wey get scent if your bodi dey reject many many things.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth47.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How You Fit Stop Skin Scratching",
+        "content": " \n a. Always bath with clean water for short time: Use your hands to rub your body. No dey use hard sponge or other rough rough object to scrub the skin. Dry your skin well well after bath. \n b. Use air dry well well: if you get electric fan, or air conditioner, use am to cool down before you go wear clothes. No use fan or air conditioner if the weather dey cool. \n c. Rub petroleum jelly (vaseline) on the afftected area: No use cream wey get water  until scratching go.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be High Blood Pressure",
+        "content": "High blood pressure or hypertension na when a person blood pressure go higher than 140/90min Hg. This condition na serious one for woman wey get belle. High blood pressure no dey always serious for pregnant woman, but e fit cause dangerous health problem for mama and her pikin. According to people wey dey study about disease control and prevention, they talk say na plenty woman wey carry belle for America get high blood pressure.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth49.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Dey Cause Heart Attacks?",
+        "content": "Heart attack dey start when blood no dey enter heart again. Big big fats fit block the road wey dey enter heart. When blood no dey enter heart, e fit damage, destroy many many heart muscle.The things wey fit cause heart attack are: \n  a.  Smoking. \n b.  High cholesterol level. \n c. Diabetes. \n d. Stress. \n e. High blood pressure. \n f.  Too much fat inactive lifestyle. \n g.  Eating plenty fruits and vegetable.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606553/general_health/GenralHealth50.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be Birth Asphyxia?",
+        "content": "Asphyxia na lack of oxygen for body. Birth asphyxia dey start when pikin brain and other body organs no fit get enough oxygrn before, during or after birth. No body fit know say this kind thing dey happen. If oxygen no dey cells no fit work wekk. Dirty products (acids) fit say for cells and damage am.The level of damage wey this birth asphyxia fit cause depends on: \n a. How long the body no get plenty air and oxygen. \n b. How low the oxygen dey. \n c. How quick they run give am treatment.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth51.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Symptoms For Birth Asphyxia",
+        "content": "Symptoms for bith asphyxia for the time of birth na: \n a. No breathing or breathing dey weak. \n b. Skin color dey blue, gray or lighter than normal. \n c. Low heart rate. \n d. Poor muscle tone. \n e. Weak reflexes. \n f. Acid dey too much for blood. \n g. Birth water don mix with shit. \n h. E get seizures.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth52and53.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How You Fit Treat Asphyxia",
+        "content": "If your pikin get small asphyxia for birth, doctor fit put machine for am wey go help am breathe and he go remove am when the pikin fit breathe on him own. \n a. Breathing machine. \n b. Respiratory therapy. \n c. Fluid/water. \n d. Medicine wey go prevent seizure. \n e. Doctor go use intravenous method to give the pikin food.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth52and53.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be HIV/AIDS?",
+        "content": "HIV na Human Immunedeficiency Virus na germs wey dey kill all the things wey dey help the body fight disease. HIV dey weak the body go reach the extent that the person go de sick sick every time. The higher level for HIV Infection na (AIDS) Aquired Immunodeficiency Syndrome. E fit take from 2 to 15 years for person wey carry HIV to develop to AIDS. A person wey carry AIDS fit get some career, infection plus other bad health problems. The symptoms of HIV dey depend on the level if infection. The first signs for the infection na fever, headache, bad throat and krokro. Sometimes, the person no fit show any sign. But as the infection dey continue, the person fit dey show signs like diarrhea, weight loss, and cough. If e no treat  quick quick, he or she fit get Tuberculosis, meningitis, bad bacteria infections and cancer. A person wey carry HIV/AIDS fit give am another person wey no carry am through infected body fluid, blood, breast milk, sperm, vaginal secretions, using one sharp object and body transplant. A person no fit carry HIV/AIDS through ordinary daily kissing, hugging, hand shaking, sharing food, clothes and water. If you want to prevent HIV/AIDS: \n a. No dey share sharp object with anybody. \n b. No have sex with another person other than your patner. Dey faithful to your partner. Use condom if you want to have sex. Make unna go for HIV/AIDS test or check up.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth54.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be Cancer? ",
+        "content": "Cancer na abnormal growth for body. E dey grow fast reach other body organs. Cancer na the general name for this disease, and e fit affect any part of the body. You fit carry am for lung, breast, skin, stomach and prostrate. The things wey fit cause cancer na roofing sheet, tobacco smoke, smoke from wood and charcoal, infections from germs, bleaching cream, some chemicals and old age.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth55.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be Cholera?",
+        "content": "Cholera na serious diarrhea infection wey fit get by eating and drinking food and water wey disease or germs don touch. A person wey get cholera go dey shit water water shit. The water water sheet dey start from 12 hours to 5 days after the person don eat food or drink water wey germs don touch. Cholera fit kill person quick quick if you no treat am urgently.For prevention of cholera make sure say you cover your food and water so that flies and germs no fit touch am, wash your hands always when you shit or touch pickin shit, make sure say you wash your hands before you chop and keep your surroundings clean.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth56.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin Be Ebola?",
+        "content": "Ebola na disease wey wirus dey cause. When a person get ebola, the sign dey start to show from 2 reach 21 days after e don carry am. The first signs for ebola disease na quick fever, tiredness, muscle pain, headache, bad throat etc. other signs na vomiting, shit shit, krokro, kidney problem and liver wahala. The person fit also get inside and outside bleeding say blood dey comot from gum and shit. A person fit get Ebola disease if him touch blood, organs and bloody fluids of other animals wey don carry am already like monkey, chimpanzees, antilope, gorillas, fruit bats, sick or dead porcupines for forest. Also, person fit carry ebola for him touch dead animal or man pikin wey ebola don kill. This one also fit spread Ebola.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth57.jpg"
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "name": "Wetin fit make krokro dey blokos(private parts)?",
+        "content": "Wetin dey cos an pass na to catch afect from germ ,krokro for blokos dey happen sontins sake of water person dey drink plus say air nor gree enter under ,cloths wey too tight or too thick for too long self fit cos am ,krokro for area self fit dey cos of say body dey para untop wetin chop or say person catch am untop sex levels(sex).",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin be sifilis (syphilis)?",
+        "content": "Sifilis wey in street name na shaking na in dey enter body more from sex ,the affect dey get unjore for blokos area ,yanch mouth or for mouth ,shaking dey spread from person to person if you touch the unjor. Different type of shaking na in dey but the general one dey still build flat for body even after the unjor comot ,shaking fit dey cured early ,but if you nor use melecin ,e fit brake brain ,heart plus plenty ogbonge part of body ,shaking fit do pikins wey we never born self from in mama ,many pikins wey catch am nor dey get showcase (symptoms )but some dey get ,the showcase fit be block ear ,make teeth nor line up or make nose nor straight ,plenty things na in dey give person shaking and na make person get many sex people ,man wey dey sex man ,make perso dey sex without socks(condom)plus to get HIV.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Sickness from Sex (STD).",
+        "content": "Sickness from sex  (STDs) na de sickness wey person dey catch from another person from sex , de sicknes dey different and dem plenty pass 20 wey dey. \n a. Chlamydia. \n b. Germital herpes. \n c. Gonorrhea. \n d. HIV/AIDS. \n e. HPV. \n f. Syphilis. \n g. Trichomoniasis. \n Many sickness from sex (STDs）dey enter woman plus man join put but the egbe e dey cos plenty for woman side pass and if woman get belle e dey affect the pikins too.  Atibiotics fit kill de sickness wey na bacteria ,yeast or miswaka insects (parasite) dey cos but no kill dey for afect wey na virus dey cos oo ,but melecin fit helep untop make person nor feel am much plus to put pause untop am.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex3.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=TRGZcNMR24o"
+        ]
+      },
+      {
+        "name": "Sex untop belle fit wound pikin?",
+        "content": "Na lie ,sex inside belle nor fit wound pikin ,the placenta plus belle mosul dey bodygaurd the pikin plus say one thick canopy dey the belle doormouth wey nor dey allow afect for the pikin ,man blokos self nor fit enter the belle reach were pikin dey.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex4and11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "To sex fit make quick labor show?",
+        "content": "Na lie ,to sex for belle time nor fit cos quick labor oo ,make blokos hard or make satisfy come from sex nor fit make quick labor come or make person loose belle ,even as satisfy dey cos small contraption ,e nor dey gbege belle.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Sex fit nor be normal now wey i get belle?",
+        "content": "YES ,sex fit change wey belle enter ,your want for belle fit more or make e less and e fit sweet u pass before ,dis na sake of say plenty blood dey enter blokos sides wey dey make am swell and sontimes e nor dey sweet sake of say you nor like how the change dey be sontimes ,the bress dey swell come make to touch dey sweet you or make you nor like am at all.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Sex styles for wen woman carry belle",
+        "content": "To enjoy sex for belle time dey possible based on logistics just let ur partner know if e nor sweet you or if e dey pain you.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7a.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7_2.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7s.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7j.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex72.png"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=dEWcJIELHGU"
+        ]
+      },
+      {
+        "name": "E normal make i nor like sex inside belle?",
+        "content": "E normal ,but nor give up ,e fit comeback for the second trimester plus make u nor worry untop ur body plus baby ",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "To put mouth for blokos good for wen woman carry belle?",
+        "content": "To do dis one fit nor good untop conditions oo,no allow man blow breeze inside your toto. Dis fit cos ballon inside blood circular,even as dis no dey happen all the time e still fit nor safe for you and the pikin. Plus say to dey lick man for blokos if you get sickness from sex nor good and e fit afect your pikin. Ask ur doctor for more informate.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex9.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=_mPyYNJgEj4"
+        ]
+      },
+      {
+        "name": "How i fit protect myself from sickness from sex?",
+        "content": "You fit get sicknesss froms sex if you get pasa one sex partner or if your partner get more than you. To protect yaself: \n a. Get only one sex partner. \n b. wear socks (condom all the time you wan sex . \n c. Plus wear the socks wella.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Which one be the best sex style when i get belle?",
+        "content": "The best sex style na the one wey nor dey pain you. To know more ,check sex styles wen woman carry belle.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex4and11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin be the signs wey fit make me enter doctor side during belle time?",
+        "content": "Any time you feel anything wey nor normal ,enter doctor side sharperly, E normal make you feel say things tight inside you after sex or during sex ,but if e no comedown after sometimes or if u sight blood after sex ,go see doctor.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex12.jpg"
+          }
+        ]
+      }
+    ],
+    "sibiling": [
+      {
+        "name": "Some pikin skin wahala:",
+        "content": "Wetin de cause am and symptoms. Na germs, allergies, heat and wet nappy dey cause pikin skin wahala. Most skin wahala no dey stay long. Common pikin skin wahala na: \n a. Heat rash: another name for heat rash na prickly heat. Na sweat wey no dry and remain for skin dey cause am. E dey small, red and get pointed bumps. E dey common for countries wey get plenty hot and rain weather plenty sweat for hot weather, high fever, wearing pikin thick cloth, wearing pikin cloth wey allow sweat to comot and rubbing pikin creams wey block chance wey sweat dey take comot for body dey cause heat rash. \n b. The nappy rash: nappy rash dey common for pikin wey dey 2-12 months old. This one dey be like red rash wey dey for areas for body wey nappy de cover. Na peece, shit, dirty nappy, wet nappy and infections from germs de cause am. If you tie pikin fabric, e fit cause am too. \n c. Cradle cap: this one na pink or red patches for scalp. Sometimes e dey affect the armpit and neck, and na white flakes or yellow scales fit cover am. Na bacteria infection, bad oil production for oil gland and hair follicles de cause am. \n d. Eczema: them be rashes of red , itching, rough and dry skin. E fit dey for chick and legs of pikin and children and adult fit get am. We no know wetin de cause eczema, but many factor fit dey contribute. Them be high temperature, viral infection, dust for house, insect, detergent wey body no want, soaps and pomade.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1a.jpgg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1d.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit treat, prevent pikin skin wahala:",
+        "content": "wear your pikin light cloth depending on weather, no wear pikin thick nappy for hot weather. No use strong soap for body especially antiseptic pikin soap and no dye pikin cloth. Make you reduce the time wey you dey use bath pikin for 5 minutes go reach 10 minutes. Make you use light cream like Vaseline rub pikin body. \n a.  Treatment for heat rash: no use thick nappy. Make you keep room cool. Wear pikin light cloth. No use thick body pomade. Make use pomade wey dey cure heat rash rub pikin. \n b. Treatment for nappy rash: make you change baby nappy always. Make you use cool water wash pikin yash when you change  diaper and rub Vaseline for him bomb om. Use cream wey doctor talk for this kind treatment. \n c. Treatment for cradle cap: make you put olive oil for pikin head for one hour before you go bath am. E go make the krokro soft before you bath am. Make you use medicated champoo bath pikin head. Use pomade wey doctor talk say go cure cradle cap. \n d. Treatment for eczema: bath pikin with warm water and mild soap. No rub pikin any pomade when you dey dry him body. Leave am make e dry. Make you rub body pomade every day for prevention of eczema. Use pomade wey doctor talk.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause fever and high temperature for pikin them?",
+        "content": "The temperature wey dey normal for pikin na 36.5oc – 38oc. Fever don come when pikin body temperature dey high pass 38oc. Fever no be sickness but na sign say sickness don come. Fever na natural way wey the body dey fight diseases. Many many things fit cause fever for pikin and the fever fit stay for small time. Sometime, fever fit stay longer for body and sign say serious sickness don come. Na infection na the main thing wey dey cause fever for pikin them.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Symptoms of fever:",
+        "content": "For every day, body  temperature dey go up and down. E fit dey high for afternoon and evening and e fit dey lower for morning. Fever fit come slow slow and go up quick quick or group within few days.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause fever?",
+        "content": "\n a. Virus: virus dey cause infection like cold, upper respiratory tract infection, and chicken pox. \n Bacteria: bacteria dey cause infection like ear and throat infection, meningitis, urinary tract infection, pneumonia, sore throat and blood infections. \n Allergic reactions: e fit be reactions to drugs, vaccines, pollens, and other air pollutants de cause am.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "When you fit see doctor for your pikin fever and high temperature?",
+        "content": "a. If pikin wey dey 3 months or less get fever, run  go meet doctor quick quick because you no fit know whether na serious sickness dey cause the fever or not. \n b. If pikin wey dey 3- 12 months get fever run go meet doctor quick quick because serious sickness fit dey cause the fever. \n c. If pikin wey don pass 12 months old get fever. Run quick go meet doctor if you see this signs: \n 1. Difficult for breathing. \n 2. Drowsiness. \n 3. Vomiting wey no stop or shit shit. \n 4. Serious headache, neck dey stiff and light dey peper pikin for eyes. \n 5. Pikin dey more sick than before, dey thin, de weak and restless. \n 6. No dey drink water and no dey peece like before. \n 7. Body dey pain am. \n 8. No fit get well after 48 hours. \n 9. If many many other things dey worry you.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Sibling6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you fit treat fever",
+        "content": "Make you give the pikin plenty water so that water no go finish for him body. If the pikin no dey drink water, a beg tell doctor.  Do these things so that pikin go recover. \n a. Wear the pikin light cloths. \n b. No use fan. \n c. Give the pikin plenty breastmilk. \n d. If the pikin don dey chop other foods, give am normal food small small. \n e. If the pikin don old pass 6 months continue dey give am breast milk and other food. Give am water make e drink. \n f. Give am paracetamol and other medicine as doctor take tell you. No give am over dose because e fit damage liver.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Sibilings7.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=HsRBsNp_cNw"
+        ]
+      }
+    ],
+    "spouse": [
+      {
+        "name": "Wetin dey caused lack of ejaculation",
+        "content": "lack of ejaculation dey start when the man sperm dey enter bladder instead of tip of penis. Wetin dey cause am na diabetes, injury for the spine, operation for prostrate, urethra, and bladder.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse1and2.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=h6xBne6GBd0"
+        ]
+      },
+      {
+        "name": "Wetin be erection wahala?",
+        "content": " Erection wahala na when man penis no fit stand strong and long for him to have sex. Na impotence dey cause am . e fit start for any age, but e dey common for old men and people wey get health wahala. Sometimes, man pikin fit get small erection wahala, but e dey normal.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse1and2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin dey cause erection wahala?",
+        "content": "Many things dey cause erection wahala, dem be: \n a. Drinking plenty alcohol and smoking. \n b. Other health wahala, like diabetes, high blood pressure, over thinking and depression. \n c. Stress. \n d. Side effects of some medicine. \n e. Physical wahala, like injury for nerves or blood no run go reach penis. \n f. Operations way include prostate cancer operation.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wetin be the symptoms",
+        "content": "The only symptom na when man no fit get an erection and e no fit keep him penis long for him to have sex. Any man wey get this kind wahala go still dey feel sex, get or reach orgasm and fit ejaculate.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "How you go check or test erection wahala?",
+        "content": "The doctor go ask the man plenty question about him health and him go do test for am. The doctor go ask am how many times the wahala dey happen. Then, the doctor go do lab test for am and fit test him brain. All the test go help the doctor know wetin dey cause the erection wahala.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Sposue5.png"
+          }
+        ]
+      },
+      {
+        "name": "How you fit treat erection wahala?",
+        "content": "Many things dey involve for this kind treatment. The treatment go include:- \n a. You go avoid tobacco, drugs and reduce alcohol wey you dey drink. \n b. You go know and stop drinking all the medicines wey dey cause this wahala. \n c. You talk about this wahala with your wife.\n d. You go do exercise and take advice. \n e. You fit do operation for penis and drink medicine.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Can my belle affect my partner’s interest for sex?",
+        "content": "True, your pregnancy fit touch him interest for sex. Pregnancy fit make you look fine and good to him and him go feel to get sex with you. E fit be true say your pregnancy dey worry am and him fit dey think about the load wey him go carry as papa. This one fit make no go need sex. Make una talk wetin dey worry both of una, e go help una relax and enjoy one another as papa and mama.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse7.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
+
