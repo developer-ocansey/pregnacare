@@ -1,6 +1,10 @@
 {
   "Home": {
     "title": "Pregnacare",
+    "back": "back",
+    "footer_menu_home": "Home",
+    "footer_menu_about": "About",
+    "footer_menu_settings": "Settings",
     "bullets_p_1": "Pikin",
     "bullets_p_2": "Breastfeeding",
     "bullets_p_3": "Common complaints",

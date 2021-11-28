@@ -1,6 +1,10 @@
 {
   "Home": {
     "title": "Pregnacare",
+    "back": "back",
+    "footer_menu_home": "Home",
+    "footer_menu_about": "About",
+    "footer_menu_settings": "Settings",
     "bullets_p_1": "Baby",
     "bullets_p_2": "Breastfeeding",
     "bullets_p_3": "Common complaints",
@@ -50,7 +54,7 @@
   "About": {
     "title": "About Pregnacare",
     "sub_title": "About Pregnacare App",
-    "about_content": "Pregnacare App is a simple, easy to use and handy tool which provides access to accurate maternal and child health education while removing socio-cultural and environmental barriers in the language best understood by the people.\nThe Sweet Mother App is evidence-based. It is based on research among vulnerable pregnant and nursing mothers in hard to reach communities in a part of Nigeria.\nThe aim of the Sweet Mother App is to\nProvide easy access to health information\nReduce the knowledge gap of mothers\nProvide easy access to Life-skills in an emergency situation.\nReduce harmful cultural beliefs and practices\nIncrease home remedy skills.\nSweet Mother App is dedicated to the memory of Dr. Richard Bradley Sack was a member of Child Health Foundation USA. Dr Bradley Sack was a Professor of Johns Hopkins Bloomberg School of Public Health. He worked on combating infectious diseases, notably diarrheal diseases including cholera. He helped to prevent millions of around the world, particularly among infants and young children.\nBorn 1935 Died Monday, April 24, 2017, at age 81 years.\n"
+    "about_content": "about"
   },
   "Collect_Information": {
     "title": "Your Profile"
