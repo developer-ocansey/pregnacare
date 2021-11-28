@@ -1,0 +1,1787 @@
+{
+  "Home": {
+    "title": "Pregnacare ",
+    "bullets_p_1": "nwa",
+    "bullets_p_2": "Ịzụ nwa",
+    "bullets_p_3": "mkpesa niile",
+    "bullets_p_4": "Ole Nri ekwesiri inye nwa n’aju ara",
+    "bullets_p_5": "Umuaka",
+    "bullets_p_6": "Nlekọta",
+    "bullets_p_7": "mkpesa niile",
+    "bullets_p_8": "Nne",
+    "bullets_p_9": "Nlekọta",
+    "bullets_p_10": "Mkpesa niile",
+    "bullets_p_11": "Nwunye",
+    "bullets_p_12": "mmekọrịta",
+    "bullets_p_13": "Ndụ ezinụlọ",
+    "bullets_p_14": "Mmekọahụ",
+    "bullets_p_15": "Ụdị",
+    "bullets_p_16": "Mkpesa niile",
+    "bullets_p_17": "Ahuike oha nule",
+    "bullets_p_18": "Anya",
+    "bullets_p_19": "Imi",
+    "bullets_p_20": "Nti",
+    "bullets_p_21": "Eze´"
+  },
+  "Videos": {
+    "title": "Video osisi",
+    "link0": "lee",
+    "link1": "Otu esi ekwu okwu gbasara inwe mmekọahụ nwere ike ịkwụsị Teodora Elvira Wi | TEDxMonteCarlo",
+    "link2": "Ọnọdụ mmekọahụ n'oge ime ime",
+    "link3": "Jụọ Dr. Lisa Oral Sex During Pregnancy Medical Course",
+    "link4": "Kedu Esi Na-eme Esi? Ndị nne na nna",
+    "link5": "Echiche kọwara",
+    "link6": "Ihe banyere Ahụike: Ọrịa ịba na afọ ime",
+    "link7": "Ụmụaka na-enye aka: Ahụhụ",
+    "link8": "Kedu ka m ga-esi lekọta ụdọ eriri ụdọ?",
+    "link9": "7 Ihe ngosi nke nwa gi bu ihe",
+    "link10": "Usoro iheomume nwa gị",
+    "link11": "WHO: Mgbochi ọrịa niile n'oge ndụ - Mgbochi Ụwa Mgbochi 2016",
+    "link12": "Ihe na-akpata Erectile ED na-enyocha na nyocha Andrology Australia",
+    "link13": "WHO: Otu esi eji aka? Na ncha na mmiri",
+    "link14": "Mfe Omume nke Onwe",
+    "link15": "5 Amare anya nke Ụkwara nta",
+    "link16": "Mgbaàmà TB Mgbagharị",
+    "link17": "Nkwekọrịta - ihe mmalite"
+  },
+  "Images": {
+    "title": "Foto osisi"
+  },
+  "About": {
+    "title": "Banyere",
+    "sub_title": "Banyere Pregnacare",
+    "about_content": "loremipsum"
+  },
+  "Collect_Information": {
+    "title": "Profaịlụ gị"
+  },
+  "Settings": {
+    "title": "Ntọala",
+    "list_1": "Banyere",
+    "list_2": "onyinye na Inquires",
+    "list_3": "Nkọwa Ngwa"
+  },
+  "Content": {
+    "baby": [
+      {
+        "name": "Gini mere umuaka ji agbo agboo?",
+        "content": "Isi ihe mere umu amuru ohuru ji agboo agboo izu ole n’ole mgbe amusiri ha bu n a ikuku n’abanye n’ara ha nuru mgbe ha biri ubiri.\nIhe ozo bu n’ akwara ndi di n’ afo ha esibeghi ike. Nye ndi okenye, akwara ndi a n’emepe ka nri banye ma mechiekwa ngwa ngwa nri banyeresiri. Nani obere iku ume puru ime ka nke nwa ohuru mepee, mgbe ahu mmiri ara ha nuru puru iputa.\nIhe ozo bu imado nwa ohuru n’azu ma-obu n’apata ukwu ogologo oge\nIhe ozo n’akpata ya bu inye nwa ohuru oke nri. Mgbe afo nwa ohuru juru, o ga – agbopu ufodu n’ime nri oriri.\nKa nwa ohuru n’eru onwa isi rue otu afo igboo ihe ga-eji nwayoo nwayoo n’ebelata.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu a puru isi belata ahu oku nwa ohuru.",
+        "content": "(a) Nye ya ogwu dokita si gi nye ya.(b) Kporo ya ga ulogwu, ma nye ya ogwu dika dokita si tuzie aka.\n(c) Nye mmiri di nari-nari esiri n’oku. Jiri mmri di ‘nari-‘nari esiri n’oku saa ya ahu.Nke a ga-eme ka ahu juo ya oyi ngwa ngwa. Biko ejila mmiri oyi saa nwa ohuru ahu ma obu nye ya ka onuo, nkea puru ime ka oyi tuo ya.\n(d) Nye ya ihe onunu ndi ozo, iji mee ka ahu ya juo oyi site n’ime.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby2.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=HsRBsNp_cNw"
+        ]
+      },
+      {
+        "name": "Gini mere afo ji egbu umuaka ngbu?",
+        "content": "Ihe n’akpata afo igbu nwa ohuru ngbu bu iri oke nri ma o bu obere nri, ikuku ibanye n’ “Intestine” ha, ma o bu oria n’efe efe. Ngwa ngwaa ichoputara nka, gaa hu dokita. Afo ngbu oge nile puru ibu n’ihi ejeghi mpochi nke oma, oria kolon ma o bu oria uzari mmamiri,",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini mere umuaka ji enwe ahu oku mgbe ha n’amalite ipu eze?",
+        "content": "Ahu erughi ala na ahu oku bu ihe ana-ahukari mgbe nwa ohuru n’amalite ipuputa eze. Oburu n’ otutu iju oyi n’ikpo oku ahu akaria 1010C digri Celsius, nkea n’egosi n’obu oria nje kpatara ya kama ibu ipu eze. Biko, gaa hu dokita gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini mere umuaka ji ehi ura karia otu okwesiri.",
+        "content": "Umuaka n’ehi ura nke ukwu ka ha nwe ike ito nke oma. Ha n’ehi ura nke ukwu n’isi ututu na mgbede. Ka nwa ohuru n’ehi ura nke oma, ka o na-eto n’ike n’ike.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ole nri ekwesiri inye nwa n’aju ara?",
+        "content": "Amanyela nwa n’ aju ara iri nri ohuru ozugbo, n’ihi na mmiri ara amaralaya ahu nke ukwu. Jiri ntakiri ntakiri n’enye ya nri ohuru. Nye ya otu udi nri ubochi ato (3-4)  rue ano, tupu I gbanwe gaa n’nke ozo. Etinyela ihe oto biri-biri otu mgbe ahu. Dika ihe atu, o buru n’ina-enye nwa gi akamu, kweka ubochi ato ma o bu ano gafee tupu ibido tinyewe milk. Nogide n’enye nwa gi mmiri ara rue mgbe o ruru otu afo ma o bu kari.\n(a)  Akamu – akamu eji oka, oka guinea, millet ma obu soya beans di nma nke ukwu. Gbee ya ka o di nfe onunu\n(b) Akwukwo nri na utara – ofe akwukwo ugu, oha, waterleaf, na okazi di nnoo mma ma ejiri udara ji, ede akpu na pitato butue ya. Akwukwo nri ndi ozo dika carrot na tomato di nma ma esie ha nke oma.\n(c)  Nkpuru osisi – Nye nwa n’aju ara oroma une, ube utu ocha, apple, popo, mangolo. Gwakota ha iji mee ihe ominu di uto. Biko, etinyela ihe oto biri-biri ozo.\n(d) Agwaa: Sachapu nkpo agwaa ma sie ya nke oma. Tinye obere ose na nnu iji mee ka odi uto. Nye nwa gi moi-moi ma o bu akara.\n(e)  Nri n’kpuru: Nri dika osikapa, oka wheat na millet di nma inye nwa n’aju ara ohuru.\n(f)  Jisie ike sie ha nke oma. Nri ndia kwesiri ide nke oma.\n(g)  Nri olulo: Amala na ewedu n’aga nnoo were-were n’ onu nye umuaka Yoruba. Ekwesiri iji ayiya siere ha ofe ewedu iji mee ka o too uto. Ka nwata n’etolite bido nyewe ya eba, semo, na utara ji na azu. Nri umuaka ekwesighi isi ike.\n(h) Anu na akwa:Nye nwa n’aju ara anu esidere eside, akwa okuko, mmiri ara ehi, azu, anu okuko na ihe onunu yogurt.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby6.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6a.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6d.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606544/baby/Baby6e.png"
+          }
+        ]
+      },
+      {
+        "name": "Ekwesirim inye nwatakiri mmiri onunu mgbe o di nani onwa abuo",
+        "content": "Mbanu, ekwesiri inye nwatakiri mmiri mgbe odi onwa isii (6months). Nka bu ihe anyi na-akpo iji nani mmiri ara nne azu nwa ohuru. Mmiri ara nne nwere mmiri onunu zuru ezu maka nwatakiri. Nye nwa ohuru ara obunadi mgbe ututuru n’akpo ya. Mmiri ara ga-echebe nwata puo n’oria di iche iche. Mgbe nwata di onwa isii, I nwere ike nyezie ya mmiri onunu, anu akwa, dgz.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby7.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gimi na-akpata-onyunyu-onyunyu mgbe nwata na-epu eze",
+        "content": "Ipu eze anaghi akpata onyunyu –onyunyu. Umuaka n’etinyekari aka ha n’onu. Ha n’etinyekwa ihe obula ha meturu aka n’onu. Ha n’ eme nka n’ihi na anyi n’eri ha oko. Nje ndi n’eso ihe ndi ahu ha n’etinye n’onu. Nje ndi n’aba zi ha n’ afo ma kpatara ha onyunyu-onyunyu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpatara umuaka ume nkuchi?",
+        "content": "Ume nkuchi na-akpata mmeru ahu na onwu umuaka. Ohere iku ume umuaka na-adikari nfe ikuchi. Ona ewe ogologo oge umuaka imuta itari na iloda nri nke oma Odichaghi mfe umuaka ikwacha akpiri ma obu mee unara iji wepu ihe mgbochi obula di n’ ohere iku ume ha. Mgbe ume n’ekuchi nwata, choputa ihe kpatara ya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606527/baby/Baby9.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata imu nwa nwere nkwaru?",
+        "content": "Otutu ihe puru ikpata imu nwa nwere nkwaru, ha gunyere ndi a:-\n(a) Erighi nri n’edozi ahu mgbe nwanyi di ime.\n(b) Uko ayodine n’nri nwanyi di ime n’ eri.\n(c) Enweghi ihe ndi n’edozi okpukpu tupu nwanyi adi ime\n(d) Ebumputa uwa. Nwa ohuru nwere ike iketa ihe ufodu site n’aka nne na nna, nke ga-eme ka o nwee nkwaru\n(e) Ihe ndi metutara ebe obibi- onye nne puru iji ogwu ike, utaba, ma o bu mmanya n’aba n’anya n’eme ihe. O pukwara iria oria kpashikpasi.\nIhe ndia puru ime ka nwa ebu na afo nwee nkwaru\n(f) Onye nne igba karia afo iri ato na ise (35yrs)\n(g) Inu otutu ogwu mgbe adi ime.\n(h) Inwe nsogbu imuputa nwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606527/baby/Baby10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata ahu na Anya nwa ohuru icha odo-odo (Jaundice)?",
+        "content": "Ahu na anya nwa ohuru icha odo-odo abuchaghi oria n’onwe ya, kama o bu ihe ama n’ihe adichaghi mma n’ahu nwa ohuru. Ihe na-akpata ya bu mbibi nke obara uhie n’ahu nwata ebe umeji n’ enwekwaghi ike ibuso ihe ahu agha.\nAna-ahukar iya n’ebe umu amuru n’erugbi eru no na umu ohuru.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606527/baby/Baby11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ilekota Ali nwa Ohuru",
+        "content": "Were owu mesa n’ mmiri mmuo ma hichaa ali nwa ohuru otutu ugboro kwa ubochi. I puru ihichaa ya mgbe o bula I wepuru ibanti ya. Kpachapuru ukwu ali anya nke oma ya bu ebe jikotara ya na afo. Kwe ka ikuku n’efesa ali, ka o wee kpoo ma o bu daa ngwa ngwa. Ekwela ka ibanti n’emetu ali. Nye ali ohere ka o jiri aka ya daa, adopula ya n’ike. Zere iji kerozini, powda n’ekpo oku n’eme ka ali wee daa n’ike. Enyela onwe gi nsogbu ma o buru n’ali adaghi tupu ubochi nke asaa, naani n’echicha ya mgbe mgbe, o ga-ada mgbe o kwesiri ida.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606529/baby/Baby12.jpg"
+          }
+        ],
+        "video": [
+          "https://www.nhs.uk/video/Pages/how-do-i-take-care-of-the-umbilical-cord-stump.aspx?searchtype=&searchterm=&offset=17&"
+        ]
+      },
+      {
+        "name": "Ole Otu nwa ebu na afo si eri nri?",
+        "content": "Nwa ohuru n’amiri nri site n’udo jikotara ya na nne ya ana-akpo palasenta. Mgbe nne risiri nri, nri ahu ga-egweri ma banye n’ime obara. Nwa ohuru ga-amiri nke ya sile n’ palasenta. Palasenta n’azachapu nje na umu ahuhu irute nwa ebu na afo aka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606530/baby/Baby13.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu I puru isi lekota nwa ohuru:",
+        "content": "Gbaa nbo hu na gi na nwa gi na-adi ocha. Kuru nwa gi nke oma. Anagharila nwa gi n ike. Ejila nwa gi egwuri egwu ojo. Kwee ka aru gi metu aru nwa gi. Soro nwa n’ekwurita okwu mgbe niile. Gbanwee ibanti nwa gi mgbe o bula oruru unyi. Nye nwa gi nri mgbe agu guru ya. Ikwesiri inye ya nani mmiri ara rue onwa isii. Jiri mmiri oku sacha efere, ngaji na ihe ndi ozo nwa gi ji eri nri. Kpachapuru ali nwa gi anya site n’iji ude mmuo na owu hichaa ya. Saa nwa ahu ma hicha ihe ndina ya. Zaa ulo gi na ulo nwa gi kwa ubochi. Nyibe nwa gi akwa na-adabere n’ otu ihu etu-igwe di. Mgbe nwa gi n ebe akwa, biko guguo ya. Ahapula nani nwa gi n’ulo. Kpoturu dokita mgbe o bula nwa gi n’ejighi ike. Gbaa nwa gi ogwu ngboohi n’ulo ogwu ahu-ike di nso.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby14.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ipu Eze",
+        "content": "Ipu eze bu mgbe nwa ohuru n epuputa eze, nke a bu akuku nke uto nwa gi. Ipu eze nwere ike ikpata ahu ngbu, ahu oku n ahu erughi ala, nke puru iweta ngbakasi ahu nye nwa ohuru na ndi nne na nna.\nAfo osisa esoghi na ihe n’egosi na nwata amalitela ipu eze kama o na-egosi na nwata ahu ebutela nje n ime afo ya.\nOtu a puru isi belata ahu ngbu nke ipu eze\n(a) Jiri nkpisi aka gi saa onu nwa gi, n emetu anyi ya aka. Nke a ga-ebelatatu ihe ngbu.\n(b) Mee ka onu nwa gi juo oyi site n’itinye ihe juru oyi n’onu ya.\n(c) Nye ya ihe umuaka n’epu eze ohuru ji egwuri egwu. O ga-eji ihe ndi ahu n’amu eze ya mgbe eze koro ya oko.\n(d) Nye ya ogwu eji agwo ahu ngbu. Enyela ya ogwu obula dokita n’agwaghi gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby15.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=PaTji1kwFDU",
+          "https://www.parents.com/baby/health/baby-teeth/baby-teething-timeline/"
+        ]
+      },
+      {
+        "name": "Gini na-akpatara nwata oyi?",
+        "content": "Ihe na-egosi nwata nwere oyi bu oke uzere, azuzu na enweghi ike iku ume nke oma. Mgbe ufodu, a puru inwe akpiri ngbapia, ukwara na ahu oku. N’ikwu ezi okwu, umuaka n’enwekari oyi na ukwara n’ihi na ime ahu ha esibeghi ike. Ikunye nwa ohuru umuaka ndi ozo puru ime ka ha nwee oyi. Ozo o buru n’ ekpuchighi ukwu na isi nwa ohuru nke oma, o puru inwe oyi ngwa ngwa. iji gbochie oyi nyibe nwa ohuru akwa kwesiri ekwesi mgbe o bula.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu esi agwo oyi umuaka",
+        "content": "N’ eziokwu, enwebeghi uzo dooro anya esi agwo oyi umuaka ma I puru inyere ha aka igbake ngwa ngwa. Ekwesiri inye ha ogwu ahu ngbu n’adabee n’afo ndu ha dika onye dokita si tuzie aka. Biko enyela umu ohuru na Umuaka asipirini. Ma I puru ime ihe ndia:-\n(a) Mee ka ulo ebe nwa ahu n’ehi ura nwe ekpomoku di nma.\n(b)  Ekwela ka anuru oku kusaa nwa ahu \n(c) Hichaa imi ya nke oma.\nMee ka nwa gi hie ura nke oma n’abali.\nO buru n’nwa ehighi ura, mado ya n’afo gi ka o wee kute ume nke oma.\nBiko nye nwa gi nani mmiri ara zuru ezu rue mgbe o ruru onwa isii. Mgbe onwa isii gasiri I puru inye ya nkpuru osisi ozo nwere vitamin C.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby17.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee mgbe m kwesiri ikpoturu dokita maka ahuike nwa m?",
+        "content": "Kpoturu dokita mgbe nwa n’erubeghi onwu ato nwere oyi. Udi oyi a puru igosi n’enwere ihe ize ndu dinu. Kpoo dokita ma o bu gaa ulo ogwu mgbe.\n(a)  Mgbe nwata n’akwa oke ukwara\n(b) Mgbe ahu nwa g di oku\n(c) Mgbe ihe ama ndi ahu n’akwusighi rue ubochi iri\n(d) Mgbe nti n’egbu nwata ngbu. Nwa ahu ga-na-ado aka na nti ya.\n(e) Mgbe nwa gi n enweghi ike iku ume nke oma\n(f) Mgbe imi ona-ezipu di okputukpu ma n’acha akwukwo ndu-akwukwo ndu.\n(g) Mgbe ike na-agwukari nwa gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby18.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ogwu Ngbochi Oria",
+        "content": "Ana-agba ogwu ngbochi oria iji belata mmuba nje na oria di iche iche. O ka mma igba ogwu ngbochi karia inu-ogwu maka nje na oria. Ufodu mmadu na-ako akuko n’atu egwu banyere igba ogwu ngbochi, nke a emekwala ka otutu ndi nne na nna juu igba umu ha ogwu ngbochi. Nke a emekwala ka umu ha bute oria kpirikite, oria nkwaru na oria ndi ozo a puru iji ogwu ngbochi gbochie ha. Hu na igbara umu gi ogwu ngbochi ana-agba kwa-mgbe kwa-mgbe na nke ana-agba ngwa ngwa nwanyi musiri nwa. Ogwu ngbochi n’eme ka umuaka gbasie ike, chekwara gi ego, ma mee ka 1 gbara ichegbu onwe gi banyere oria.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606529/baby/Baby19.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=9_nyG2TUDcQ"
+        ]
+      },
+      {
+        "name": "Uru mmiri ara baara umuaka",
+        "content": "Mmiri ara baara umuaka otutu uru. Ha gunyere ndi a:-\n(a) Mmiri ara n’eme ka umuaka too nke oma ma gbasie ike.\n(b) Mmiri ara bu nri kasi edozi umuaka ahu.\n(c) Mmiri ara nwere ihe zuru ezu umuaka choro maka uto mgbe obula.\n(d) Umuaka enyere nani mmiri ara rue onwa isii anaghi ariakabe ahu.\n(e) Umu aka enyere nani mmri ara anaghi enwekebe afo oziza, anyughi nsi nke oma na afo osisa.\n(f) Mmiri ara mwere ihe niile nwa gi choro iji too nke oma dika vitamin protin na fati\n(g) Mmiri ara n’ egweri ngwa ngwa n’ime afo\n(h) Mmiri ara di nnoo ocha, onaghi ebute nje ka mmiri ara ehi.\n(i) Mmiri ara n’egbochi oria ukwara ume-oso na oria ndi ozo\n(j) Mmiri ara n’ebelata ihe ize ndu nke oria mmamiri, okeibu na udi oria kansa ndi ozo.\n(k) Mmiri ara n’eme ka umuaka ghara ibu oke ibu\n(l) Mmiri ara n’eme ka nne na nwa noro nso mgbe niile.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606529/baby/Baby20.jpg"
+          }
+        ]
+      }
+    ],
+    "mother": [
+      {
+        "name": "Otu I ga-esi mee ka afo gi daa mgbe I musiri nwa.",
+        "content": "a(a)  maa mmiri oku nke oma n’afo gi ka obara ojo si gi n’ike pusia\n(b)  Kee akwa di ocha n’afo gi ma o bu nokwasi n’elu mmiri oku\n(c)  Nua mmiri ji eji azu, anu, ose na uziza sie nke oma.\n(d) nua mmiri oku kama mmiri oyi\n(e) I kwesiri inokwasi n'elu mmiri oku ma o buru n’ awara gi afo(cs)\n(f) Nogide n’eme ihe ndi a e deputara ebe a rue onwa ato I musiri nwa gi\nCheta: Akwusila mgbe afo gi gbadara otu I si choo ya, nogide n’eme ya rue mgbe o dara karia n’ihi na afo ga-etokwa mgbe I kwusiri.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu Nwanyi puru isi debe ara ya ocha",
+        "content": "Biko, lebara ara gi anya mgbe I di ime. Mee the ndia:-\n(a) Saa onu-onu ara gi mmiri. Ihe ndi di mmiri-mmiri na aputa n’onu-onu ara malite n’ onwa ise nke afo ime gi. Nke a n’eme ka onu-onu ara gi ike ma nwe ihe ndi nyakoro n’ ya. Zere nke a site ni iji akwa di hichaa ara gi.\n(b) Ejila ncha asapu onu-onu ara n ihi na ncha ga-eme ka o koo okochi ma nwee akara. Were ori ma o bu ude vasilini tee n’ onu-onu ara iji mee ka o dip eke.\n(c) Iji mee ka onu-onuara saa mbara maka inye nwa ara, jiri obe –aka foputa ara gi mgbe I na asa ahu. Akola oko n’ onu-onu ara. Ime otua ga-eme ka mmiri ara gbaa nke o ma mgbe I musiri nwa.\n(d) Jiri ude na mmiri pia aka na ara gi mgbe I na-asa ahu. Nka ga eme ka obara gazue n’ ara gi dum.\n(e) Yiri uwe ara kwesiri ekwesi mgbe niile. O kasi nma iyi uwe ara ga-atachigide ara. Eyila nke o bula ga-enye ara gi nsogbu. O puru ime ka mmiri ara ghara imeputa.\n(f) Yiri uwe ara eji enye nwa ara. O na eme ka inye nwa gi ara di nfe.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee otu esi aturu ime?",
+        "content": "Nwanyi obula nwere otutu akwa n’ebe abuo di n’akpa nwa ya. N’onwa obula, otu akwa n’adaputa site n’otu akuku, nke o ga-abu na mgbe obara ocha nwoke na akwa nwanyi ahu jikotara mgbe ha nwesiri mmekoahu ha abuo akpuputa nwa. Umu nwanyi na ahukari nso ha n’ime ubochi iri abuo n’asato obula (28days). Ubochi mbu nke oge ihu nso nwanyi bu ubochi mbu nke oge nso ya. N’ubochi nke iri na ano nke oge nso ya otu akwa n’esi n’akpa nwa dapu ma chebiri obara ocha nwoke. O na-ano ihe dika ubochi abuo ni ime akpa nwa nwanyi. Mgbe ya na obara ocha mwoke jikoro aka, ituru ime amalitela. Nwa ahu ga-anozi ime afo rue onwa itoolu, amuo ya dika mmadu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother3.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=vFfqLs94iHc",
+          "https://www.youtube.com/watch?v=DGyRD9HnXVs"
+        ]
+      },
+      {
+        "name": "Gini mere nwanyi di ime ji agbo agboo?",
+        "content": "Ihe na-akpata nke a edochaghi anya.\nEleghi anya, o bu n’ihi ngbanwe ufodu ndi n’ewere onoodu n’ ahu ya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee nri ndi nwanyi di ime ga-ezere?",
+        "content": "(a) Erila anu na azu ana – esighi esi ni nke ana-esighi nke oma. Anu na azu ana-esighi nke oma nwere nje ndi puru ibute oria\n(b) Erila akwa ana esighi esi:- Akwa ana-esighi esi nwere nje ndi puru ibute oria. O buru na I choro iri akwa, sie ya nke oma.\n(c) Erila mmiri ara ehi ana-esighi esi:- Anula ya, ma obu rie, ihe ndi esi n’ mmiri ara ehi ana-esighi nke oma meputa. Anula mmiri ara ehi esi n ara umu anumanu paaputa osugbo. Sie ha n’oku tupu I nuo ya.\n(d) Saacha nkpuru osisi na akwukwo nri mmiri nke oma:- mee nka iji saachapu aja na unyi  tupu I rie ma o bu sie ha n’ oku.\n(e) Anula ihe onunu n’aba n’anya:- Ihe onunu n’aba n’anya puru ime ka nwa ghara ito nke oma ma nwee nkwaru.\n(f) Belata inu kafeni-inu nnukwu kafeni mgbe nwanyi di ime n’eme ka o muo nwa tara ahu. O pukwara ikpata ikwopu afo ime. Ufodu ihe onunu oto biri-biri dika koku nwere kafeni. N’ihi ya belata otu isi anu koku mgbe idi ime.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Nwanyi di ime o kwesiri idi n’ahu nso ya?",
+        "content": "Ee, ipuru idi n'ahu nso gi. Ufodu umu nwanyi n'ahu nso ha di mgbe ha ime. Utodu n'enwe obara ogbugba nke n'eyi nso. Ma obara igba i Ike nwanyi mgbe odi ime di nnoo iche n'ihu nso. Ihe n'akpatakari ihu nso mgbe adi ime puru ibu ngbanwe ndi n’eme n'ukwu akpa nwa nke mere ka odi lori-lori, Idi ime ejima, na nje.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini mere nwanyi di ime ji aria iba?",
+        "content": "Oria iba bu ihe ana-ahukari n'etiti mba ndi di na Africa n'ihi mmiri ozuzo na okpomoku. Ebe obibi ha n'azu anunta nke oma. Ihe ndia n' esonu puru ikpatara nwanyi di ime oria iba.\nA.  Ahu enweghi Ike igbochi oria n' onwe ya:- afo ime n eme ka ikike ahu nwanyi nwere ibuso oria agha belata. Nkea n'emekari ka nwanyi bute oria iba.\nB.  Ibi ebe iba n'aria kari ndi mmadu:- ahu umu nwanyi ndi bi n ebe iba n'aria kari ndi mmadu n'azulite ikike ibuso oria iba agha ma ndi bi n' ebe iba n' anoghi enwechagi udi ikike a. N'ihi ya ha n' ebutekari oria iba ma ha bia ebe iba n'aria ndi mmadu.\nC.  Nje oria obiri na aja ocha (HIV) Umu nwanyi ndi nwere nje oria obiri na aja ocha n’ ebutekari oria iba n'ihi na ahu ha enwekwaghi ike ibuso oria iba agha.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother7.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=UcIyJbEM_ko"
+        ]
+      },
+      {
+        "name": "Ihe ndi eji amata na nwanyi di ime enwela oria iba",
+        "content": "N’ mmalite, onye nwere oria iba n’adika onye nwere oria n’efe efe ma o bu nje N’ ihi ya nani ime nnyocha obara ga-eme ka amata ihe kpatara iba ahu.\nIhe ndia n’esonu bu ihe ndi na-egosi na nwanyi di ime nwere oria iba:-\n(a) Ahuoku, na ososo ma o bu oyi\n(b) Afo oruru\n(c) Ukwaran\n(d) Isi Owuwa\n(e) Igho agboo\n(f) Ahu ngbu\n(g) Inyu Obara obara\n(h) Ekuteghi ume nke oma\n(i) Ogboo\n(k)  Ita ahu\n(l)  Oria izu ahu dum\nO di nkpa igwo iba ngwa ngwa achoputara ya n’ihi na o puru ikpatara nwa ebu na ato na nne oria ndi ozo.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ize ndu oria iba nye nwanyi di ime.",
+        "content": "Iba puru idi fecha fecha ma o bu diri ize ndu. Ihe eji ama iba di fecha fecha bu isi owuwa, ahuoku, oyi na ososo nke na-anogide site n’ ubochi abuo rue ato malite n’ awa isi rue iri.\nOke Iba di njo nke ukwu. O puru ikpata uko obara, iku ume elu elu, isi ngbaka na imebi akuku ahu ndi ozo di nkpa. Oria iba puru ikpata nsogbu ndia:-\nUko obara bu otu oria iba na-akpatakari, o na-ebibi ihe ndi na-emeputa obara n’ahu nwanyi di ime. Iba puru ime ka obara ogbugba gbue nwanyi mgbe o musiri nwa. Oke iba n’eme ka mmiri s akoro n’apu. Iba na-eme ka ikike ahu mmadu nwere ibuso oria agha gbatue, oke iba puru ime ka otutu suga dina obara nwanyi di ime gbatue.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother9.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini mere nwanyi di ime ji emeputa mmiri ara?",
+        "content": "Umu nwanyi ufodu n’emeputa mmiri ara ana-kpo kolostrum mgbe ha di ime, karisia n’agba nke ato nke afo ime ha. Ndi ozo anaghi emeputa. Ma nwanyi o na-emeputa mmiri arra mgbe o di ime ma o na-onaghi emeputa enweghi ihe ojo di ya. I puru iyi uwe ara iji chebe akwa gi ma o buru n’ ara gi n’ agbaputa mmiri.\nKolostrum bu mmiri ara roro aro, nke na-acha odo-odo ma nwee ihe ndi n’egbu oria iji chebe nwa amuru ohuru. O buru na ikpebiri iji mmiri ara nani zuo nwagi rue onwa isii, kolostrum ga-enyere gi aka tupu ara amalite gbawa mmiri nke oma. Kolostrum nwere “protein” buru ibu, kabohidrati di ala karia mmiri ara tozuru etozu. O di nfe ngbari ma nwe Ihe o bula nwata choro n’ubochi ole na ole mbu mgbe a musiri ya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gimi na-akpata nwanyi di ime ehighi ura nke oma.",
+        "content": "(a) Ahu erughi ala n’ ihi afo otito\n(b) Azu igbu ngbu\n(c) Obi ikpo oku\n(d) Inyu mmamiri mgbe mgbe n’abali\n(e) Nchekasi\n(f) Atumanya imuputa nwa ohuru\n(g) Iro nro mgbe mgbe\n(i) Mgbanwe ndi n’ewere onodu n’ahu ya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee Ihe m ga-eme ehighi ura nke oma?",
+        "content": "(a) Nwalee onodu ihi ura ozo di iche\n(b) Kwadoo maka ihi ura site n’iji mmiri oku saa ahu gi\n(c) Mee ka ulo gi di nma ihi ura. Mee ka ikuku n’abata ya nke oma. Kpoo egwu ma o bu gee redio nke ga-eme ka ura tuo gi.\n(d) Zue ike nke oma dika akuziri gi n’ulo ogwu.\n(e) O buru n’ura ekweghi gi ohihi, gutu akwukwo ritu nri ratu-ratu ma o bu nuo mmiri ara ehi di oku.\n(f) N’emega ahu nke oma kwa ubochi\n(g) O buru na okwere gi ihi ura na ehibie, hie ya, ma nka puru igbochie gi ura n’abali.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother12.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gine mere nwanyi di ime ji enwe obara ngbali elu?",
+        "content": "Nwanyi di ime nke na-adighi elebara ahu ike ya anya nke oma puru inwe obara ngbali elu. Oke ibu, ino otu ebe na inu ihe onunu n’ aba na anya puru ikpata obara ngbali elu, ime izizi nke nwanyi obula puru ime ka o nwe obara ngbali elu. Ihe ozo puru ikpata ya bu idi ime ejima nakwa ihe eketara site n’aka nne na nna. Afo ndu nwanyi di ime bukwa ihe ozo e kwesiri ichebara echiche. Nwanyi di afo iri ano ma o bu karia puru inwe obara ngbali elu. Umu nwanyi ndi na-enwe obara ngbale elu tupu ha adi ime no na ihe ize ndu inwe ya karia ndi n’adighi enwe.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother13.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee ngbali obara kwesii ekwesi maka nwanyi di ime.",
+        "content": "Ije mata obara ngbali kwesiri ekwesi, onye dokita ga-enyocha obara ngbali na obibia mbu gi na obibia ndi ozo gi.\nObara ngbali nke onye n’adighi ime bu 120/80mmHg. Obara nghali kariri 140/90mm Hg ma obu 15oc tupu idi ime kwesiri ka elebara ya anya N’mmalite afo ime, eleghi anya site n’izu ise rue izu iri abuo, obara ngbali nwanyi di ime kwesiri igbatu N’oge a, akwara ndi n’enyere afo ime aka n’agbasa, ma mee ka obara ghara igbali elu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother14.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-ebutere nwanyi di ime obara ngbatu?",
+        "content": "N’eziokwu, enweghi onu-ogugu akara aka n’ egosi obara ngbatu, ihe ama ndi na-egosikari obara ngbatu:-\n(a) Isi Owuwa\n(b) Ime duko-duko\n(c) Afo oruru\n(d) Anya aju\n(e) Oyi na akpukpo aru iko okochi",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother15and16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu nwanyi di ime puru isi na-elezi obara ngbali ya.",
+        "content": "Enwere otutu uzo nwanyi di ime puru isi na-elezi obara ngbali ya.\n(a) Gwa onye dokita gi ka onyere gi aka zuta ngwa oru eji ele obara ngbali.\n(b) Gaa ebe ana ere ogwu di mma iji lee obara ngbali gi kwa ubochi.\n(c) Jiri otu oge na-ele obara ngbali gi kwa ubochi, Noro n’oche lee ya. Atughila ukwu gi. Ejidela ihe obula aka. Jiri otu akwa aka na ele ya.\n(d) Gwa dokita ngwa ngwa ihuru ihe ngba ama nke obara ngbali elu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother15and16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee ihe ize ndu nwanyi di inwe Obara ngbali elu?",
+        "content": "Oburu na nwanye di ime enwe obara ngbali elu rue izu nke iri abuo (20weeks) nke afo ime ya, obi nmapu puru ibido.\nOgwu nwanyi di ime nwere Obara ngbali elu puru inu.\nZere ogwu odinala ndi eji agwo obara ngbali elu, n’ihi na ha puru Ikpatara nwanyi di ime nsogbu. Gwa dokita ka o nye gi ogwu maka obara ngbali elu. Gwa dokita ka otuara gi aro otu ipuru isi n’ahu maka obara ngbali elu mgbe idi ime. Obara ngbali elu adichaghi oke ize ndu mgbe adi ime, ma oburu na elebaraghi ya anya opuru ikpata odachi nye nne na nwa.\nN’uzo di nwute, obi nmapu site na obara ngbale elu so n’otu n’ime ihe na-akpata onwu umu nwanyi di ime.\nSoro dokita gi kwurita banyere nsogbu ahuike gi. Gbasochie nduzi aka enyere gi anya ike banyere ahuike gi.\nGbalia mata ihe ndi na-akpta obara ngbali elu tupu ituru ime,meekwa ihe iji gbochie inwe obara ngbatu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother15and16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini bu obi ima jijiji?",
+        "content": "Obi ima jijiji di njo nke uku n’ihi na o puru imebi akuku aku ahu di nkpa gunyere akuru na uburu, obi ima jijiji gunyere itu egwu afo ime ma obu ujo afo ime kpatara. Mgbe ujo bara nwanyi di ime n’ahu, o puru ikpata onwu. Site n’iga ulo ogwu ebe ana-eleta ndi di ime, na ikpoturu dokita mgbe mgbe, apura ihu maka ujo na obi ima-jijiji. Ihe ama ya bu:-\n(a)  Protein idi na mmamiri\n(b) Ukwu na aka oziza n’ekwesighi ekwesi\n(c) Isi owuwa n’adighi ala ala.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother17.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu nwanyi di ime puru isi huru ala.",
+        "content": "Gbue ikpere n’ala kama iseti azu gi.\nO ka mma iji nwayo bilie oto n’eji aka, apata ukwu na ikpere kama iseti akwara\nafo gi. Ime nka ga-echebe azu gi mgbe ina-aru oru gi dika onye di ime.\nMgbe I choro iburu ihe, hulata isi gi ala, hudata ikpere gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother18.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu nwanyi di ime kwesisi isi kpuru oto",
+        "content": "Ikwu oto nke oma bu ikuziri nwa gi ije ije, idina ala, ino ri’ oche na ikwuru oto ebe ina-enweghi ihe ngbu obula. Afo ukwu gi puru ime ka ichee na iga-ada. Ma site n’imuta otu apuru isi kwuru chim, iga-eme gi ka onodu ka mma. Ndia bu onodu ufodu I puru ino:-\nInodu n’oche nke oma\nIguzoro oto nke oma\nOnodu ikwo ugbo ala di mma\nOnodu ihi ura na idina ala di mma.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother19.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe kpatara nwanyi di ime ji anyu mmamiri mgbe mgbe.",
+        "content": "Ihe na-akpata nwanyi di ime inyu mmamiri mgbe mgbe bu akwara ndi jikotara afo ime, obara iji oke oso n’agaghari n’ahu nwanyi di ime, na uto nwa ebu na afo.\nNgbanwe ndi n’ewere onodu n’ahu nwanyi di ime puru ime ka obara banye ngwa ngwa n’ akuru, si otu a mee ka akpa mmamiri juu ngwa ngwa nke n’eme ka nwanyi di ime n’ anyu mmamiri mgbe mgbe.\nOtutu obara nke nwanyi di ime n’eju eju nke oma rue mgbe ojiri pacent iri ise kari nke o nwere tupu ya aturu ime.\nNke a putara n’otutu mmiri n’esi n’akuru gi banye n’ akpa mmamiri gi uto nke nwa ibu n’afo puru ime ka akpa mmamiri gi juu ngwa ngwa karisia n’ agba ikpeazu nke afo ime gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20bending.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20sleep.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20drive.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gme mere ike ji agwukari nwanyi di ime.",
+        "content": "Ike ogwugwu bu ihe ama nke ituru ime. Ufodu nwanyi n’enwe ike ogwugwu oge nile ha di ime, ebe ndi ozo na-anaghi enwe ike ogwugwu.\nOzo, ngbanwe ndi na-ewere onodu n’ime ahun’ mmalite afo ime na-akpata ike ogugwu na iro ura. Ozokwa ahu gi n’ emeputa obara iji buru nri bugara nwa no n’ime afo. Otutu suga na obara ngbali na-agbatu. Otu isi ele ahu anya n’emetuta gi. N’agba nke ikpeazu nke afo ime gi, uto na ibu nke nwa gi n’eme ka inwee ike ogwugwu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe nwanyi di ime puru ime banyere ike ogwugwu.",
+        "content": "(a) Zuruike nke Oma:- Hie ura mgbe obula ike gwuru gi. Gbalia hie ura nke oma n’abali na nwa nti nti n’ehihie. Anula oke mmiri na ihe onunu n’abali ka I ghara inyu oke mmamiri.\n(b) Hazie Ihe omume gi:- Belata oru ndi ina aru. Choo ndi mmadu ka ha nyere gi aka.\n(c) Rie nri na-edozi ahu:- Rie ezigbo nri ga eme ka inwe ume. Nuo mmiri nke oma. Rie nri n’ enye obana ma nágbasi okpukpu ike.\n(d) N’emega ahu: Mmega ahu di mma kwesiri ekwesi. Jee ije ihe dika minute iri ato ma o bu karia. Kpoturu dokita maka udi mmega ahu I kwesiri ime.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother22.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Nwanyi di ime inwe mmekoahu:",
+        "content": "Oburu na afo ime gi na-agazi nke oma, I puru inogide soro di gi n’enwe nmekoahu rue mgbe iruru imuputa nwa gi. Mgbe ufodu, n’ihi nsogbu ahuike ipuru izere isoro di gi nwee mmekoahu mgbe idi ime. Dokita gi ga-agwa gi ihe ikwesi ime n’onodu a.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother23.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Nlebara anya na nri nwanyi di ime.",
+        "content": "Ewezuga idi ocha, ikwesiri ime ihe ndia n’esonu:-\n(a) Zue ike nke oma mgbe idi-ime na mgbe ina enye nwa gi ara. Echiche na ndoli n’emetuta otu ara nwanyi si agbaputa.\n(b) Ikwesiri iri nri ndi n’enye obara ma n’agbasi okpukpu ike. Rie nkpuru osisi na nkwonkwo anu. Nua mmiri na ihe onunu di, mma nke oma.\n(c) Ipuru ihu ngbanwe ufodu n’ara gi karisia n’ onu-onu ara gi. Nke a bu ngbanwe ndi afo ime n’ebute.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24a.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24b.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24c.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24d.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24e.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24f.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Uzo nwanyi di ime puru isi gbochie nsogbu:",
+        "content": "Gbaso ntuziaka ndi a nke oma iji gbochie nsogbu:-\n(a) Jiri mmiri di ocha saa ara gi nke oma kwa ubochi \n(b) Mee nyoocha banyere ara gi mgbe mgbe\n(c) O buru na ihu ngbanwe o bula ma obu ihe ufu n’ara gi, kpoturu dokita gi.\n(d) Hichaa ara gi mgbe o bula isara ahu gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother25.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee ihe ga-eme kam kpoo dokita mgbe m nwesrii mmekoahu?",
+        "content": "Mgbe obula I huru ihe n’adighi gi mma, kpoo dokita, o buru n‘ ahu n’afu gi ufu ogologo oge mgbe I nwesiri mmekoahu, kpoturu dokita gi. O buru na obara n’agba gi mgbe I nwesiri mmekoahu kpoo dokita gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother26.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata mmiri isi nwanyi di ime n’ike na-aputa.",
+        "content": "Mgbe nwanyi di ime, ahu ya n’agbanwe n’ uzo di iche iche, otu bu ihe dika mmiri mmiri isi gi n’ ike na-aputa. Ihe dika mmiri isi gi n’ike aputa adichaghi njo, ma i hu nke na-adighi mma, kpoo dokita.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother27.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee ihe nwanyi di ime kwesiri ime na nke o na-ekwesighi ime?",
+        "content": "\nNwanyi di ime ekwesighi:-(a) Iji ncha n’ekpo-ekpo saa ike ya\n(b) Iwere mmiri ncha soda na iodine wuba n’ike ya.\nNke a puru igbu bakiteri ndi din ma no n’ike\n(c) Iji aka ya gwoo onwe ya oria. Gwa dokita ka onyocha ma gwoo gi.\nNwanyi di ime kwesiri ime:-\n(a)  Iyi ibanti di fere fere ma okwe mee\n(b) Iga ulo ogwu maka ahuike ya\n(c) Izu ike nke oma\n(d) Iru oke oru-nke puru imeru ya ahu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother28.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini mere nwanyi di ime ekwesighi iri nri siri ike n’agba nke ikpeazu nke afo ime ya?",
+        "content": "O bu ihe ana-ahukari nwanyi di ime inwe ahu ngbu na mkpesa. Nwanyi di ekwesigbi iri nri siri ike n’ihi afo ojuju ya. Ibu nke nwa no n’afo n’eme ka nwanyi ahu bukwue ibu. Nke a n’eme ka ahu ghara iru ya ala mgbe o buta oriri nri siri ike. Otu odi, echegbula onwe gi, ma oburu na iru nri ekweghi gi oriri, gwa dokita gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother29.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi eje amara mgbe afo ime ruru agba nke ikpeazu ya.",
+        "content": "(a) Enweghi agu iri nri:- ufodu umu nwanyi anaghi enwe agu iri nri n’agba ikpeazu nke afo ime ha n’ihi ibu nke nwa ebu n’ afo.  Enwechaghi ohere ebe nri ga-aba. Rie obere nri n’ime awa ato rue ano obula.\nAnula mmiri ma obu mmanya oto biri-biri mgbe ina eri nri. Mmiri ma o bu mmanya puru ime ka afo ju gi ngwa ngwa.\n(b)  Ejeghi npochi nke oma:- Nke a na – emekari umu nwanyi di ime n’agba nke mbu na nke ikpeazu nke afo ime ha. Nuo mmiri, taa nkpuru osisi n’ akwukwo nri iji nyere onwe gi aka.\n(c) Ukwu oziza:- mgbe ufodu, mmiri na- adoro nwanyi di ime na ahu. Nke a puru ime ka onwee ukwu na aka oziza. Iji belata nke a, tinye obere nnu na nri gi, debe ukwu n’elu oche mgbe I no duru ala.\n(d) Ike ogwugwu na ekuteghi ume nke oma:-\nIbu ibu nke nwa ibu n’afo puru ime ka ahu n’anyi gi aru ma obu mee ka ike gwu gi. Nke a na-egosi na afo ime gi eruela na agba nke nkpeazu ya. Mgbe ufodu, igaghi ehi ura nke oma n’ihi ahu erughi ala. Nkea puru ime ka ike gwu gi.\n(e) Nri agbarighi nke oma na obi okpomoku:- nwa ibu na afo na-adagide akuku ahu ndi n’agbari nri n’afo gi, si otu a mee ka nri ndi iriri ghara ighari ma laghachi n’akpiri gi. Nke a na-akpata obi okpomoku. Iji belata obi okpomoku, rie obere nri site n’mgbe rue na mgbe. Tarie nri nke oma, ma jiri nwayo loo ya. Edinala ala ngwa ngwa irisiri nri.\n(f) Obara ngbali elu: Mgbe nwanyi di ime nwere ukwu oziza, o puru ibute obi nmapu na obara ngbali ehi. Mgbe ufodu, nwere obara ngbali eli nke afo ime n’akpata. Obara ngbali elu puru igbochi obara ibanye na palacenta si otua gbochie nwa ebu na ato inweta ikuku na nri. Nwanyi di ime nwere obara nghali elu ekwesighi iguzo oto ogologo oge, kama o kwesiri izu ike nke oma, oburu na o choro inodu ala ogologo oge, o kwesiri itinye oche ma o bu pilo n’ okpuru ukwu ya.\n(g) Nje mmamiri:- Nwanyi di ime n’ebutakari nje mmamiri, karisa n’agba ikpeazu nke afo ime ya. O buru na elebaraghi ya anya ngwa ngwa, o puru iduga n’ oria akuru nke puru ikpata imu nwa n’erughi eru.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother30.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gine mere nwanyi di ime ji enwe obara ngbali elu?",
+        "content": "Nwanyi di ime nke na-adighi elebara ahu ike ya anya nke oma puru inwe obara ngbali elu. Oke ibu, ino otu ebe na inu ihe onunu n’ aba na anya puru ikpata obara ngbali elu, ime izizi nke nwanyi obula puru ime ka o nwe obara ngbali elu. Ihe ozo puru ikpata ya bu idi ime ejima nakwa ihe eketara site n’aka nne na nna. Afo ndu nwanyi di ime bukwa ihe ozo e kwesiri ichebara echiche. Nwanyi di afo iri ano ma o bu karia puru inwe obara ngbali elu. Umu nwanyi ndi na-enwe obara ngbale elu tupu ha adi ime no na ihe ize ndu inwe ya karia ndi n’adighi enwe.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother31.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu nwanyi di ime ga-esi n’eme mmega ahu.",
+        "content": "Mmega ahu di mma puru igbochi ufodu ihe izendu dika obi mmapu, obara ngbali elu. Mmega ahu ga-eme ka nwanyi di ime belata isi owuwa, ahu ngbu n ihi ibu ibu. Afo ime obula nwere ihe di iche obu bia, n’ihi ya gwa dokita gi ka onyere gi aka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Afo Igbu nwanyi di ime ngbu",
+        "content": "Afo puru igbu nwanyi di ime ngbu n’ ihi na ahu ya na-agbanwe iji nabata nwa ohuru. Mgbe i nwere oke afo ngbu, kpoturu dokita gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother33.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ufodu na-akpatara nwanyi di ime afo ngbu.",
+        "content": "Nwanyi di ime inwe afo ngbu bu ihe ana-ahukari ebe nile, odighi izendu nye nne na nwa.\nIhe ndi na-akpa ya gunyere ndia:-\n(a)  Akwara igbu ngbu:- Ihe ngbu a n’afu utu nke uku dika ebe mmadu ji ike nogharia n’oche. Ihe na-akpata ya bu akwara abuo ndi si n’ime afo gaba n’ otule. Ka afo nwanyi di ime n’asawanye, ka akwara abuo ndi ahu n’eseti ma si otu a kpata afo ngbu. Ana-ahukari afo ngbu a n’agba nke abuo nke afo ime, ma onweghi ihe ojo di ya.\n(c) Ahiri na ejeghi npodu nke oma: Ihe abuo ndi a puru ikpatara nwanyi di ime afo ngbu. O buru na nri agbarighi ngwa ngwa otu okwesiri, afo ngbu n’esochi. Nuo mmiri nke oma, rie ezigbo nri ndi nwere fiba ma nwee mmega ahu.\n(d) Nwa ebu n’afo imeghari ahu:- Nke a adighi izendu nye nne na nwa. O puru ime ka afo gbue nwanyi di ime ngbu. Mgbe, ufodu ona-adi ka eji udo n’ekegide ya n’afo. Nwa ebu na afo imeghari ahu di iche n’ebe ime omume no, ime omume na ewetu oge. Ndi dokita n’ekwu na nwa ebu n’afo n’emeghari ahu mgbe o choro mmiri: N’ihi ya nuo mmiri iji belata udi nsogbu a.(d) Ahu erughi ala: Nwanyi di ime n’enwe ahu erughi ala n’ihi uto nwa ebu na afo, iho nri na ahu ngbanwe.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother34.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Udi oke afo ngbu di iche lehe nwanyi di ime puru inwe.",
+        "content": "Ufodu umu nwanyi nwere afo ngbu na-adi garagara mgbe ha di ime, otu o di, afo ngbu ufodu di izendu. Biko, oburu na ichoputa ihe ndia edeputara, kpoturu dokita gi ngwa ngwa. \n(a) Nwa anoghi n’ akpa nwa:- otu nwanyi n’ ime umu nwanyi iri ise (50) n’enwe udi nsogbu a, nwa anoghi n’ akpa nwa bu mgbe akwa n’eto n’ebe ozo di iche n’abughi n’ime akpa nwa. Mgbe ufodu, akwa puru ibanyi n’ime ‘falopia tubu’. Nwa ito n’ebe ozo n’ abughi akpa nwa agaghi eru n’ omumu, ndi dokita ga-elebara ya anya. Nwanyi nwere udi afo ime a n’enwe ahu ngbu n’ obara ogbugba malite n’ izu nke isii rue na nke iri nke afo ime ya. Ana-ahukari udi afo ime n’ebe umu nwanyi nwere nsogbu afo no, ndi akpa nwa ha di peri-peri na ndi tinyere ihe eji egbochi afo ime n’ akpa nwa ha n’oge gara aga.\n(b) Ali ndobi:- Nke a bu mgbe ali jikotara nne na nwa ebu na afo dobiri, nwa anoro iche, ali anoro iche. O na-egbu nne na nwa. Ihe ama ya bu afo ngbu nke na-anogide rue ogologo oge, n’enweghi nkwusi, ihe ozo eji amata ya bu obara ogbugba ma obu mmiri igbawa n’ike.\n(c) Ime-opupu:- obu ihe ana-ahukari ebe nile. Ime opupu n’ amalite n’ izu nke iri na ato mbu nke afo ime. Ihe mgba-ama ime opupu bu oke azu ngbu, ezigbo ime omume nke n’abia site na nkeji ise rue nkeji iri abuo obula (5-20mins) mmiri tugwara obara isi n’ ike nwanyi aputa, na ndakpo n’ ike nke ihe ndi n’egosi n’ nwanyi di ime.\n(d) Nje mmamiri:- Odi nfe igwo oria a mgbe nwanyi di ime, ma o buru n’eleghara ya anya, opuru ikpata nsogbu ndi ozo. Mgbe e nwere ato ngbu, afo oruru, ahuoku, ososo ma o bu oyi, gaa hu dokita ozugbo.\n(e) Obi mmapu:- Ihe na-ebute obi mmapu bu obara ngbali elu na protein ino na mmamiri mgbe izu iri abuo nke ato ime gasiri. A puru inwe ihe ngbu n’elu afo, n’okpuru ngara, na n’aka nri, afo oruru, igbo agboo na afo nnyigide.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother35and36.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee mgbe m kwesiri ikpoturu dokita m?",
+        "content": "Biko, kpoo dokita gi ozugbo ihuru ihe ama ndia nakwa afo ngbu na ahu erughi ala.\n(a)  Oyi\n(b)  Oke ahu ngbu n’adighi akwusi akwusi\n(c)  Itu obo\n(d)  Ahu oku\n(e)  Ntakiri obara ma o bu obara ogbugba\n(f)  Afo oruru na igboo agboo\n(g)  Ihe dika mmiri-mmiri isi nwanyi n’ ike aputa\n(h)  Ahu ifu ufu mgbe I na-anyu mmamiri.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother35and36.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Inye nwa ara",
+        "content": "Mmiri ara bu nri kasi edozi nwa ohuru ahu.Mmiri ara nwere ihe zuru ezu nwa ohuru choro iji too nke oma dika protini, vitamin na fati. Ona-agbari ngwa ngwa karia nri bekee. Mmiri ara nne na-aluso oria na nje ogu. Inye umuaka nani mmiri ara o dikaria ala rue onwa isii ga eme ka ha ghara ibute oria ukwara ume oso, inyu obara obara, na abu nti, oria iku ume na imefu ego buru ibu n’ulo-ogwu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother37.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Uru inye nwa mmiri ara bara onye nne",
+        "content": "Inye nwa gi mmiri ara ga-eme ka ifelatu n’ibu alu iburu mgbe idi ime ngwa ngwa. O ga-eme ka akpa nwa gi lagbachi otu odi tupu I turu ime. Inye nwa ara ga-ebelata obara ogbugbu mgbe amusiri nwa. Inye nwa gi ara ga-egbochi gi ibute udi oria kansa di iche iche. O na-eme ka nwanyi ghara iria oria ogbu na nkwonkwo. O ga-echebere gi ego, meekwa ka gi na nwa gi noria ma zue ike nke oma. Mgbe I na enye nwa gi nani ara, odighi nri ozo I ga –azuru ya. Onweghi ego ana-akwu iji nye nwata nani ara, n’ihi ya o na-ebelata ubiam.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother38.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-eme ka mmiri ara gbaputa?",
+        "content": "Mgbe nwanyi di ime, udo palacenta n’enyere ahu aka imeputa homonu ndi n’eme ka mmiri ara gbaputa. Mgbe a musiri nwa, homonu anakpo “projestoronu” na-akwusitu oru iji nye ohere ka mmiri ara malite igbaputa site ma awa iri ato n’abuo rue iri ano ngwa ngwa a muputara nwa, Homonu ozo ana-akpo “Oxytocin” n’enye aka mee ka mmiri ara gbaputa mgbe nwanyi n’enye nwa ya ara.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother39.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee mgbe mmiri na-abange n’onu onu ara?",
+        "content": "Mmiri ara na-ebido ibanye n’ara n’ubochi abuo ma o bu ato mgbe a musiri nwa. Kolostrum n’ebu uzo banye tupu mmiri ara esochie. Ka nwata n’ami ara, ka mmiri ara n’agbaputa nke oma. Jiri aka paputa ara ma o bu ijiri igwe eji agbaputa ara mee ihe. O buru na igbapughi mmiri ara, ara ga-akwusi imeputa mmiri ara.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother40.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee ihe na –akpata mmiri ara agbaputaghi ososo.",
+        "content": "Otu odi, mmiri ara kwesiri igbaputa n’ubochi amusiri nwa ohuru, mgbe ufodu o na-ano ihe dika ubochi ise tupu o gbaputawa. Ujo atula gi, mmiri ara ga-emecha gbaputa. O buru na ina-echugbu onwe banjere nka, o ga-emetuta otu mmiri aragi si agba. Nogide n’enye nwa gi ara ka ona-ami oga-enyere gi aka mee ka mmiri ara gi gbaputawa. Kpoturu dokita ma nsogbu a nogide.\nIhe utodu ndi ga-egbochi mmiri ara igbaputa ngwa ngwa bu:-\n(a) Imu nwa n’erughi eru puru ime ka ara ghara imeputa mmiri ara zuru ezu, o bu n’ihi afo ime anozughi oge okwesiri ino, si otu a mee ka ahu ghara inwe oge zuru ezu iji kwadebe ara imeputa mmiri ara.\n(b) Imu nwa doli-doli, dika ime omume were ogologo oge, ichi nwa ogologo oge, iwa afo na iji igwe muo nwa puru ime ka mmiri ara ghara igbaputa ososo.\n(d) Otutu mmiri ogwu ndi agbara mgbe ana-amu nwa puru idoko n’ara ma gbochie mmeputa mmiri ara.\n(e) Palacenta ifodu n’ime ahu puru ime ka ara ghara imeputa mmiri ara ososo, n’ihi homonu ahu anu-akpo projesteronu ka na arusi oru ike. O bu mgbe projesteronu kwusituru oru ka mmeputa mmiri ara ga-ebido.\n(f) Oke obara ogbugba puru imebi akuku uburu nke na-ahu maka mmiri ara.\n(g) Imu nwa buru oke ibu n’ime mbu puru ime ka mmiri ara ghara igbaputa ososo.\n(h) Ihe ngbu nke imuputa nwa nwere ike ime ka mmiri ara ghara igbaputa ososo.\n(i) Ikupu nwa ohuru n’ebe nne ya no rue ogologo oge puru ime ka mmiri ara ghara igba ososo. Nye nwa gi ara n’ime otu awa iji muputa ya, iji kpalie ara igbaputa mmiri.\n(j) Oke ibu puru ikpata ya n’ihi na o na-enye homonu nke n’emeputa mmiri ara nsogbu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother41and42.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata ihe ngbu mgbe a musiri nwa?",
+        "content": "Ihe ngbu mgbe a musiri nwa bu n’ihi nkuda ndi enwere n’akpa nwa. Nkuda ndi a bu iji mee ka akpa nwa loghachi n’onodu ya tupu a turu ime, n’iji zere oke obara ogbugba mgbe a musiri nwa. Ihe ngbu mgbe a musiri nwa puru ise ike ma o bu di fecha fecha dabere n’umu ole amuru na onodu akwara ndi di n’afo, inye nwa ara n’eme ka akpa nwa kukpa. Ihe ngbu nke nwanyi muru nwa ohuru n’ebelata mgbe ubochi ato gasiri. Ona-ewe izu isii ma obu kari ka akpa nwa logbachi n’onou ya tupu a turu ime.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother43.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee otu m puru isi kwusi Ihe ngbu nke n’abia mgbe a musiri nwa?",
+        "content": "Mee ihe ndia sonu,\n(a)  Maa mmiri oku n’ala ala afo gi\n(b)  Tinye pilo n’ala ala afo gi, ma mado ihu gi n’ala.\n(c)  Madoo onwe gi n’elu mmiri oku\n(d)  Jisie ike n’anyu mmammiri mgbe mgbe. Akpa mmammiri juru eju anaghi ekwe ka akpa nwa kukpa ngwa ngwa.\n(e)  Nua ogwu ahu ngbu nke dokita nyere gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother44and45.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Palacenta Inochi Akpa nwa",
+        "content": "Ihe ndi mejuputara ya bu akwara ndu di iche ndi no n’ime akpa nwa nke nwanyi di ime. Palacenta n’aru oru di iche iche, dika iburu nri na ikuku siten’afo nne bufere nwa ebu na afo ma mipukwa ikuku ojo na nsi n’ahu nwa. Palacenta n’anokati n’elu elu akpa nwa, si otu a nye ohere ka nwa ebu n’afo n’eto nke oma. Palacenta inochi bu mgbe palacenta noduru n’ala-ala akpa nwa ma o bu nochie uzo esi abanye n’akpa nwa si otu a gbochi imu nwa ziriri-werere.\nEnwere palacenta nkpuchi afo di iche iche.\n(a) Ikpuchicha onu uzo akpa nwa\n(b) Ikpuchi okara nke onu uzo akpa nwa\n(c) Ikpuchite obere onu uzo akpa nwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother44and45.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi na-akpata palacenta ikpuchi akpa nwa",
+        "content": "(a) Akwa imalite ito n’ala-ala akpa nwa, n’eme ka palacenta noro ya nso ma o bu nochie onu uzo akpa nwa.\n(b) Palacenta itoputa ebe o na-ekwesighi\n(c) Nne emela okenye. Ihe ize ndu nke palacenta ikpuchi akpa nwa ji okpukpu ato ria elu n’ebe umu nwanyi ndi di afo iri ato kari umu nwanyi ndi di afo iri abuo.\n(d) Nne amuola otutu umu. Umu nwanyi ndi muru otutu umu no n’ihe ize ndu nke palacenta ikpuchi akpa nwa karia ndi n’amughi otutu umu.\n(e) Ihe ndi n’ekwesighi ito n’ime akpa nwa dika fibroid, onya, apa mma, isikwopu afo ime na iwa afo.\n(f) Idi ime ejima ma o bu karia.\n(g) Nne ise siga inu ogwu ike (cocaine) ise siga na inu ogwu ike na-eme ka onodu a ka njo.\n(h) Eji nka na uzo ogbara ohuru turu ime nwa ahu ebu na afo.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother46-48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi eji amata mgbe palacenta kpuchiri onu-uzo akpa nwa.",
+        "content": "Mgbe ufodu ana-ahu obere obara ogbugba n’agba nke mbu na nke abuo nke afo ime. Obara n’acha uhie uhie, o nwere ike bido, kwusi mgbe ubochi ma o bu izu ole na ole gasiri. Oke obara ogbugba puru ibido n’mberede n’agba nke ikpeazu nke afo ime. Obara ogbugba a anaghi egbu ahu ngbu. Otu odi umu nwanyi ufodu puru inwe ahu ngbu. Pacenta asaa rue isi ato n’ime umu nwanyi nwere udi nsogbu a anaghi enwe obara ogbugba ma oli. Obara ogbugba na-adikari mgbe palacenta no onodu ojo n’ime akpa nwa. \n Ihe ize ndu di na palacenta ikpuchi onu uzo akpa nwa. \na)Nje na obara nkpuko \nb)Nwa ebu n’afo inwe ahu ngbu n’ihi uko ikuku  \nc)Nwa ebu n’afo anaghi eto eto n’ihi uko obara \nd)Akpata oyi na omwu onye nne mgbe obara ogbugba kariri. \ne)Obara anoghi n’ahu nwa ebu n’afo. \n Ihe I ga-eme banyere palacenta ikpuchi onu-uzo akpa nwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother46-48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Iji belata obara ogbugba na ihe ize ndu ndi ozo",
+        "content": "Onye nne kwesiri izu ike nke oma n’ulo ogwu. E kwesiri ime nnocha okpu-ime. Ozo udi mmekoahu obula nke puru inye onye nne nsogbu n’ ike ma obu n’onu uzo akpa nwa kwesiri ka ezere ya. Oburu na nchoputa gosiri na palacenta kpuchiri akpa nwa dum, onye dokita ga-atu aro ka awaa gi afo iji muputa nwa ahu. Nka bu n’ihi imu nwa amu puru ikpata ntiwa nke palacenta na obara ogbugba si otu a tinye nne na nwa ahu n’ihe izendu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother46-48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee nri onye nne nwere uko obara mgbe o musiri nwa kwesiri iri",
+        "content": "\na)Oatmeal: Nri oatmeal di mma maka onye nwere uko obara n’ihi na ona-eme ka okpukpu sie ezigbo ike. Nchoputa n’egosi na uko obara nwere ike ime ka ara ghara igba nke oma. Oatmeal di nfe ogbugbe, nwee Ihe na-edozi okpukpu ma n’enye obara n’ahu. \nb)Garlic: Garlic n’eme ka mmiri ara gbaputa nke oma. N’etinye garlic na nri I ga-eri. \nc)Okuru Bekee (paw paw): okuru bekee n’achaghi acha n’eme ka mmiri ara gbaputa nke oma. I puru isi ya n’oku ma rie. \nd)Carrots: Carrot n’enye vitamin A n’ahu. Ona-adi nne n’enye nwa ara mma n’ahu, n’eme ka nwata too nke oma. \ne)Spinach: Ona-eme ka okpukpu sie ike biko sie ya n’ oku tupu irie ya. \nf)Aku otita: Aku otita di iche iche n’eme ka ara gbaputa mmiri, ha gunyere ahu ekere, cashew nut, tigernuts dgz.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother49.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata Obara Ogbugba mgbe nwanyi musiri nwa?",
+        "content": "Ozugbo nwanyi musiri nwa, akpa nwa ya ga-eji nwayo nwayo n’atalata ka palacenta nwe ike iputa. Mgbe palacenta putara, akwara ndi ahu di n’ime afo ga-akpachi iji mee ka obara ogbugba kwusi n’akpa nwa. O buru n’ akpa nwa akpachighi nke oma, obara ogbugba ga-anogide. Nka bu ihe na-akpata obara ogbugba mgbe nwanyi musiri nwa. \n Ihe ndi puru Ikpata obara Ogbugba bu ndia:- \na)Palacenta isi n’ime akpa puo n’oge. \nb)Palacenta ikpuchi onu-uzo akpa nwa \nc)Akpa nwa buru oke ibu \nd)Obara ngbali elu mgbe odi ime \ne)Imu otutu umu \nf)Oke ime-omume \ng)Oke ibu \nh)Inu ogwu ndi na-akpali ime-omumu \ni)Nje \nj)Inu ogwu iji kwusi ime omume \nk)Iji igwe muo nwa \nl)Ike ogwugwu \nm)Inwe apa n’ime akpa nwa \nn)Obara enweghi ike ikpuko.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50a.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50d.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50e.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Nhazi Omumu",
+        "content": "Ihe ndi I kwesiri ima banyere nhazi omumu \na) Nari nde abuo na iri na ano (214m) umu nwanyi no n’ogo imu nwa n’obodo n’emepe emepe anaghi eji nhazi omumu ogbara ohuru eme ihe \nb) Usoro nhazi omumu ufodu dika ogbunnabuenyi n’enye aka egbochi ibute oria obiri na aja ocha n’oria ndi ozo ana-enweta site n’mmekoahu. \nc) Nhazi omumu n’ebelata ite ime, karisia, ite ime ndi di ize ndu. \nd) Nhazi omumu n’enyere ezinulo aka ikpebi umu ole ha choro imu. \ne) Siten’izere ituru ime mgbe ana-achoghi, nhazi omumu n’egbochi onwu ndi nne na umuaka. Nhazi omumu n’enyere ezimulo aka imebi umu ole ha kwesiri imu na mgbe nwanyi kwesiri ituru ime. Igwo atughi atu na amughi amu na iji ihe ndi eji egbochi afo ime eme ihe bu uzo esi eme nhazi omumu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother52.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee uzo kasi di ire esi achikwa imu nwa",
+        "content": "Ufodu ihe na-ekpebi uzo kasi di ire isi chikwa imu nwa. Ha gunyere, Afo ndu nwanyi, onodu ahuike dika oria obi, obara ngbali elu, kansa, dgz. Nhoro ma nwanyi oga-eji nani ara zuo nwa ma obu na-ogaghi eji.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother53.jpg"
+          }
+        ]
+      }
+    ],
+    "general_health": [
+      {
+        "name": "Gini bu kolostrum?",
+        "content": "Kolostrum bu mmiri ara mbu ní agbaputa ní ara nwanyi. Ara níemeputa ya mgbe nwanyi di ime. Kolostrum di ntakiri níotutu, ma o na ñ enyeaka wusie ahu ike ma buso oria agha. Ara na-emeputa kolostrum ogologo oge tupu a muo nwa. Dika okike si di, mgbe nwanyi musiri nwa, ara ga-emeputakwu mmiri ara. Mmiri ara mbu ga-aba nwata ní ohu bu kolostrum.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini mere obi m ji aku kwem kwem ososo mgbe o na-enweghi ihe kpatara ya.",
+        "content": "Obi iku kwem kwem ososo, mgbe o na-adighi oke ihe merenu adichaghi njo, oga akwusi níonwe ya. Ma o puru ibu ihe mgba ama nke nsogbu. Obi iku kwem kwem ososo puru ibu níihi ihe ndia:- \n a. Uko Obara. \n b. Oria Obi. \n c.Obi akughi nke oru oma site ní omumu. \n d. Mmebi akwara obi níihi oria obií \n e.Mmega ahu. \n f.Isi siga \n g. Ahu mgbakasi na ujo. \n h.Ahu oku. \n i. Obara ngbali elu na obara ngbatu. \n j. Inu oke ihe onunu níaba níanya. \n k. Ihe ndi si níogwru puta. \n l.Inu oke mmanya oto biri-biri na ihe onunu eji suga meputa. \n m. Iji ogwu eme ihe níuzo níezighi ezi. \n n. Thyroid irubiga oru oke.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata ujo?",
+        "content": "Ujo na-abia mgbe  eyiri mmadu egwu.\nUjo bu ihe ebuputa uwa nke na-eme ka ahu mmadu di njikere ihu ihe ize ndu site níiluso ya ogu ma obu igbapu oso. Níihi ya ujo di nkpa iji chebe anyi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata oria ma o bu anya ngbu’",
+        "content": "Umu ahuhu di iche iche níakpata oria anya. Ihe ama nke oria anya bu:- anya igbu ngbu, anya mmiri igbaputa, ihe idaba níanya na anya iko oko, obere anya oziza níiku anya ma o bu ní mbubara anya, anya iko ose na anya igbu ngbu mgbe o lekwasiri oku ma obu mbara igwe.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata ahu okenye icha ndu-ndu?",
+        "content": "Ahu icha ndu-ndu bu mgbe anya ocha na akpukpo ahu mmadu bidoro chawa odo-odo. O bu ihe ama nke oria umeji, akpa mmamiri, pancreas na obara. Ahu icha ndu-ndu bu ihe ama na-enwere unyi na nsi ndi no ní ime obara.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata oyi itu ní Obi?",
+        "content": "Oyi itu níobi na-amalite mgbe akpa iku ume na akuku ahu ndi níeme ka ekue ume nwere nje. Obu ihe ana-ahukari ní oge oyi. O na-eji ukwara ebido. Ihe ama ya bu-azuzu, isi owuwa, anya igba mmiri, na akpiri ntachi. Ndi na enwekari oyi itu níobi bu umu nwanyi di ime, ndi níese anuru oku, ndi okenye na umuaka, ndi ahu níesichaghi ike iluso oria ogu, diíka ndi ní aria oria Kansa, ukwara ume oso, oria obi dgz. Ipuru izere oyi itu níobi site níikpuchi onu gi nke oma mgbe izere uzere, site ní ikwo aka mgbe nile. Ejila otu akwa npekere eme ihe mgbe nile. Tufue akwukwo eji aga npochi iji mee ihe ozugho.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu esi agwoo oyi itu n’obi",
+        "content": "Ime ihe ndi ga-enyere gi aka igbochi oria oyi itu n’obi \n  (a) Jiri mmiri nnu kwukwua onu gi-ntuziaka: were otu ngaji nnu tinye n’otu iko mmiri oku. Chere ka nnu ahu gwarie nke oma. Jiri mmiri nnu ahu kwukwua onu gi ugboro abuo ma o bu ato kwa ubochi. \n (b) Kue anuru mmiri oku. Ntuziaka:- gbanye ezigbo mmiri oku níboketi:- tinye ntapu ole na ole nke mmanu peppermint ma o bu mmanu‘Eucalyptics’ Tinye akwa nhicha ahu níisi gi ma kpudo ihu nî ime boket ahu si otua níekuru anuru oku ahu rue minute ole na ole. O ga-eme ka azuzu laa.\nJiri mmiri oku saa ahu gi. Cheta:- Umu nwanyi di ime, umuaka, na ndi nwere oria obi ma o bu obara ngbali elu ekwesighi iji usoro a mee ihe. \n (c) Jiri ìapple cider vinegarî mee ihe:- Apple cider vinegar níeme ka ahu sie mmadu ike ibuso oria agha. Ntuziaka. Tinye nkaji abuo nke apple cider vinegar ana-azaghi aza níime mmiri di oku. Tinye otu ngaji mmanu anu-níuo ya ugboro abuo ma o bu ato kwa ubochi. \n (d) Jiri jinja mee ihe:- ntuziaka:- tinye otu ngazi jinja akworo akwo níime otu iko mmiri oku ma kpuchie ya. Hapu ya rue nkeji ise ozo, tinye ntakiri mmanu anu níya. Nua ya ugboro ato kwa ubochi. Mao bu kwokota jinya agbara ní anwu, ose igbo na cloves, tinye ya mmanu anu iji mee ihe onunu níotutu di iche iche kwa ubochi. \n (e)Jiri ìtumericî mee ihe:- Ntuziaka:- tinye turmeric akworo akwo níime otu iko mmiri oku. Jiri ya kwukwua onu ugboro abuo ma o bu ato kwa ubochi. Ipuru itinye turmeric akworo akwo níime mmiri ara ehi ma sie ya níoku. Tinye ngaji mmanu anu abuo ní obere ose igbo, Nuo ya ní oku odikaria ala ugboro ato kwa ubochi. Apple cide vinegar na turmeric akworo akwo níaru onu nke oma.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7d.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7e.jpg"
+          }
+        ]
+      },
+      {
+        "name": " Gini na-akpata mba mmuo (Ihe osise)?",
+        "content": "Ihe na-akpatakari mba mmuo bu uzari akwaa di iche iche ndi níenye nsogbu ní uburu. Otutu mgbe, ihe na-akpata ya edochaghi anya. Mmiri ogwu ndi no ní obara puru ikpata ya, apa isi na nje ndi dika iba ocha níanya níihe osise sokwa. Ihe na-akpatakari ihe osise bu ahuoku. Ihe ozo na-akpataya bu mba agbara, enweghi ikuku ní uburu, nkwaru site ní omumu, na etito ní uburu. Ihe osise puru ibu ihe oria mmamiri, otutu suga idi ala ma o bu iri elu kpatara.Uko vitamin B6 níahu pukwara ikpata ya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini bu ehighi ura nke oma?",
+        "content": "Ehichaghi ura nke oma bu mmadu inwe ihe isi ike ihi ura, asigodi níonye ahu nwere ohere ihi ura.\nUtodu ndi nwere nsogbu a enweghi mmasi otu ha si ehi ura ma níenwe ahumahu nke ihe ndia níesonu:- Ike ogwugwu, enweghi ume, anaghi nti nke oma, ahu mgbakasi, na ida uko níulo-oru ma o bu ní ulo-akwukwo.\nIhe ndi a sonu na-akpatakari ehighi ura nke oma:- \n (a)Inwe ihe isi ike ihi ura. \n (b)Ike ogwugwu. \n (c)Ibili mgbe mgbe níabali. \n (d)Enweghi ume. \n (e)Inwe nsogbu ilaghaihi níihe ndina. \n (f)Anaghi nti nke oma. \n (g)Ura na adighi ato uto. \n (h)Ida uko níulo-oru ma obu ulo akwukwo. \n (i)Ahu mgbakasi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth9.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gimi bu oria HELLP",
+        "content": "HELLP bu ndebiri nke oria ato di njo ndi metutara obara idi ala n’ahu na oria umeji. Oria a di njo ma nwekwa ike iwepu ndu mmadu. Ihe na-akpatakari ya bu oke ujo. Ihe mgba ama oria HELLP bu afo oruru, igboo agboo, elu elu afo igbu ngbu. Oria HELLP nwere ike imebi akuku ndi ozo di nkpa, n’ihi ya ekwesiri ime ngwa ngwa lebara obara ngbali nke nwanyi di ime anya iji chebe ya na nwa ya. N’ onodu ufodu, a puru imu nwa ahu n’erughi eru.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gimi na-akpa nti ngbu",
+        "content": "Ihe na-akpata ti ngbu bu nje, nmeru aru ma obu ihe oziza. Oria nti bu isi ihe na-akpatakari nti ngbu. Ihe ndi ozo gunyere:- \na)Ngbanwe n’ikuku n’abanye n’ nti dika mgbe mmadu n’efe ugbo elu \nb)Ncha ma o bu mmiri ibanye n’nti \nc)Aja ma o bu ahihia ibanye n’nti \nd)Akpiri ntachi \ne)Eze ngbu \nf)Iwa eze \ng)Nti nfukwa \nh)Okpukpu ima jijiji nke metutara agba.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gimi bu ejeghi npochi nke oma?",
+        "content": "Ejeghi npochi nke oma bu mgbe o na-esiri mmadu ike inyu nsi ma o bu enweghi ike inyu nsi otu okwesiri. Otu ndi mmadu si anyu nsi di iche iche. Ufodu mmadu níanyu nsi ugboro ato níubochi ebe ndi ozo ní anyu nsi ugboro ole níole níizu. Ejeghi npochi nke ema bu ihe ana-ahukari nke na adighi oke njo. Oburu na mmadu anyughi nsi rue ubochi ato, odighi ihe ojo di ya, nani nío puru ime ka nsi onye ahu sie ike mgbe o na ñ eje npochi. Ihe ama nke ejeghi npochi nke oma bu:- ejeghi níulo npochi mgbe mgbe, inwe ihe isi ike inyupu nsi nsi, isi ike ma o bu obere nsi, anyu achi nsi na afo otito.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth12.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi na akpata ejeghi npochi nke oma",
+        "content": "Nke a puru ime:- \n (a)mgbe I gbanwere udi nri ina-eri na ihe omume ina-eme. \n (b)Mgbe I na-erighi utara nke oma. \n (c)Iriri akwa na mmri ara ehi nke uku. \n (d)Mgbe ino otu ebe. \n (e)Mgbe ikwusiri ichi nsi. \n (f)Inubiga ogwu afo osisa oke. \n (g)Mgbe inuru ogwu ìantacidî nke nwere calcium na aluminium. \n (h)Mgbe inuru ogwu ndi na-eghochi ida mba níobi. \n (i)Mgbe I nwere nsoghu iri nri. \n (j)Mgbe I nwere afo nsogbu. \n (k)Mgbe akwara ndi níenye aka egberi nri nwere nsogbu. \n (l)Mgbe I nwere kansa na kolon gi. \n (M)Ndoli.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth13.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Oko Akpata",
+        "content": "Oko akpata na-abia mgbe ohere ososo si apu níahu mmadu kpochiri. Ana-ahukari ya níihu, elu azu, ubu, egedege ihu na obi. Oko akpata níenwe isi ocha ma o bu isi oji, pimple na agbakwa níihu. O na-aghakari ndi ntorobia, ma ndi no níafo ndu di iche iche na- enwekwa ya. Oko akpaata anaghi eji ike ala, níihi na ka otu níala ka ozo na-aputa. O na-ebute apa ní akpukpo ahu. Apuru igwopu oko akpata.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth141516.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ama nke oko-akpata",
+        "content": "Ana-eji otu oko a siruru níike amata ya: \n a.Isi ocha (ohere kpochiri akpochi). \n b. Isi ojii (ohere ghere oghe). \n c. Etito ntakiri níacha uhie uhie ma-níegbu ngbu. Pimple ndi nwere abu níonu. \n Oko ndi buru ibu, sie ike no níokpuru ihu akpukpo ahu. \n d. Oko ndi níegbu ngbu, nwere abu no níelu akpukpo ahu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth141516.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi na-akpata oko akpata:-",
+        "content": "Ndi a na-akpata oko akpata: \n (a)Ahu imeputa oke mmanu. \n (b)Bakiteria. \n (c)Ikpuchi ohere ososo si apu. \n (d)Homonu níahu maka akpukpo ahu irubiga oru oke.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth141516.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini bu oyi iba mmadu n’ahu’?",
+        "content": "Oyi iba n’ahu bu oria nke akpa ikuku nke n’eme ka mmadu daa oria. Ihe mgba-ama ya bu ukwara, ahu oku, ekughi ume nke oma. Apuru ino n’ ulo gwo oria oyi iba mmadu n’ahu. Ona-ewe izu abuo rue ato. Ndi agadi, umuaka na ndi nwere oria ndi ozo puru iga ulo ogwu maka nlebara anya. A puru ibute oria n’ebe niile dika n’ulo-akwukwo na ulo-oru, ma o bu n’ ulo ogwu ma o bu n’ebe ana-amu nwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth1718.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gin na-akpa oyi iba mmadu n’ahu’?",
+        "content": "O bu umu ahuhu. Oria a n’ebido mgbe mmadu kubanyere umu ahuhu nd ahu n’akpa iku ume ya. Ona-adi nfe ndi nweburu oyi ibute oria. Umu ahuhu ndia ahu n’eme ka osiere akpa iku ume ike ibuso oria agha, si otu a mee ka oyi banye mmadu n’ahu. Ndi nwere oria na-adighi ala ala dika ukwara ume-oso, kansa, oria obi ma o bu oria mmamiri n’ebutekari oria oyi iba mmadu n’ahu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth1718.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe Mgba-ama nke oyi ibaa mmadu n’ahu’",
+        "content": "ihe mgba ama ya n’abia n’ike n’ike, ha gunyere:- \n (a)Ukwara na-acha akwukwo ndu nke gwakotara obara. \n(b)Oke ike ogwugwu \n(c)Ahu oku \n(d) Iku ume oku-oku na ume nkuchi \n(e)Eze ima jijiji n’ihi oyi \n(f) Obi iku kwem kwem n’ike n’ike \n(g) Afo oruru na igboo agboo \n(h) Obi ngbu nke na-aka njo mgbe mmadu kwara ukwara ma o bu kue ume \n(i) Inyu obara-obara",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth19.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu esi agwo oria oyi ibaa mmadu n’ahu’",
+        "content": "Dokita gi ga-enye ogwu dabere n’ihe kpatara oyi ji baa gi n’ahu. Biko, nuo ogwu ndi ahu otu dokita gi si gwa gi. Akwusila inu ogwu gi rue mgbe inuchara ha nile, asigodi n’ahu adila gi nma. Onye dokita nwere ike inye ogwu ogbu nnu oria na ogwu ndi ozo dabere n’ihe kpatara oyi iba mmadu n’ahu. Nucha ogwu gi nile, zue ike nke oma, nuo mmiri na ihe onunu ndi ozo. Esela siga.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth20.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu esi akwopu aka",
+        "content": "Ikwopu aka nke oma bu otu uzo di ire esi eme ka aka na mbo aka di ocha, ma ghara ibute nje. Ikwo aka nke oma di nkpa iji nwee ezi ahu ike.Ihe ndi eji akwopu aka ocha gunyere:- \n (a)Mmiri di ocha. \n (b)Ncha. \n (c)Akwa nhicha aka di ocha/akwa/akwukwo npochi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth22.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Usoro esi akwopu aka ocha",
+        "content": " \n (a) Tinye aka gi nímmiri. \n (b) Gbaa ncha níaka gi rue mgbe ufufu putara. \n (c) Kwe ka obeaka aka nri gi kwo nke aka ekpe. \n (d) Sachaa ohere di ní ime mkpisi aka gi. \n (e) Sachaa azu aka gi. \n (f) Sachaa onu onu nkpisi aka gi. \n (g) Sachaa nbo aka gi niile. \n (h) Sachaa ogwe aka gi. \n (i) Jiri akwa ndicha aka hichaa aka gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth23.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=3PmVJQUCm4E"
+        ]
+      },
+      {
+        "name": "Uru ikwo aka bara",
+        "content": "Ikwo aka níeme ka e nwee ezi ahuike na idi mma. O na-enyere anyeíaka ighara ijiri aka anyi bute oria na nje. O na-eme ka izere itinye ihe ndi ina-ekwesighi itinye níonu gi. O na-egbochi ibute oria Ebola na oria onyunyu na igboo agboo.  O na-echebe anyi ndu ma mee ka anyi ghara iria oria.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth24.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mgbe ekwesiri ikwo aka",
+        "content": " \n (a) Mgbe egwusiri egwu. \n (b) Mgbe arusiri oru. \n (c) Mgbe ezesiri uzere ma obu ukwara. \n (d) Mgbe gi na anumanu gwusiri egwu. \n (e) Mgbe igasiri npochi. \n (f) Tupu esibe nri na mgbe esisiri nri. \n (g)Tupu eribe nri na mgbe erisiri nri. \n (h) Tupu imetu nwa gi aka ma obu nye ya nri. Ido aka nínti:-Gi na onye ozo ejila otu akwa nhicha aka níeme ihe, jiri akwa nhicha aka di ocha hicha aka mgbe I kwosiri aka. \n  1. Saa efere iji akwo aka ma mee ka ebe idebere ya di ocha. \n 2. Beecha nbo aka, ka nkpisi aka nwee ike wepu nje. \n 3. Oburu níenweghi ebe mmiri níagba, choo onye ga-agbanyere gi mmiri. \n 4. -Ejila mmiri ndi ozo ji kwoo aka, akwo aka gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth25.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=3PmVJQUCm4E"
+        ]
+      },
+      {
+        "name": "Idi ocha onwe onye",
+        "content": " Idi ocha bu uzo anyi si edebe ahu anyi ocha ma jie ejiji di nma. O na-eme ka anyi mwe ezi ahu ike, níih iya ndi nne na nna kwesiri ikuziri umu ha otu ha ga-esi debe onwe ha ocha. Ndi nne na nna ga ñeme ya site níigosi ezi ihe nlereanya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth262728.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi bu isi n’idi ocha onwe onye",
+        "content": " \n (a).saa ahu gi mgbe niile. \n (b) Jiri ncha na mmiri kwoo aka mgbe ijesiri npochi. \n (c) Yiri akpukpo ukwu mgbe o bula I no na-ezi kuziere umuaka gi ime otu a. \n (d) Saa eze gi ugboro abuo kwa ubochi, ututu na anyasi. \n (e) Ekwela ka ewu na umuanumanu ndi ozo bata níebe gi na umu gi níedina. \n (f) Ekwela ka nkita michaa ahu umu gi ma obu magoro níelu ihe ndina ha. \n (g) Debe ulo gi ocha mgbe niile. \n (h) Saa ma gbasaa ihe ndina gi, akwa na uwe gi na umu gi, ma kwee ka anyanwu koo ha.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth262728.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=zh7CACofsio"
+        ]
+      },
+      {
+        "name": "Ihe ndi mere iga-eji di ocha",
+        "content": " \n (a) O na-ebelata ihe izendu nke ibute nje na oria. \n (b) O na-ebelata ugboro ole I ga- aria oria. \n (c) O na-ebelata itufu ego níulo ogwu. \n (d) O na-eme ka inwe ugwu, níihi na onye di ocha níeme nke oma karia onye níadighi ocha. \n (e) O na-eme ka ndi ozo meta gi enyi. \n (f) O na-eme ka ndi nne na nna buru ezi ihe nlere anya nye umu ha.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth262728.jpg"
+          }
+        ],
+        "video": [
+          "https://study.com/academy/lesson/the-importance-of-personal-hygiene.html"
+        ]
+      },
+      {
+        "name": "Gin bu ukwara nta",
+        "content": "Ukwara nta bu oria nje nke ikuku níebufe site níotu onye ga-ebe onye ozo no. onye nwere ukwara nta ana-agwopughi agwopu puru ibufere ya ndi ozo mgbe o kwara ukwara, kwue okwu, zee uzere, buputa asuu, chia ochi ma o bu bua abu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth29.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=U2D6LX-92zA"
+        ]
+      },
+      {
+        "name": "Ihe mgba-ama nke ukwara nta",
+        "content": " \n (a) Ikwa ukwara rue izu abuo ma o bu kari. \n (b) Ike ogwugwu. \n (c) Ikwaputa obara. \n (d) ososo igba ní abali. \n (e) Enweghi nmasi iri nri. \n (f) Ita ahu. \n (g) Ahu oku. \n (h) Oyi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth30.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?time_continue=4&v=DXK_2WBuxb4"
+        ]
+      },
+      {
+        "name": "Gini na-akpata iro ura?",
+        "content": "Otutu ihe puru ikpata iro ura dika nsogbu ní ime ime nti, nje, nmeru ahu nínti na enweghi ahu-ike. Ihe ndi ozo puru ikpata ya bu nchegbu, uko otutu ihe níagbasi okpukpu ike di níobara, otutu suga di ní obara idi ala, okpomoku na anughi mmiri nke oma.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth31.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ikpo-nga n’ihu nso",
+        "content": "Ikpo nga n’ihu nso bu ihe ana-ahukari n’ebe umu nwanyi malitere ihu nso ohuru na ndi ruwere ogo ikwusi ihu nso. O buru na I na-enwe ihe-nfu mgbe I na-ahu nso, biko kpoturu dokita gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth32.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi na-akpta ikpo-nga n’ihu nso",
+        "content": " \n (a)Thyroid nmebi:- Thyroid na-achikwa homonu nke níahu maka ihazi oru n’ahu mmadu. Mgbe thyroid nwere nsogbu, o puru ikpata ikpo nga ní ihu nso. E nwere udi nmebi thyroid abuo di iche iche: nke na-adighi aru oru na nke na arubiga oru oke. Ihe na-egosi ní thyroid adighi aru oru bu oke ibu, ike ogwuogwu, oyi na nkuda mmuo. Ihe ama nke thyroid na-arubiga oru oke bu:- ita ahu, nchekasi, na ihe iza ní olu. Onye dokita kwesiri inyocha oria a ma deputa ogwu. \n (b)Polycystic ovary syndrome:- Nke a bu mgbe obere oko níeto níelu ovaries. Nke a puru igbochi akwa isi níovary nwanyi dapu ma mee ka okpoo nga ní ihu nso ya. Ufodu umunwanyi ndi níenwe nsogbu níagba aji níihu ha. \n (c)Kansa: Kansa puru ikpata ikpo-nga níihu nso. Ikpo-nga n ihu nso bu ihe ama na-emwere kansa níime ime ike nwanyi. Mee nnyocha doro anya ma o buru ní ina-enwe ikpo-nga níihu nso gi. \n (d)Ita ahu ma o bu ibu ibu putara ihe:- Mgbe nwanyi buru ibu ma o bu taa ahu ngwa ngwa, o puru ikpata ikpo-nga níihu nso. Hu dokita gi maka ibu-ibu gi. Níeri ezigbo nri mgbe ina-elebara I bu ibu gi anya. \n (e)Ndoli:- Ndoli na-eme ka umu nwanyi ghara ihu nso ha mgbe okwesiri.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth33.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Uru nhazi omumu bara",
+        "content": " \n (a)O na-eme ka di na nwunye nweta usoro nhazi omumu ogbara ohuru. O na akwalite ahu ike umu nwanyi na mmepe obodo. \n  (b)O na-echebe umu nwanyi puo níihe izendu nke idi ime. Nwanyi ikpebi idi ime na mgbe o ga adi ime. \n (c)Ona-egbochi ite ime níihi na o na-eme ka nwanyi ghara idi ime mgbe o na-achoghi. \n (d)O na-ebelata onwu umu-aka, níihi na imu okworo taa mua-echi puru ibute onwu umuaka. O na-ebelata nwanyi inwu níafo ime. \n (e)O na-egbochi ibute oria obiri níaja ocha (HIV/AIDS) níihi na nwanyi di ime bu oria a nwere ike ibufere ya nwa o bu níafo. Ozo, iji okpu nna bu enyi enwe nmekoahu níegbochi ibufere ndi ozo oria (HIV/AIDS). \n (f)O na-enye ndi mmadu ohere ikpebi udi omumu ha choro. O na-enye umu nwanyi ohere igu akwukwo ma nweta oru bekee, ebe ha na-adighi elekota otutu umu. Ozo, ezinulo puru ichekwa ego ha ga-eji zua umu ha níakwukwo. \n (g)ona ebelata umu agbogbo ituru ime. Umu agbogho ndi turu ime níoge no ní ihe ize ndu nke afo ime. Ha na-amukari nwa pere npe nke na-erughi eru. Ha na-akwusi akwukwo ma lekotawa nwa ha. Ihe ndi si níituru ime níoge puta níadite anya níebe ezinulo na obodo ha no. \n (h)Ona-ebelata ubara mmadu níime obodo. Oke ubara mmadu níenye aku na uba obodo na mbara ala nsogbu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth34.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Uzo ogbara ohuru esi egbochi ituru ime ",
+        "content": "(a) Ogwu ana-anu iji gbochie afo ime ana-akpo ìPILLî:- O nwere udi Homonu abuuo. Oru ya bu igbochi ndapu nke akwa site níovary. Onwere 99 perecent ihe iga nke oma níigbochi afo ime ma ejiri ya mee ihe nke oma. Ona-egbochi ìOvarianî kansa. \n (b) Progestogen-only pills (POP) / minipill ñ nke a nwere nani otu ìHomonuî. O na-eme ka ihe dika akamu no níike nwanyi gbochie obara ocha nwoke na akwa nwanyi imekota. O na-egbochi akwa idapu. O nwere percent 99 ihe iga nke oma níigbochi afo ime ma inua ya nke oma kwa ubochi. Nwanyi na-enye nwa ara puru inu ya. Cheta inu ya níotu oge kwa ubochi. \n (c)ìPILLî Mberede ñ Nke a bu ogwu ana-anu mgbe ubochi ise inwesiri nmekoahu níejighi ihe obula eji egbochi afo ime mee ihe gasiri. O na-eme ka akwa idapu níime akpa nwa gbue oge. Onye edinara níike puru inu ogwu a iji gbochie ituru ime. Cheta, onaghi enye nwa ebu na ato nsogbu. \n (d)Ihe ndi ana-etinye níime ahu:- Nke a bu obere nkpuru ogwu ana-etine níakwa aka nri.\nO nwere homonu. O na-eme ka ihe dika akamu níike nwanyi sie ike ma gbochie akwa na obara ocha nwoke ijikota. O nwere ihe iga nke oma parcent iri itolu na itolu (99%) igbochi afo ime. O bu onye dokita níetinye ma wepukwaka ya. O puru ino afo ato rue ise na-adabere níudi ya. O puru ime ka obara gbaa gi nke uku mgbe I no nínso, ma o dighi enye nsogbu. \n (e)IUD ma o bu Copa T. Ihe a yiri T níile anya. Ana-Etinye ya níakpa nwa nwanyi. O na-aru oru site níimeputa kopa ma o bu homonu nke puru ime ka akwa ghara idapu. O puru ime ka nso nwanyi note ogologo oge ma gbasie ike. O nwekwara ihe iga nke oma níigbochi ituru ime.O pukwara ime ka nwanyi kpoo nga níihu nso ya. O na-akwusi ihu-nso níihe ngbu ya. \n f)Ndudu, Ana-agba ya níime otu onwa, abuo ma o bu ato obula na-adabere níudi o bu. Nke otu onwa níegbochi obara ocha nwoke imetu akwa nwanyi. Nke onwa abuo ma o bu ato níegbochi akwa isi níakpa daba níakpa nwa. O na-egbochi afo ime. O puru ime ka nwanyi kpoo nga n ihu nso ya. \n (g)  Okpu nna bu enyi Umu nwoke:- O bu ihe nwoke níeyi níutu ya. O na-eme ka obara ocha nwoke ghara ibanye níike nwanyi. O nwere pacent iri itoolu níasato (98%) ihe iga nke oma níigbochi afo ime. O na-egbochikwa oria ndi ana-ebute site ní inwe nmekoahu. Biko, tnye okpu nna bu enyi gi nke oma mgbe obula ichoro inwe nmekoachu. \n (h) Okpu nna bu enyi umu nwanyi:-  Umu nwanyi na etinye ya níime ime ike ha. O na-egbochi obara ocha nwoke ibanye. Ona-egbochi afo ime ime na oria ndi ana-ebute site níinwe nmekoahu. \n (i)Ipi nwoke amu:- nke a bu ikpochi kpam kpam uzo obara ocha nwoke si esi níamu abanye níutu ya. O bu iwepu akwara nke níebu obara ocha nwoke kpam kpam. Ebe nke a níeme ka nwoke ghara itu nwanyi ime níndu ya niile, e kwesiri igwa nwoke ihe niile banyere nke a, ma hapu ya ka o mee nkpebi. O na egbochi ituba nwanyi ime. \n (j)Ibi nwannyi ime:- Nke bu ikpochi kpam kpam uzo akwa si abanye níime akpa nwa. O na-egbochi akwa níobara ocha izukota, o na-egbochi afo ime. Ebe o puru ime ka nwanyi ghara itu ime ozo níndu ya, ekwesiri isoro ya kwurita ihe niile banyere ya, ma hapu ya ka o kpebie.",
+        "video": [
+          "https://www.youtube.com/watch?v=uaICnx0BfZQ"
+        ],
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "Uzo odinala di iche iche esi egbochi ituu ime",
+        "content": "(a)Inye nwa gi nani mmiri ara:- Dika, okike si di, nke a bu uzo di nke nke esi egbochi ituru ime. Mgbe nwanyi na-enye nwa ya nani ara otutu na abali, o ga-eme ka akwa ghara ibanye níakpa nwa. O na-egbochi ituru ime ma o buru na eme ya níuzo kwesiri ekwesi. Cheta na o naghi adabara umu nwanyi niile, kama o dabere níebumputa uwa ní ahu onye. \n (b)Igu ubochi:- Nke a bu iji akwukwo mgbe ato níagu ubochi iji mata mgbe nwanyi  di njikere ituru ime. O nwere pasenti 91% Ihe iga nke oma níigbochi ituru ime. Ubochi mbu nke mwanyi huru nso bu mmalite (DAY1) guru ya rue níubochi nke iri na buo (Day 12). Malite níubochi nke iri níabuo rue níubochi nke iri na isii (DAY 16) ka nwanyi nwere ike ituru ime ma o bun a ya na di ya enwe nmekoahu na-ejighi ihe ngbochinobula. Nke a putara nía o bu nani nani níime ubochi ise (5) ka nwanyi puru ituru ime. Akwa na-abanye níakpa nwa mwanyi níubochi nke iri na ano (14) mgbe o husiri nso. O ya, o puru ituru ime malite níubochi nke iri na ano rue níubochi nke iri na isii. O buru na o nwewo nmekoahu níubochi nke iri na abuo, obara ocha nwoke banyere  ya ní ahu puru idi ndu rue níubochi nke iri na aro mgbe akwa ya ga-abata níakpa nwa ya. Níiho ya o puru ituru ime.\nIji muta ya nke oma abughi igu nani ubochi di níakwukwo mgbe afo kama o bu \nImata ubochi nso gi malitere ní ubochi akwa puru ibata níime akpa nwa gi. Dika\nihe atu, o buru nínso gi malitere nímonde July 23, 2018, monde ahu bu ubochi\nmbu nke ihu nsi gi, guru ya rue ubochi nke iri na abuo nke bu fried ubochi nke\nato níonwa Ogostu 2018 (Friday 3 Aug 2018). Gurukwa rue Tuesday Aug 2018\nbu ubochi nke iri na isii. Malite na friede Aug 3 rue Tuesday Ogost 6, ikwesiri\nichebe onwe gi ka ighara ituru ime. Cheta níigu ubochi  ihu nso bu otu ihe nye\nnwanyi obula ma nke ubochi ihu nso ya bu iri abuo níise (25days) ma o bu iri ato\nníabuo (32) days. Ma o naghi adabachara umu nwanyi ndi níakpo nga níihu nso\nha. \n (c)Isepu utu: Nke a bu nwoke isepu utu ya site níike nwanyi ka obara ocha wee pusia ma o bu ghara ibanye níahu nwanyi. Nke a puru igbochi ituru ime ma ihe ize ndu di ya, níihi nwoke amachaghi mgbe obara ocha ji apu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth36.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Onu isi nsi na ogwugwo",
+        "content": "Isi Ihe na-akpata onu isi nsi bu asaghi onu ka o kwesiri. O bukwa ihe ama nke oria na nje. Idi ocha na isa eze nke oma puru igwota nsogbu a. Juo dokita gi ihe kpatara onu gi ji esi nsi.Enwere onu isi nsi di iche iche na-adabe re na ihe kpatara ya. Iji choputa ma onu gi ona-esi nsi juo ezigbo enyi gi ma obu onye otu ezinulosi. Iji choputa níonwe gi, were ire gi rachaa azu aka gi, hapu ya ka okoo ma jiri imi gi sie ya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth37.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu esi agwo onu isi nsi",
+        "content": "Uzo kachasi nma esi agwo onu isi nsi bu isachapu eze nke oma. Ha gunyere ndi a:- \n (a)Jiri broshi saa onu gi ugboro abuo níubochi. \n (b)Wepu ihe ndi fodurunu níeze gi mgbe irisiri nri. \n (c)Gbanwe broshi gi ní ime onwa ato o bula. \n (d)Jiri ogwu eze ndi níegbu nje saa eze gi. \n (e)Gaa hu onye dokita níahu maka eze maka nnocha na nsacha ugboro abuo níime otu ato. Nke a na-egbochi eze ure. \n (f)Saa Ire gi:- Bakiteria, nri na ahu rere ure na-anyaku níire, karisia nye ndi níese sija na ndi onu ha kporo nku. Were ihe eji akocha ire ji mee ihe. \n (g)Zere onu ikpo nku:- Nua mmiri nke oma. Zere oke mmanya níaba níanya na utaba níihi na ha na-eme ka onu kpoo nku. Zero ita gom na imi ihe oto biri-biri, taa ihe ndi ní enweghi suga nke ga ñeme ka asuu puta gi ní onu. Kpoturu dokita ka o gwa gi ihe I ga-eme maka nke a. \n (h)Nri:- rie nri otutu ga-eme ka azu ire gi di ocha. Zere alubosa, galik na nri chere were. Nri Juputara níihe oto biri-biri níebute iku ume ojo. Zere inu oke mmanya níaba níanya na ihe onunu kofii.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth38.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi na-akpata onu isi nsi",
+        "content": " \n (a) Utaba:- ikpo utaba na-ebute onu isi nsi di iche iche. Ozo, ona-amuba ohere anyii, eze nwere ibute oria eze, na-ebutekwa ikupu ume ojo. \n (b)Nri:- Nri ifodu na-eze na-ebute  onu isi nsi. Nri ufodu dika alibosa, galik na-ebute ukoro ojo. Nke a bu níihi na mgbe ha gbariri, ihe ndi si na ha puta níabanye níobara si otua mee ka ekue ume ojo. \n (c)Onu ikpo nku:- Onye okike mere asuu iji saa onu, oburu na onu akpoo nku, onu isi nsi puru imalite. \n (d)Isa eze: Isa eze na inacha ya nke oma iji hu na onweghi nri foduru níeze puru inye aka mee ka onu ghara isi nsi. Asaghi eze kwa ubochi ugboro abuo ní eme ka ihe di iche nyako níeze na ire si otu a kpata anyii na eze ure. Sachapu ime ime onu na okpuru eze gi iji zere oria anakpo ìhalitosisî. \n (e)Nri cham-cham:- ibu onu na iri nri cham cham na-ebute eze ure na onu isi nsi. Nri ndia na-emeputa mmiri ogwu ndi na ebute nsi ojo. \n (f)Ogwu ike:- ogwu ufodu na-ebelata onu imeputa asuu mmiri, si otu bute onu isi nsi. Ndi mmadu ndi na-eri ihe ndi na-enyekwu vitaminî ní ahu na-enwekari onu isi nsi. \n (g)Nje onu, imi na akpiri:- Ihe ito mmadu ní akpiri puru ikpata onu isi nsi. Ozo, mmadu inwe nje níimi ma o bu níonu puru ikpata onu isi nsi. \n (h)Ihe na-adighi níahu:- Ihe ndi di iche iche ibanye mmadu níimi karisia umu-aka puru ikpa onu isi nsi. \n (i)Oria: Oria kansa, umeji na oria ime ahu di iche iche na-ebute onu isi nsi níihi mmiri ogwu ndi ha na-emeputa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth39.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini bu nje npochi?",
+        "content": "Ezigbo aha ana-akpo oria bu ike nwanyi ibute nje. Ihe ama nke oria bu ike nwanyi iza aza, nsi ojo, oko, ahu mgbakasi, na ihe ndi dika akamu ní acha odo-odo ma di ocha isi ní ike nwanyi puta na ahu ngbu mgbe ufodu.\nUdi di iche iche nke ike nwanyi ibute nje bu ìGonorrhea, Chlamydia, vaginal yeast na nje or1a bakiteria. Ihe ndi eji amala ha yiri ibe ha. Niíihi ya odi nkpa iga maka nnyocha iji mata udi nke níenye gi nsogbu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth40-41.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe mgba-ama nke oria/nje npochi",
+        "content": "Bakiteria Vaginosis (BV) \n (a) Ihe ndi níadighi nma nwere isi ojo isi níike nwanyi níaputa mgbe e nwesiri nmekoahu. \n (b)Ihe ndi ahu puru di ocha ma obu níacha anwu anwu. \n (c)Ike nwanyi iko ya oko. \n (d)Ahu ikpo oku mgbe ona-anyu mmamiri. \n (e)Ufodu umu nwanyi asaghi enwe ihe mgba ama o bula. Cheta na-anaghi ebute oria site akwa ihe ndina, oche npochi, na ebe igwu mmiri.\nAna-ebute oria a site \n (a)Isi siga. \n (b)Ituru ime. \n (c)Ima ike mmiri mgbe mgbe. \n (d)Iji IUD eme ihe. \n (e)Inwe nmekoahu aghara aghara ma o bu isoro onye ohuru nwee nmekoahu. \n (f)Nje níike nwanyi. \n (g)Ihe ndi siri ike isi níike nwanyi aputa. \n (h)Inwe ihe ufu mgbe nwanyi níanyu mmamiri ma o bu na-enwe mmekoahu. \n (i)Ike iko nwanyi oko níike ní ike.Ana-ahukari oria vaginal yeast infection níebe onodu ndia no:- \n (a)Ogwu ogbu nnu oria:- Ogwu ndi puru ibibi bakiteria ndi níechebe ike nwanyi si otu a mee ka yeast tobiga oke. \n (b)Ogwu eji egbochi itu ime:- Nke a puru imetuta oru Homonu nke níahazi ahu si otu a mee ka nje ìfungiî malite ito ní ike nwanye. \n (c)Mgbanwe Homonu dika níituru ime, ojuju ihu nso na ikwusi itu ime. Ihe ndia puru inye ohere ka nje malite ito níike nwanyi. \n (d)Ahu ike: Oria mmammiri na ahu enwechaghi ikike iluso oria ogu puru ime ka nje yeast too níike nwanyi.\nTrichonomonias: \n (a)Ihe ndi níagba ufufu isi níike nwanyi aputa. \n (b)Ahu ikpo oku mgbe nwanyi níanyu mmamiri. \n (c)Ike nwanyi iko ya oko. \n (d)Nsi ojo. \n (e)Ahu erughi ala mgbe ana-enwe mmekoahu. \n (f)Ihe ama na-aputakari malaite níubochi nke ano rue ubochi nke iri abuo (20) mgbe ebutesiri oria a site níinwe mmekoahu.\nCheta na oria a bu oria ana-ahukari ní ebe umu nwanyi ndi níenwe nmekoahu aghara aghara no.\nNon-infectious vaginitis:- Mgbe ufodu, enwere ihe ndi na-eme níike nwanyi nke níabughi oria ma obu nje kpatara ya. Ha gunyere:- Ike iko oko, ihe dika mmiri mmiri isi níike aputa, níahu ikpo oku. Ibi ime ma o bu ibepu ihe na emeputa akwa puru ikpata ya. O puru ibu otu uzo ahu nwanyi si azaghachi nye ihe ndi o na-achoghi. Ha bu:- \n (a)Ncha. \n (b)Ihe ndi ana-gba níike. \n (c)Ihe ndi na-egbu obara ocha. \n (d)Ibanti níatagide níike. \n (e)Ncha ndi níesi oke usi. \n (f)Ihe ndi níeme ka ike di peke-peke. \n (g)Ihe ndi eji afachi ike fodurunu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth40-41.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi aga-eme n’ulo iji gwoo nje ike nwanyi",
+        "content": "Vaginal Yest infection:- E nwere ude ike nwanyi ndi eji agwoo udi oria a. o buru na ona-enye gi oke nsogbu, zuru ogwu ìclotrimazoleî na ìfluconazoleî ma nuo ya dika onye dokita si tuzie aka. Asala ike gi mmiri ka oria a ghara ibanye níime ime ike gi na akpa nwa gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth4243.png"
+          }
+        ]
+      },
+      {
+        "name": "Ihe I puru ime níonwe gi iji gwoo nje yeast",
+        "content": " \n (a)Yoghurt: Ruba shampoo níime yogurt ma tinye ya níime ike gi. Mee ya ugboro abuo ní otu ubochi rue mgbe oria a lara. \n (b)Galik:- Bechaa galik ma tinye ya níime ike gi tupu I lakwue ura. Mee ya níabali obula rue mgbe oria a lara. \n (c)Tea Tree Oil:- were obere mmanu si níosisi a tinye níshampo ma tinye ya ní ime ike gi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth4243.png"
+          }
+        ]
+      },
+      {
+        "name": "Uzo A puru isi gbochie oria nje ike nwanye (Nje npochi)",
+        "content": " \n (a)Debe onwe gi ocha mgbe nule. \n (b)Zere iji ncha níekpo oku asa ike gi ma zere igba pafum níike gi. \n (c)Mgbe i na-ehicha otule gi, ekwela ka nsi banye níike gi. \n (d)Zere iyi akwa ndi na-atagide gi níike dika uwe ime nilon ndi níenweghi owu. \n (e)Iji okpunnabuenyi enwe nmekoahu na-egbochi oria ndi ana-ebute site nímmekoahu. \n (f)Inu yogurt na inwe nmega ahu di nnoo nma. \n (g)Zere ude ndi níesi oke usi na akwa ntachi ike. \n (h)Iyi akwa ime ruru unyi ga-eme ka onodu ahu kawanye njo. \n (i)Ga hu dokita níelekota umu nwanyi otu ugboro ní otu afo.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth45and46.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe na-akpata ahu mgbakasi mgbe a sasiri ahu, mgbochi na ogwugwu",
+        "content": "Iko oko bu uzo ahu si azaghachi níihe ní agbakasi ahu di níelu ahu. O na-agwa gi ka iwepu ihe ahu níagbakasi gi ahu tupu o mebie ihe. O puru ibu mmiri, otutu okpomoku, ibitu aka na ihe ndi eji eje npochi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth45and46.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe na-akpata ahu iko oko mgbe asasiri aru",
+        "content": " \n (a) Mmiri:- Mmiri inogide níaru ogologo oge mgbe asasiri aru puru ikpata ahu iko oko. O puru ibu níihi iji ogologo oge saa aruu na ehichaghi mmiri ngwa asasiri aru. \n (b)Otutu okpomoku: o bu onye dokita ga-enyocha ya. Iji mmiri ruru unyi puru ikpata ahu iko oko. Mgbe mmiri ojo kpatara oko iji mmiri oku saa puru ime ka o ka njo. \n (c)Ihe ndi eji asa aru:- Ihe ndi eji asa aru dika ogwu mgbe ha meturu aru mmadu. O buru na ogwu eze emetu gi níaru mgbe I na-asa aru, o puru ikpata aru iko-oku. \n (d)Ichi aru: Iji shampoo chie aru gi nke uku puru ikpata aru iko oku. \n (e)Aru inabata ihe ozo:- Aru ufodu na-anabata ihe ndi ozo karisia mgbe echiri ha nke uku. Nke a na-akpata aru iko-oku. \n (f)Nje:- Enwere umu irighiri nje di iche iche ndi bi ní mmiri. Ha puru ikpata aru iko oku mgbe asasiri aru.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth45and46.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu apuru isi gbochie aru iko oku",
+        "content": " \n (a)Were ncha di juu na shampoo ji saa aru. Ejila ncha ndi níekwocha ahu asa aru. Kwopu ncha na shampoo ngwa ngwa I sasiri aru; ma hichaa aru gi ozugbo. \n (b)Jiri mmiri di nari-nari saa aru níobere oge. Zere iji ogologo oge asa aru, ejila oke mmiri oku asa aru. \n (c)Jiri nwayo chipu ahu gi mgbe I na-asa aru. \n (d)Hichaa aru gi. \n (e)Tee ude níaru gi niile.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth47.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu I puru isi betata aru iko-oko ",
+        "content": " \n (a) Jiri mmiri na ncha saa aru níobere oge. \n (b) Kwee ka aru koo nke oma tupu iyiri akwa gi. o buru na oyi di, yiri akwa ngwa ngwa i hichasiri aru. \n (c) Tee ude vaselin ma o bu ori níebe níako gi oku. Etela ude nwere mmiri mmiri rue mgbe oko ahu lara.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Obara ngbali elu",
+        "content": "Obara ngbali elu bu mgbe otutu obara ngbali mmadu di elu kari 140/90 mm Hg. Onodu a di oke njo ma obu ize ndu nye umu nwanyi di ime.\n Otu odi, obughi mgbe niile ka obara ngbali elu di izendu nye umu nwanyi di ime. Ma o puru ikpata nsogbu ahuike nye ndi nne na nwa ebu na afo. Dika ulo oru níahu maka nchekwa na ngbochi oria si kwue, onu ogugu nke umu nwanyi di ime nímba America nwere nsogbu a ní ari elu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth49.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata obi nkuchi.",
+        "content": "Obi nkuchi bu mgbe ohere obara si abanye ní obi mmadu kpochiri. Oke abuba, ihe si níiri ihe nwere abuba, na ihe ndi ozo puru ikpochi ohere obara si  abanye níobi. Ha níejikota onu ma sie ike nke na ha níakpochi ma obu gbochie obara ibanye níobi. Mgbe obara kwusiri ibanye níobi, o na-ebute nsogbu ma o bu mebie akwara ndi di níobi.\nIhe ndi na-akpatakari ya bu ndia:- \n (a)Ise siga ma obu anuru oku. \n (b)Oke abuba. \n (c)Obara ngbali elu. \n (d)Ndoli ma o bu doga-doga. \n (e)Oria mmammiri. \n (f)Oke ibu-ibu. \n (g)Ino otu ebe níenweghi oru. \n (h)Iri oke nri akwukwo na nkpuru osisi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606553/general_health/GenralHealth50.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini na-akpata imu nwa níenwegi ume ma o bu ike iku ume",
+        "content": "Enweghi ume putara enweghi ikuku nye nwa amuru ohuru. Nsogbu níebido mgbe uburu níakuku ahu ndi ozo di nkpa ní enwetaghi ikuku zuru ezu mgbe ebu nwa afo, tupu amuo ya na mgbe amusiri ya. Nka puru ime níenweghi onye mataranu. Ewuzuga ikuku, akuku ahu ozo niile agaghi aru oru nke oma. Nsi na unyi puru idoko níahu ma mebie ihe. Otutu nsogbu ruru dabere na:- \n (a)Ogologo oge nwata noro níenweghi ikuku zuru ezu. \n (b)Otu otutu ikuku ya di níidi ala. \n (c)Otu esi gwoo nsogbu a ngwa ngwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth51.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe-ama nke imu nwa na-enweghi ikuku.",
+        "content": "Ihe ama ya gunyere ndi a:- \n (a)Ekughi ume ma olií ma o bu iku ume obere obere. \n (b)Akpukpo aru ichaghari. \n (c)Obi iku níuzo di ala. \n (d)Enweghi akwara siri ike. \n (e)Ukwu na aka adighi ati-ati. \n (f)Oke mmiri ogwu níime obara. \n (g)Mmiri eji amu nwa na nsi igwakota. \n (h)Ume nkuchi",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth52and53.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Igwo nwata níekughi ume nke oma.",
+        "content": "Oburu na nwa amuru ohuru nwere nsogbu a, dokita ga-etinyere ya igwe ga enyere ya aka ikute ume rue mgbe nwere ike iku ume nke oma ní onwe ya. Anyi kwesiri ileru umu anyi anya maka ihe mgba-ama nke nsogbu a.\nUmuaka ndi nwere nsogbu a ga-enweta enyemaka site níinye ha:- \n (a)Igwe níenye aka iku ume. \n (b)Ogwu ndi níeme ka ekue ume. \n (c)Ogwu iji gbochie ume nkuchi. \n (d)Iji ndudu si níakwara nye ha nri. \n (e)Mmiri ma o bu mmiri egwu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth52and53.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini bu nje oria obiri na aja ocha (HIV/AIDS)?",
+        "content": "Oria a níebido site na nje nke ji nwayo nwayo níegbusi ikike ahu mmadu nwere iluso oria ogu. Mgbe o bibisiri ihe ndi ahu níechebe ahu mmadu, onye ahu ga-atogworo chako.Otutu kasi elu nke nje a bu mgbe oriri onye ahu aru nke uku wee biri níime onye ahu. O na-ewe afo abuo rue iri na ise ka nje a wee biri-ebiri níime mmadu. Onye nje a bi níime níenwe oria ndi ozo dika kansa, nje nd ozo na oke nsogbu ahuike ndi ozo níihi na o dighi kwa ihe na-aluso oria ogu di ndu níaru ya.Ihe ama nke nje oria HIV dabere ní otutu nje garuru níime ahu. Ihe ama ndi eji amata ya bu-ahu oku, isi owuwa, akpiri ngbapia na oko mgbe ufodu, onye bu nje a agaghi egosi ihe ama obula. Ma, ka oge níaga, o puru inwe otoro, ita-ahu, na ukwara. O buru níagwoghi oria ndia, onye ahu puru inwe ukwara nta, iba ocha na anya nje oria bakiteria, na kansa ufodu ma o bu acha-ere.Onye bu nje a puru ibufere ya onje ozo site níobara ya, asuu mmiri ya, obara ocha ya, mmiri ya, obara ocha ya, mmiri ara ya imetu onye ozo ma o bu ibanye onye ozo níahu. A puru ibute nje site ní isoro onye buya nwee mmekoahu níenweghi ihe ngbochi, jiri otu aguma kpua agiri isi ma obu site ní igbanwetari akuku ahu. A pughi ibute oria a site ní ikwe na aka, mmaku, iyi otu efe, iriko nri na inu mmiri dgz.Uzo kasi mma isi gbochie ibute nje oria a bu:- Ejila otu aguma eme ihe, Zere mmekoahu, soro nani onye otu olulu gi nwee nmkoahu ma oburu na ichoro inwe jiri ogbunnabuenyi mee ihe mgbe ina-enwe nmekoahu. Mee nnocha iji choputa ma I nwere nje oria HIV.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth54.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini bu kansa ma o bu acha-ere?",
+        "content": "Kansa bu mgbe kpuru ndu no níime ahu malitere ito ma gabiga oke. Nkpuru ndu ndi ahu na-amalite iga na akuku ahu ndi ozo. Ihe ana-akpo udi oria bu kansa. O puru imetuta akuku ahu o bula. A puru ihu ya níakpa ikuku, ara, akpukpo aru, afo na amu.\nIhe ndi puru ikpata kansa bu, ihe nche mmri ulo, anuru utaba, anuru oku site osisi na unyi, nje si níumu ahuhu, mmanu ma o bu ude níekpocha ahu, mmiri ogwu utodu na ika nka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth55.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini onyunyu na igboo agboo?",
+        "content": "Nke a bu udi oria otoro nke ana-ebute site níinu mmiri na nri nje banyere. Ihe eji amata oria a bu inyu nsi mmiri mmiri. Afo osisa ya níebido malite níawa iri ní abuo rue ubochi ise, mgbe onye ahu risiri nri na mmiri nje oria a banyere níime ya. Oria otoro ma o bu afo osisa níegbu mmadu ngwa ma o buru níagwoghi ya ngwa ngwa iji gbochie oria afo osisa, biko kpuchie nri na mmiri ka ijiji ghara ibesa ha, kwochapu aka ngwa ngwa ijesiri npochi ma o bu metu nsi aka kwochapu aka gi tupu i rie nri na mgbe I risiri nri, debe ebe obibi gi ocha mgbe niile.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth56.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini bu Ebola?",
+        "content": "Ebola bu oria ogbara ohuru nke nje virus na-akpata. Onye butere oria na-egosi ihe ama malite níubuchi nke abuo(2) rue ubochi nke iri abuo na otu mgbe o butesiri oria ebola.\nIhe mgba-ama izizi ya bu ahuoku, ike ogwugwu, akwara igbu ngbu, isi owuwa, akpiri ntachi. Ihe ama níesochi bu igboo agboo, afo osisa, oko, umeji na akuru nsogbu, obara igba níime ahu níelu ahu, eze igba obara, nsi na obara igwakota. Mmadu puru ibute oria Ebola site níimetu obara, akuku ahu na mmiri si níahu anumanu bu oria a aka dika enwe, ozo dingba, ele, adaka, usuu nta na ozu umu anumanu ndi nwuru onwe ha níime ohia. Mmadu puru ibute oria ebola site ibitu aka ozu onye ebola gburu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth57.jpg"
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "name": "Gini na- akpata oko igha nwoke n’amu ma o bu nwanyi n’ike",
+        "content": "Ihe na akpatakari oko igha nwoke n’amu ma o bu nwanyi n’ike bu nje. Oko igha nmmadu n’ike ma  obu n’amu mgbe ufodu n’esite n’mmiri  ma o bu iju oyi n’akuku ahu ndia, ozo, iyi akwa n’atapagide n’ahu ogologo oge sokwa akpata oko. Oko n’ahu onwe onye puru isite n’ihe si n’ogwu puta na oria ndi ebutere n’mmekoabu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini bu Sifilis (Syphilis?)",
+        "content": "Sifilis bu oria ana-ebute site n’mmekoahu. Ihe ama bu onya n’anaghi egbu ngbu n’aputa n’amu, ike, otule na onu. Ana ebufe sifilis site n’otu onye ozo gafere onye ozo mgbe emeturu onya ahu.\nEnwere sifilis di  iche iche. Ma n’ozuzu, sifilis na-anogide n’ahu obunadi mgbe onya ahu lara. A puru igwo sifilis oso-oso ma o buru na agwopughi ya oso-oso, o puru  ikpata oria uburu, obi na akuku ahu ndi ozo di nkpa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Oria ndi ana-ebute site n’mmekoahu",
+        "content": "Oria mmekoahu bu oria ndi a na-ebute site n’inwe nmekoahu n’ekwesighi ekwesi. Ihe na akpatakari oria a  bu nje. E nwere ihe kariri oria  iri abua di iche iche (20) ana-ebute site n’mmekoahu, ha gunyere:\nChlamydia\nUkwu Uwa\nOta gari \nO biri na aja ocha (HIV)\nIba ocha n’anya \nSifilis (Syphilis)\nTrichomoniasis\nOria ndia edeputara  n’elu n’emetuta ma nwoke  ma nwamji, ma umu nwanyi no, n’ihe ize ndu kari. O buru na nwanyi di ime ebute udi oria (STD’S) nke viros kpatara, oga emetuta ahuike nke nwa ebu n’ afo. \nOgwu ogbu nnu oria puru inyeaka gwoo oria (STDS) nke nje , aruru, ma obu mmiri ojo kpatara. Ma enwebeghi ogwugwu doro anya maka(STDS)nke viros kpatara, ee ogwu ufodu nwere ike ibelata nmuba nke oria ndia.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex3.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=TRGZcNMR24o"
+        ]
+      },
+      {
+        "name": "Inwe mmekoahu mgbe adi ime, opuru inye nwa ebu na afo nsogbu?",
+        "content": "Mbanu, mmekoahu apughi ime ya. Inwe agu mmekoahu ma obu inu uto mmekoahu apughi ikpata ime omume n’ike ma obu ime opupu, otu odi, uto mmekoahu puru ime ka nwa ebu n’ato megharia ahu obere oge. Nkea anaghi enye nsogbu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex4and11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Inwe mmekoahu, o puru ikpata ime erughi eru?",
+        "content": "Mbanu, mmekoahu apughi ime ya. Inwe agu mmekoahu ma obu inu uto mmekoahu apughi ikpata ime omume n’ike ma obu ime opupu, otu odi, uto mmekoahu puru ime ka nwa ebu n’ato megharia ahu obere oge. Nkea anaghi enye nsogbu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Nmekoahu o puru idi iche mgbe m di ime?",
+        "content": "Ee, mmekoahu puru inwe mmetuta di iche mgbe nwanyi di ime. N’ihi na mmasi o nwere n’ebe mmekoahu no puru iri elu ma o bu daa, mmekoahu puru itokwo ya uto. Nke a bu n’ihi n’obara na-aga ziriri werere n’ebe akuku ahu eji enwe mmekoahu no, ha pukwara iza. Mgbe ufodu, nwanyi agaghi enwecha mmasi inwe mmekoahu mgbe o di ime, n’ihi mgbanwe ufodu n’ewere onodu n’ahu ya. Mgbe nwanyi di ime, ara ya na adi pekepeke ma maa mma ibitu aka. Nkea puru ime ka o nwekwue mmasi inwe mmekoahu, ma o bukwanu, o gaghi amasicha ya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Onodu nwanyi puru ino nwe mmekuahu mgbe odi ime.",
+        "content": "Nwanye puru ino onodu di-iche iche nwe mmekoahu mgbe odi ime. Ya na di puru idina akuku na akuku, o puru ino di ya n’elu ma obu di ya anoro ya n’elu.  Di ya pukwara isi n’azu. Nwanyi kwesiri igwa di ya onodu na-ato ya uto n’nke n’egbu ya ngbu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7a.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7_2.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7s.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7j.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex72.png"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=dEWcJIELHGU"
+        ]
+      },
+      {
+        "name": "Nwanyi emwechaghi mmasi inwe mmeckoahu mgbe  o di ime, okwesiri ekwesi?",
+        "content": "Enwechaghi mmasi inwe mmekoahu bu ihe na-emekari mgbe nwanyi ditara ime ohuru. Otu odi, enwela nkuda mmuo n’ihi nke a. I ga- ebidokwa nwewa mmasi mwe mmekoahu mghe agba nke  abuo nke afo ime gi bidoro, Biko, echegbula onwe gi maka ahu gi na nwa ibu n’ afo. Biko, guo akara nke isii(6) nke edemede a.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Nwanyi, o kwesiri iji onu nwe mmekoahu mgbe o di ime?",
+        "content": "Iji onu enwe mmeKoahu mgbe nwanyi di ime adichaghi mma n’ihi ihe ufodu. Ekwela ka di gi jiri onu ya michaa otu’ gi.  o puru ifunye ikiki n’obara gi. Otu o di, nke a anaghi emekebe o puru ikpatara gi a nwa ibu `n’afo odachi. Ijiri onu gi michaa utu di gi ga-ebutere gi odachi. Ma o buru na di gin were oria ana-ebute site n’mmekoahu (STI) dika oria nkpuru aku (Herpes). O bunu na nwanyi nwere oriaa (STI) di ya ekwesighikwa iji onu dinaa ya. Dina nwunye mwere oria obiri na aja ocha (HIV) ekwesighi inwa anwa jiri onu ha mwee mmekaohu. Nchoputa na-egosi na ana-ebute oria o biri na aja ocha site na obere asu ma o bu obara. Juo dokita gi ma inwe ajuju ozo.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex9.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=_mPyYNJgEj4"
+        ]
+      },
+      {
+        "name": "Olee otu m puru isi gbochie oria ana ebute site n’mmekoahu (STI)",
+        "content": "I na etinye onwe gi na di gi n’ihe ize ndu di ukwu ma o buru n’ina akwa iko aghara aghara, ya bu isoro onye n’abughi onye otu olulu gi n’ enwe mmekoahu mgbe nile. Biko chebe onwe gi na di gi site n’ime nke mbu.\n(1) Soro onye otu olulu gi nani n’enwe mmekuahu mgbe niile.\n(2)  Were okpunnabuenyi mgbe o bula lchoro inwe mmekoahu. Tinye ya nke oma tupu ibido.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ole onodu kasi mma mwanyi puru ino nwe mmekoahu mgbe o di ime?",
+        "content": "Anyi atulewo okwu a n’akara nke asaa (7) nke edemede a. Onodu kasi mma bu onodu na-eme ka ahu rue gi ala ma kwe ka mmekoahu too gi uto gughachi akara nke (7) asaa nke ema.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex4and11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee ihe ndi ga-eme mgbe nwanyi di ime na-enwe nmekoahu nke ga-akpali ya ikpoturu dokita ma o bu noosu.",
+        "content": "Mgbe o bula I huru ihe ndi n’ekwesighi ekwesi mgbe gi na di gi n’enwe mmekoahu, biko kputuru dokita. O bu ihe ana-ahukebe inwe obere ihe ufu mgbe ana-enwe nmekoahu ma o bu ngwa ngwa enwechara. O buru na ihe ufu ahu akwusighi mgbe nkeji ole n’ ole gasiri, ma o bu ina-enwe ihe ngbu na obara ogbugba mgbe inwechara mmekoahu, biko kpoturu dokita.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex12.jpg"
+          }
+        ]
+      }
+    ],
+    "sibiling": [
+      {
+        "name": "Oria akpukpo ahu umuaka: Ihe mgba ama na ihe na akpata ya.",
+        "content": "Ihe na- akpatakari oria akpukpo ahu amuaka bu nje, ogwu ahu mmadu n’achoghi, okpomoku na ibanti dere mmiri. Oria akpukpo ahu umuaka na alakari ososo. Ha gunyere:\na.  Oko hiti: aha ozo ana-akpo oko hiti bu oko beriberi. Ihe na akpata ya bu ososo n’ ataghi ata ma nogide n’ elu ahu. O na adikari ntakiri, dika obere etito ma n’ acha mmanu mmanu. O na aputakari n’ ike ma o bu otule na azu nwata. A na ahukari ya n’ obodo ndi nwere oke okpomoku oke okochi. Ihe na-akpatakwa oko hiti bu oke afuru ma obu ososo ana-enwe n’ oge oke okpomoku, oke iba, inyibe nwata akwa di ikputu ma o bu di oku. Inyibe nwata akwa n’anaghi enye ikuku ohere na ite oke ude ndi na akpochi ohere ososo si apu n’ ahu nwata.\nb.  Oko ibanti. Udi oko a na aghakari umuaka di onwa itoolu rue out ato ( 9-12 months) o na aputakari n’ ukwu ebe ahu ana-enyinye ha ibanti. Mmamiri na nsi ino ogologo oge n’ ahu nwata n’ ebute nje na oria nye nwata.\nc.  Mgbawa Isi- nke a bu apa ndi na-aputa n’ si nwata. O na putakari n’ olu na akpa abu nwata. Nje na mmanu ndi n’ esi n’ ahu na agiri isi nwata puta n’ akpata ya.\nd.  Ogwo- ha bu akpakiri na – adighi mma ile anya nke na-aputa n’ ahu nwata. Ana ahukari ya n’ nti na ukwu nke amuaka na umu amuru ohuru, mgbe ufodu ndi okenye n’ enwekwa ya, ihe na akpatakari ogowo edochaghi anya, ma ihe ndia sonu n’ atunye utu-oke okpomoku, nje virus, ulo uzuzu di, ncha na- ekpocha ahu na ude.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1a.jpgg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1d.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Igbochi na igwo oria akpukpo ahu amuaka",
+        "content": "Nyibe umuaka gi akwa di fecha fecha n’ adabere otu ihu elu igwe di. Ejila ncha ndi na-ekwocha ahu asa umuaka ahu. Ozo ejila dye asa akwa amuaka gi. Jiri nkeji ise rue iri ( 5-10mms) saa nwata ahu were ude di juu dika ori tee ha.\na.  Igwo oko hiti-zere ibanti di ikputu. Zere ude ndi n’ ekpo oku, jiri mmiri oyi saa nwata ahu. Zuru ude ndi eji agwo oko hiti. \nb.  Igwo oko ibanti- gbanwe ibanti obula ruru unyi,were mmiri saa otule nwata  ngwa ngwa iwepuru ibanti, ma were ude vasilini tee n’ otule nwata ozugbo. Zuru ude ndi okachamara deputara maka iji, gwoo oko iba nti di oke njo.\nc.  Igwo Mgbawa isi umuaka- Tinye mmanu owu n’ isi nwata, odikaria ala out awa tupu I saa nwata ahu. Werekwa shampoo emeputara iji saa isi nwata. Kpoturu ndi dokita ma o karia gi.\nd.  Igwo ogwo- jiri ncha na mmiri di nari nari saa nwata ahu. Mee ka ahu nwata koo nke oma tupu I tee ya ude. Zuru ude ndi emeputara maka igwo ogwo. Tee ya nwata dika esi tuzie aka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi na akpata iba na ahu oku umuaka.",
+        "content": "Ihe otutu ikpo oku na iju oyi nke nwata ana-akpo temperecho bu degree 36.5oc -38oc. Ahu oku n’ebido mgbe otutu ikpo oku na iju oyi nke ahu nwata gafere digri 38oc.\nAhu oku bu ihe n’ egosi n’ oria abiala obughi oria n’ onwe ya. O bu otu uzo ahu mmadu si ebu agha megide oria.\nOtutu ihe puru ikpatara nwata ahu oku, nke puru ino nani ubochi ole n’ ole. Ma, mge ufodu ahu oku nwata puru inotu odu, ma burukwa ihe ama nke oria di njo. Nje bu ihe na-akpatakari ahu oku umuaka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ama nke ahu oku.",
+        "content": "Kwa ubochi, ihe otutu nke iju oyi na ikpo oku nke ahu nwata n’ ari elu ma n’ arida. Ona-adikari ala n’ isi ututu ma na-agbago na mgbe. Ahu oku puru iji nwayo nmayo bia nwata ma o bukwanu bia oku-oku.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ihe ndi na-akpatakari ahu oku:-",
+        "content": "a)  Viros:- Viros na-ebute oria ndi dika oyi, iku ume elu elu na akpata.\nb)  Bakiteria:- Bakiteria na-ebute oria nti, akpiri, anya odo, oria mmamiri, oyi, akpiri ngbapia, na nje ibarye n’ obara\nc)  Ogwu ahu mmadu n’ achoghi- Ahu oku puru ibia n’ ihi ogwu ahu nwata juru, ogwu ngbochi oria, ndudu ma o bu ikuku n’ adighi ocha.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mgbe Ikwesiri ihu onye dokita maka ahu oku nwata.",
+        "content": "a)  Mgbe nwata n’ erubeghi onwa ato nwere ahu oku. Mee ngwa hu dokita n’ihi na osiri ike imata ma o bu oria di oke njo n’ akpata ya bu ahu oku.\nb) Mgbe nwata no onwa ato rue otu afo (3 – 12) nwere ahu oku. Gaa hu dokita, eleghi anya o puru ibu oria di oke njo n’akpata ahu oku. Gaa hu dokita, eleghi anya o puru iu oria di oke n’akpata ahuoku ahu.\nc)  Gaa hu dokita mghe nwata di otu afo ma n’ egosiputa the ama ndia:\nd) Ekughi ume nke oma\ne)  Iro ura\nf)  Igboo agbo na onyunyu onyunyu\ng) Isi Owuwa, olu  ngbu na oku igbu ya ngbu n’ anya\nh) Dika onye oria, onye ike gwuru ma n’ ata ahu.\ni)  Juu inu mmiri, ma kwusi inyu mmamiri otu okwesiri\nj) N’enwe ahu ngbu\nk)  Enweghi ike Igbake mgbe ubochi abuo gasiri\nl)  Ma oburu na ichere n’enwere ihe ndi ozo gahierenu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Sibling6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu esi agwo oku",
+        "content": "Odi oke nkpa inye nwata mimiri na, ihe onunu ndi kwesiri ekwesi iji zere mmiri iko n’ ahu nwata, o buru na nwata ahu anaghi ekwe anu mmiri, biko gwa dokita gi.\nMee ihe  ndia iji nyere nwata ahu aka :\na.  Nyibe nwata ahu akwa di fere fere\nb.  Zere idee nwata n’ okpuru fan \nc.  Nye nwata mmiri ara nke oma \nd.  Nye nwata nri obere obere ma o buru na ona eri nri Umuaka.\ne.  Nogide n’ enye nwata ahu mimiri ara ma o burukwa n’ okariala onwa isii (6 months) ma o burukwanu nri ozo na mmiri.\nf.  Nye nwata ahu pracetamol dika onye dokita si tuzie aka. Enyela karia otu okwesiri, maka nka puru ibibi umeji nwata ahu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Sibilings7.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=HsRBsNp_cNw"
+        ]
+      }
+    ],
+    "spouse": [
+      {
+        "name": "Gini  na – akpata agbapughi Obara Ocha ?",
+        "content": "Ihe na – akpatakari agbapughi Obara bu mgbe Obara ocha nwoke banyere na – akpakuru kama ibaye n’ onu utu nke nwoke. Ihe na akpatakari nke a bu Oria mmamiri, okpukpu azu inwe nkwaru, iwa ahu n’ amu ma obu n’ akpa mmamiri.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse1and2.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=h6xBne6GBd0"
+        ]
+      },
+      {
+        "name": "Nsogbu Ahu nwoke akwughi oto?",
+        "content": "Ahu nwoke ma o bu amu nwere nsogbu mgbe o na-emweghi ike ikwu oto ogologo oge. A na-akpo onye nwere udi nsogbu a “Okiri\napiri amu”. Nsogbu na-ebidokari mgbe mmadu no na okorobia ma obu\noge agadi, ma o na-abukari oria umu nwoke mere agadi; umu mwoke nwere nsogbu ahuike, mgbe ufodu umu nwoke n’enwetu nsogbu ahuike ma obu amu akwughi oto nke oma, nke adichaghi njo.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse1and2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Olee Ihe ndi na-akpa nsogbu amu akwughi oto?",
+        "content": "E nwere otutu ihe na-akpata amu akwughi oto nke oma. Ha gunyere ndi a:-\na. Inu oke mmanya n’ aba n’ anya na ise siga\nb. Nsogbu ahuike dika oria mmamiri, obara ngbali elu, nchegbu na ida mba n’ obi.\nc.  Ndoli ma obu doga-doga.\nd.  Ihe si n’ inu ogwu puta\ne.  Nkwaru ma obu obara abanyeghi nke oma n’ utu\nf.  Iwa ahu n’ ihi ibi odida.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Gini bu ihe mgba ama?",
+        "content": "Nani ihe ama enwere bu mgbe amu nwoke n’ enweghi ike ikwu oto ogologo oge, mgbe o na-enwe mmekoahu. Nwoke nwere nsogbu a puru inwe agu mmekoahu, nukwa uto mmekoahu, ma gbapukwa obara ocha.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Otu e si achoputa Nsogbu a?",
+        "content": "Onye dokita ga-aju nwoke ahu ajuju ufodu banyere ahuike ya, meekwa nnyocha ufodu. Onye dokita ga-acho ima ugboro ole o na-enwe nsogbu a. Dokita ga-enyocha obara na uburu nke onye ahu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Sposue5.png"
+          }
+        ]
+      },
+      {
+        "name": "Ole otu esi agwo amu akwughi oto?",
+        "content": "E nwere otutu ihe aga-ezere iji gwoo amu akwughi oto nke oma. Ha gunyere ndia:-a. Zere utaba, ogwu ike, ma belata inu mmanya n’ aba n’ anya.\nb.  Choputa ma zere ogwu ndi puru ikpata nsogbu ahuike\nc.  Soro nwunye gi kwurita nsogbu a.\nd.  Na-enwe mmega ahu na ndumodu\ne.  A puru iwa ahu n’ utu ma nara ogwu ndi puru inye aka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Idi ime, o puru imetuta mmasi m nwere maka mmekoahu?",
+        "content": "Ee, o puru imetuta ochicho mmekoahu nke onye otu olulu gi. Idi ime puru Ime ka idorokwue mmasi nke di gi ma mee ka o choo ka gi na ya dina mgbe mgbe. Di gi puru idi n‘ echegbu onwe ya banyere afo ime gi, ibu oru nke ibu nne na nna. Nke a puru ibelata agu mmekoahu. Ikwurita banyere nchegbu na atu-manya unu dika di  na nwounye puru ime ka ahu rue unu ala.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse7.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
+

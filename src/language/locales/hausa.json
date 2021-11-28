@@ -1,0 +1,1793 @@
+{
+  "Home": {
+    "title": "Pregnacare ",
+    "bullets_p_1": "Jariri",
+    "bullets_p_2": "Yara",
+    "bullets_p_3": "Nonon uwa",
+    "bullets_p_4": "Ƙungiyoyi na yau da kullum",
+    "bullets_p_5": "Wadanne Abinci Yaro Yake Bukata Idan Za A Yaye Shi",
+    "bullets_p_6": "Yan uwa da' Yar'uwa",
+    "bullets_p_7": "Kula",
+    "bullets_p_8": "Ƙungiyoyi na yau da kullum",
+    "bullets_p_9": "Uwar Jariri",
+    "bullets_p_10": "Kula",
+    "bullets_p_11": "Ƙungiyoyi na yau da kullum",
+    "bullets_p_12": "Ma'aurata",
+    "bullets_p_13": "dangantaka",
+    "bullets_p_14": "Rayuwar iyali",
+    "bullets_p_15": "Jima'i",
+    "bullets_p_16": "Yanayin saduwa a lokacin da kike ",
+    "bullets_p_17": "Ƙungiyoyi na yau da kullum",
+    "bullets_p_18": "Kiwon Lafiya",
+    "bullets_p_19": "Ido",
+    "bullets_p_20": "Hanci",
+    "bullets_p_21": "Kunnen",
+    "bullets_p_22": "Yara"
+  },
+  "Videos": {
+    "title": "Gidan Bidiyo",
+    "link0": "duba",
+    "link1": "Ta yaya zance game da jima'i zai iya kawo karshen STIs | Teodora Elvira Wi | TEDxMonteCarlo",
+    "link2": "Yanayin jima'i a lokacin ciki",
+    "link3": "Ka tambayi Dokta Lisa Oral Jima'i a lokacin Cutar Mataye",
+    "link4": "Ta yaya Sperm Gana Guda | Iyaye",
+    "link5": "Conception explained",
+    "link6": "An bayyana salon",
+    "link7": "Yara Taimako na farko: Fever",
+    "link8": "Yaya zan kula da kututtukan igiya?",
+    "link9": "7 Siffofin jaririn ku ne abin",
+    "link10": "Tsarin Jirginku na jaririn ku",
+    "link11": "WHO: Alurar rigakafi ga duk a cikin rayuwar - Wuni na Immunization na Duniya 2016",
+    "link12": "Dandfunction dasfunction ED ya haifar da ganewar asali | Andrology Ostiraliya",
+    "link13": "WANNAN: Yaya za a yi wa hannu? Tare da sabulu da ruwa",
+    "link14": "Kayan Kayan Kayan Kayan Mutum",
+    "link15": "5 Siffofin da aka saba da cutar tarin fuka",
+    "link16": "TB Abun Hoto Cutar",
+    "link17": "Ƙungiyar kwance - An Gabatarwa"
+  },
+  "Images": {
+    "title": "Hoton Hotuna"
+  },
+  "About": {
+    "title": "Game da",
+    "sub_title": "Yadda Pregnacare",
+    "about_content": "loremipsum"
+  },
+  "Collect_Information": {
+    "title": "Bayanan martaba"
+  },
+  "Settings": {
+    "title": "Saituna",
+    "list_1": "Game da",
+    "list_2": "Kyauta da Inquires",
+    "list_3": "Tabbacin Tab"
+  },
+  "Content": {
+    "baby": [
+      {
+        "name": "Me ke sa jariri tumbudi/amai?",
+        "content": "Babban dalilin da kan sa jariri tumbidi a makonnin farko na haihuwarsa shi ne wani nonon yaron na sha da iska/fitowa da iska.\nJariri kan yi tumbudi idan murfin kofar shiga cikinsa da kan bude, ta yi rauni kuma ba ta gama haduwa/girma ba. A manya/babba, kofar kan kulle sosai bayan hadiyar abinci, domin tura abincin kasa. Tana bukatar karfi sosai wajen bude wannan kafa domin kyale babba ya yi amai. A kananan yara/jarirai kofar ba ta rufuwa sosai. Saboda haka dan karfi kankane zai iya sanya kafar ta bude, sai nonon da ya sha, ya dawo/amayo shi.\nHaka nan idan cikin jariri ya cika fiye da kima, zai iya amayo nonon. Misali idan kika dora jaririn nesa da kafadarki, ko kika duka da jaririn a cinyarki yana iya yin amai.\nTumbudin zai ragu a lokacin da yaro ke ci gaba da girma daga wajen wata shida zuwa shekara daya. Har ila yau zai ragu a lokacin da yaro ya soma zama da kara dadewa a zaune.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Za Ki Rage Zazzabi A Jikin Yaro.",
+        "content": " \n a. Ba shi maganin. \n b. Kai yaron asibiti da ba shi maganin da aka ba ki, ki ba shi. Ki tabbatar kin ba shi kamar yadda likita ya umarce ki. \n c. Yi wa yaron wanka jefi-jefi. Ruwan da aka masa wanka da shi zai bushe, jikin ya yi sauki. Kada ki masa wanka da ruwan sanyi, saboda zai sa yaron rawar sanyi, jikin ya yi zafi/dime. \n d. Ba shi karin ruwa ya sha. Idan kina ba shi ruwa kina sa jikin ya sauka a can ciki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby2.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=HsRBsNp_cNw"
+        ]
+      },
+      {
+        "name": "Me Ke Sa Jarirai Ciwon Ciki?",
+        "content": "Cikin yaro kan yi ciwo idan aka ba shi abinci fiye da kima ko dan kadan, ko iska a hanji, ko dan kamuwa da wata kwayar cuta. Idan yaro/jariri na ciwon ciki, ki kai shi wajen likita. Yaro kan yi yawan ciwon ciki idan yana fama da cuta ta mafitsara, ko daurewar ciki ko jarbu/tsanki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ya Sa Jarirai Ke Yin Zazzabi Idan Suna Yin Hakori?",
+        "content": "Fitar hakora na haifarwa da yara zazzabi ko rashin jin dadi. Sai dai idan jikin ya dume yah aura 101, to babu mamaki wata cutar ce ba hakori ba. Idan zazzabin ya yi tsanani kai shi wajen likita.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ya Sa Jaririn Ke Yawan Yin Bacci A Yanzun?",
+        "content": "Baccin jariri na karuwa saboda karuwar girmansa. Bacin jariri da safe na iya karuwa, har ma da rana. Yara na girma ne a lokacin da yake bacci.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wadanne Abinci Yaro Yake Bukata Idan Za A Yaye Shi?",
+        "content": "Kada ki matsa wa yaro sai ya ci wani bakon abinci. Yaro ya saba da nonon uwa, saboda haka idan yaro ya ci cokali daya zuwa biyu a kowanne yunkurin farko, ya isa haka nan. Sannu a hankali yaron zai soma ci da yawa. Ko kokarta ki bi yaron sannu a hankali a lokacin da kike kokarin yaye shi, ki ba shi sabon abinci. Zai sa yaro shaíawar abincin. Ki sa a zuciyarki cewa za ki ba shi abinci guda daya a lokaci daya. Ki ba shi wannan abincin na tsawon a kalla kwana uku zuwa hudu kafin ki ba shi sabo. Har ila yau kada ki kara abubuwa/mahadi da yawa cikin abincin tashi guda, misali, ki ba shi kamu kadai na kwana uku zuwa hudu. Daga nan ki kara madara na wasu kwanakin uku zuwa hudu. Ci gaba da ba shi nononki har sai ya kai a kalla shekara daya a duniya. \n a. Koko: Koko da aka yi shi da masara, ko na gero, ko na waken suya na da sauki ga yaro, ga kuma saukin damawa. Za ki iya ba yaro da cokali ko ki yi shi ruwa-ruwa, ki sa masa cikin filinboti ya sha da shi. Wannan shi ne abincin farko nay aye yaro da yawancin iyaye ke ba ëyaíyansu. \n b. Ganyayyaki da abinci mabukansa kasa: ganyayyaki da aka dafa aka yanyanka shi da kyau, na da kyau a jikin yaro. Kina iya ba shi abincin da kuka saba ci a gida, kamar su doya, da dankali, da dankalin turawa, da karas, da rogo, sai ganyayyaki kamar koraye masu duhu, das u tumatir da sauran su. \n c. ëYaíyan itatuwa kamar ayaba da aka busar aka nika:  Cire ëyaíyan da ke cikin lemu, a ba yaro ruwan. A fere bawon tuffa, a cire ëyaíyan a nika masa. A masa jus/abin sha na mangwaro, da gwanda, a dinga ba yaron. \n d. Wake: A cire bawon waken a dafa shi da dan gishiri da barkono har sai ya yi laushi. A ba yaron. A ba shi alale da kosai. \n e. Hatsi: shinkafa na daya daga cikin abincin da aka fi amfani da su wajen yaye yara. Ki tattabar ta dahu. Za ki iya kyale sauran hatsin kamar su masara sai ëyan watanni gaba. (alkama, gero, dawa). \n f. A kasashen yammacin Nijeriya kuwa, da amala da miyar Ewedu suka yaye yaro. A sa nikakken karafish ko dafaffen kifi a cikin miya. Za su sa miyar ta zama mai gina jiki ga yaro. A lokacin da yaro ke ci gaba da girma, za a hada masa da teba, da samanbita, da sakawara saboda suna da saukin hadiya wajen yaro. Sai da ki tabbatar abincin na da laushin da yaron zai iya ci ko hadiya. \n g. Kayan abincin da ake samu daga dabbabi, kamar su madara, kwai, madarar shanu, kifi, kaji, nama. Cukwi/nonon rakumi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby6.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6a.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby6d.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606544/baby/Baby6e.png"
+          }
+        ]
+      },
+      {
+        "name": "Zan Iya Ba Jaririna Ruwa A Lokacin Da Ya Kai Wata Biyu?",
+        "content": "Bai kamata a ba jariri ruwa ba, har sai ya kai wata shida. Wannan shi ake kira ba yaro nono tsantsan na tsawon wata shida. Wannan zai taimaka wa yaro samun dukkan abubuwa masu gina jiki da kare lafiyarsa daga nonon. Nonon uwa na da isasshen ruwa da yaro ke bukata a cikinsa. Ko yaro yana shakuwa, ki ba shi nono zai daina. Da jaririnki ya kai wata shida, kina iya soma ba shi ruwa idan yana jin kishi. Saboda a wannan lokaci ne yaro zai fara cin sauran abinci da suka fi nono karfi, kuma suke kunshe da mai, barkono, nama da sauran su, da ke bukatar ruwa don taimaka wa abincin narkewa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby7.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Sa Yaro Yawan Kashi A Lokacin Da Yake Yin Hakori?",
+        "content": "Hakori ba ya sa yaro kashi. Yara na yawan kashi a wannan lokaci ne saboda suna yawan sa hannu a baki, da duk abubuwan da suka dauka sai su kai baki, saboda dasashinsu na musu kaikayi. Ga hannuwan da abubuwan da suke dauka su sa a baki, duk ba su da kyau, suna dauke da kwayoyin cuta da ke haddasa wa yaro yawan kashi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606526/baby/Baby8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haifar Da Toshewar /Cushewar Makoshin Yaro Da Hancinsa?",
+        "content": "Wannan toshewar kan yi wa yaro/jariri rauni wani lokaci yaro ya kai ga mutuwa. Saboda toshewar ëyar karamar hanyar da suke da ita, ta shaker iska ko yin numfashi. Ya kan dau lokaci kafin yaro ya san yadda zai tauna abinci da hadiye shi kamar yadda ya kamata. Jarirai na iya zama ba za su iya yin tari da karfi isasshe domin kawar da abubuwan da suke toshe musu makoshi ba.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606527/baby/Baby9.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Sa A Haifi Jariri Da Wata Nakasa A Jikinsa?",
+        "content": "Akwai abubuwa da dama da ke sa a haifi jariri da wata nakasa a tattare da shi. Sun hada da: \n a. Karacin abinci mai gina jiki a lokacin da uwa ke da ciki/juna biyu. \n b. Karancin  aidin a cikin abincin mai juna biyu. \n c. Karancin asid/magani nauíin tsami da mace ke bukata a jikinta kafin ta dauki ciki. \n d. Batutuwa nag ado. Jariri na iya gado wasu abubuwa da ba su ken an ba daga mahaifansa/iyayensa. \n e. Dalilai na muhalli mahaifiyar jariri na iya kasancewa tana muíamala da sinadarai, taba, kwayoyi da barasa, cututtuka irin su bakon dauro. Wadannan abubuwa na iya shafar jariri tun yana ciki, su sa ya fito da wata nakasa. \n f. Shekarun mace su haura 35. \n g. Shan magunguna daban-daban masu yawan gaske a lokacin da mace ke da juna biyu. \n h. Matsaloli a lokacin haihuwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606527/baby/Baby10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Sa Jariri Sabon Haihuwa Yin Ciwon Shawara?",
+        "content": "Shawara it ace za ki ga idon yaro, farin ya koma ruwan kwai, haka nan fatar jikinsa. Shawara ba cuta ba ce, amma alama c eta cuta. Tana aukuwa ne sakamakon karuwar lalata kwayoyin halitta na jinni da ke cikin jikin jariri, sannan hunhu bai iya kawar da dattin ba. An fi ganin haka a jarirai bakwaini, ko jariran da ba a dade da haihuwa ba.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606527/baby/Baby11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Kula/Lura Da Cibiyar Jariri",
+        "content": "Ki tabbatar a kullum kin yi amfani da auduga da man sifirit wajen goge cibiyar jariri. Ki maimaita ba sau daya ba, ba sau biyu ba a kullum. Kina iya gogo cibiyar a duk lokacin da kika canza wa yaro nafkin. Ki fi mayar da hankali ga kasan cibiyar inda take hade da cikin jariri.\nKi dinga barin iska ta kai cibiyar don ta bushe ta warke da wuri. Kada ki bari nafkin da kika sa wa jariri ya rufe cibiyar. Ki bari cibiyar ta fadi da kanta. Ba a sa mata kananzir ko cireta da karfi. Ko ta kai kwana bakwai ba ta fadi ba, kada ki damu, ke dai ci gaba da tsaftaceta, da gogeta da kyale ta, ta bushe. Idan cibiyar ba ta fadi ba, kada ki dilmiya jaririn cikin ruwa a lokacin da kike masa wanka. Don kada cibiyar ta jike.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606529/baby/Baby12.jpg"
+          }
+        ],
+        "video": [
+          "https://www.nhs.uk/video/Pages/how-do-i-take-care-of-the-umbilical-cord-stump.aspx?searchtype=&searchterm=&offset=17&"
+        ]
+      },
+      {
+        "name": "Ta  Wacce Hanya Jaririn Da Ke Ciki Ke Samun Abincin Da Yake Ci?",
+        "content": "Jariri na samun abinci ne ta cibiyarsa daga rigar da yake ciki, bayan abincin da mahaifiyarsa ta ci ya narke, sai abincin ya bi cikin jini, ya tashi daga jikin uwa zuwa jaririnta ta wannan riga. Rigar ce ke kawar da abubuwan da ke da illa, kamar su kwayoyin cuta, domin kariya ga jariri.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606530/baby/Baby13.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Za Ki Kula Da Jaririnki Kamar Yadda Ya Kamata.",
+        "content": "Ki tabbatar ke da jaririnki duk kuna cikin tsafta (Kiwon Lafiyarku). Ki dinga tallafar jariri ta inda ya dace ban da girgiza shi da karfi. Ban da was an banza da shi, fatar jikinki ta dinga haduwa da tasa, da yawaita yi masa Magana. Ki dinga duba nafkin da kika sa masa a kowanne lokaci da canza masa idan ya jike. Da ya bukaci abinci ki ba shi. Ki shayar das hi nonon uwa na tsawon wata shida ba tare da kin ba shi ruwa ba. Bayan wata shida soma ba shi abinci mai gina jiki. Dinga wanke fidinbotin da sauran abubuwan da yaro ke cin abinci da su. Ki kula da cibiyar jariri kamar yadda aka yi bayani a baya. Yi masa wanka da tabbatar da ya bushe. Ki kwantar da shi a kan gadon jarirai. Kawar da kayan wasa na yara daga gadon da ya kwanta. Ki dinga kula da tsaftar dakin ki, da dakin jaririn. Ki sa masa tufafin da suka dace da yanayin da ake ciki. Ki dinga lallashinsa idan yana kuka. Kada ki bar shi, shi kadai. Da kin lura ba shi da lafiya nemi likita. Yi masa rigakafi a cibiyar kula da lafiya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby14.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Lokacin Da Jariri Ya Soma Hakori.",
+        "content": "Lokaci ne da jariri ya soma hakori, kuma yana daga cikin girman jariri. Fitar hakori na iya yi wa yaro zafi ko ciwo, jikinsa ya dume, ya shiga cikin damuwa, da wahalar da jariri da mahaifiyarsa/iyayensa.  Yawan kasha, ba shi da wata nasaba da fitar hakori, alama ce, ta cuta ta shiga cikin cikin jariri.\nHanyoyin rage radadin fitar hakori; \n a. Sa yatsanki mai tsafa ki dinga gogo a dasashi. In kina dan goga masa a hankali zai samu sauki. \n b. Kina iya sa masa cokali mai sanyi ko makamancinsa na hakori a cikin bakinsa domin taimaka masa samun sauki. \n c. Yi amfani da kayan wasa na roba na hakori da jariri zai iya ciza, da dasashinsa idan yana masa kaikayi. \n d. Yi amfani da maganin da likita ya amince miki don jariri ya samu sauki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby15.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=PaTji1kwFDU",
+          "https://www.parents.com/baby/health/baby-teeth/baby-teething-timeline/"
+        ]
+      },
+      {
+        "name": "Me Ke Sa Jariri Mura?",
+        "content": "Alamomin jariri na mura su ne atishawa, majina a hanci da matsala wajen yin numfashi. A wasu lokuta har da mashako, tari da jikin jariri ya yi zafi sosai. Da ma ba ka raba jariri da mura da tari saboda garkuwar jikinsu ba ta da karfi/kwari. Idan ana barin jarirai cikin yaran da suka grime shi a kullum, suna iya kamuwa da mura. Har ila yau bayyana kan jariri da kafarsa a waje na iya sa shi ya kamu da mura cikin sauri. Domin yi wa jariri rigakafin sanyi/mura tabbatar da kin sa musu tufafi/kayan da suka dace da yanayin da ake ciki, na zafi ko na sanyi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Taimaka Wa Jariri Idan Yana Mura.",
+        "content": "Mura a jarirai ba ta da magani amma za a iya taimaka wa jariri ya samu sauki. Za ki iya ba shi magani dai-dai da watanninsa a duniya kamar yadda likitanki ya umarce ki. Kada ki ba jarirai da yara maganin asifirin. Za ki iya yin wadannan abubuwa;\nBai wa jaririnki wadatacce/isasshen nono in yana kasa da watanni shida. Idan watanninsa sun fi haka, kara yawan abinci dangin ruwa na itatuwa da kike bas hi, da suka kunshi Vitamin C. Baitamin Si.\n a. Dakin jariri ya kasance cikin dumi a kowanne lokaci. \n b. Nesanta jariri daga hayaki. \n c. Tsotse majinar da ke cikin hancin jari. \n d. Sa jaririnki ya samu isasshen bacci da daddare. \n e. Idan jariri ya kasa samun isasshen bacci da daddare, rungume shi a kafarki shi ba a zaune ba, shi ba a kwance ba domin ya iya numfashi da kyau.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby17.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Da Wanne Lokaci Ne zan Nemi Likita A Kan Lafiyar Jaririna?",
+        "content": "Idan jariri yana kasa da wata uku, kuma yana mura. Saboda zai iya kasancewa wata alama ce akwai babbar matsala. Ko ki kira likita ko ki kai jaririn wajen likita. \n a. Jaririn na ta tari. \n b. Jikin jariri ya dau zafi. \n c. Alamomin sun ci gaba fiye da kwana goma. \n d. Jariri na ciwon kunne. Za ki iya sanin hakan idan kika ga jariri na ta jan kunnensa kuma ya kasa natsuwa. \n e. Jaririn na daina cin abinci ko shan nono. \n f. Jariri nay un numfashi da kyar. \n g. Majinar da ke fita daga hancinsa na da kauri kuma koriya. \n h. Alamun gajiya a tattare da jaririn.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606528/baby/Baby18.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Rigaka",
+        "content": "Ana yi wa jarirai rigakafin cutar shan inna. Rigakafi ya fi magani. Yadda wasu ke yada labarum da ba na gaskiya ba a kan ruwan alluran tigakafi ya sanya ake ta fama da bakon dauro, da cutar shan inna, da sauran cututtukan da za a iya rigakafinsu. Ki tabbatar da kin kai jaririnki an masa duk wani rigakafi da ake yi wa jarirai/yara.  Rigakafi zai kare jaririnki daga dukkan cututtuka ya kasance cikin koshin lafiya. Yana taimaka wa rage kashe kudi wajen sayen magani da damuwa ta cututtuka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606529/baby/Baby19.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=9_nyG2TUDcQ"
+        ]
+      },
+      {
+        "name": "Muhimmancin Shayar Da Jariri Nonon Uwa",
+        "content": "a. Shayar da jariri nonon uwa na da alfanu mai yawan gaske ga jariri. Alfanun ya hada da; \n b. Taimaka wa  jaririnki girma cikin koshin lafiya da kuzari. \n c. Nonon uwa shi ne abinci mai gina jiki da ya fi kowanne amfani a jikin jariri. \n d. Nonon uwa na rikidewa ya zama abin da jikin jariri ke bukata. \n e. Duk jaririn da ake ba shi isasshen nonon uwa, da wuya ka ga ana yawan kai shi asibiti. \n f. Shayar da jaririnki nononki na karfafa dangantaka tsakaninki das hi. \n g. Jaririn da ke samun isasshen nono uwa ba ya yin yawan laulayi, ko yawan kasha da sauran su. \n h. Nonon uwa na da sauki ga cikin jaririnki ga saukin shad a narkewa a jikinsa. \n i. Nono shi ne mafi dacewa da jaririnki ke bukata a rayuwarsa. \n j. Nonon uwa na da tsafta da kare jariri daga cututtukan da jariri ke dauka a fidinboti.\n k. Nonon uwa na kunshe da dukkan abinci mai gina jiki da rigakafi da jikin jariri ke bukata don ci gaba da girma. \n l. Jaririn da ya samu wadataccen nono ba shi da matsalar nauyi fiye da kima ko kasa da kima. \n m. Shayar da jariri wadataccen nonon uwa na rage kasadar jariri ya kamu da asima da sauran abubuwa da kan bayyana idan bakon abu ya shiga cikin jariri. \n n. Har ila yau yana kare jariri daga ciwon suga, da katon ciki da ciwon daji.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606529/baby/Baby20.jpg"
+          }
+        ]
+      }
+    ],
+    "mother": [
+      {
+        "name": "Yadda Za Ki  Rage Girman Cikinki Bayan Kin Haihu ",
+        "content": "Ki kula da kyau ko ciki ya koma dai-dai yadda kike sonsa, kada ki daina, saboda kina dainawa zai zo ya ci gaba da girma nan gaba.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Kula Da Nononki/Nonuwanki A Lokacin Da Kike Da Juna Biyu",
+        "content": "Yana da muhimmanci ki kula da lafiyar nononki tsawon lokacin da kike da ciki. A wasu daga cikin hanyoyin da ake kula da lafiyar nononki a lokacin da kike da juna biyu/ciki.\nKula Da Lafiyar Nono \n a.  Wanke kan nononki. Da zaran cikinki ya kai wata biyar ruwan jikinki zai koma bi ta nononki. Za ki gan shi kamar fata mai karfi, fatar da ke zagaye ta koma ja. Za ki iya kauce wa wannan ta hanyar tsaftace kan nononki. Don tsaftace su, ki dinga sa kyalle mai tsfata kina goge su. \n b.  Kada ki yi amfani da sabulu wajen wanke kan nononki, saboda zai iya haddasa miki bushewa das a kan nononki ya tsage. Yana da kyau ki dinga shafa basilin don kan nonon ya yi taushi. \n c.  Domin sanya kan nononki ya yi tsawo domin jin dadin shayar da jaririnki, dinga, ki dinga sa yatsunki kina jan kan nonon a lokacin da kike yin wanka. Ki yi a hankali kada ki yakushi kan nonon da kumbarki. Hakan zai taimaka wa ruwan nononki gudana bayan kin haihu. \n d.  A lokacin da kike wanke ki dinga shafa nonon da maid a ruwa, shafa nonon zai taimaka wa gudanar ruwan nono kamar yadda ya kamata. \n e.  Ki dinga sa rigar nono a kowanne lokaci domin tallafar nauyin nononki. Ki tabbatar ba ki matse nononki da matsattsiyar rigar nono ba. Kada ki yi amfani da rigar nono mai karfe a cikinta, don tana iya shafar gudanar ruwan nono. \n f.  Yi amfani da rigar nono ta maijego wajen bai wa jariri nono, za ki ji saukin shayarwa da tallafar nono.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ta Ya Juna Biyu Ke Aukuwa?",
+        "content": "Kowacce mace tana da kwai a wurare biyu da ke jikinta a saman mahaifarta. A kowanne wata  tana fitar da kwai guda daya saboda idan maniyyin namiji ya hadu da kwan, maniyyin na iya zama jariri. Idan mace ta yi alíada, za ta yi kusan kwana 28 kafin ta yi wata alíadar. ranar ta 4 bayan alíadar farko, wani kwai kan fito zuwa mahaifa. Kwan kan rayu har tsawon kwana biyu a cikin mahaifar, yana jiran maniyyi ya zo, su hadu don kyankyashewa ya girma ya zama jariri.\nDa kwan ya kyankyashe, sai ya makale a jikin bangon mahaifa, ya soma girma zama jariri. Jaririn na girma a mahaifar cikin watanni tara, sai a haife shi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother3.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=vFfqLs94iHc",
+          "https://www.youtube.com/watch?v=DGyRD9HnXVs"
+        ]
+      },
+      {
+        "name": "Me Ya Sa Mace Mai Juna Biyu Ke Yin Amai/Haraswa?",
+        "content": "Har yanzun ba a san ainihin dalilin da ke sa mace mai juna biyu amai ba. Sai dai babu mamaki saboda bakon sauye-sauye ne a cikin jiki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wadanne Abinci Ya Kamata A Kauce Wa A Lokacin Da Mace Ke Da Juna Biyu?",
+        "content": " \n a.  Kada ki ci danyen nama ko kifi, ko ba a dafa su sosai ba ñ don suna kunshe da wasu kwayoyin cuta da ked a hadari ga mace mai juna biyu da jaririnta. \n b.  Kada ki ci kwan da bai dahu ba ñ kwan da bai dahu ba, na iya kasancewa yana da kwayoyin cuta da ke da illa ga mace mai juna biyu. Kada ki ci duk wani abinci da aka yi shi da kwan da bai nuna ba. Dole a dafa kwai da kyau kafin ki ci. \n c.  Kada ki sha madara da ba a dafa ba/nono, ko cukwi. Ana nufin kada ki sha nonon da aka tatso daga wata dabba ba tare da an dafa ba. \n d.  Wanke dukkan ëyaíyan itatuwa da ganyanyaki da kyau, da cire duk wata kasa ko tsakuwa da ke ciki kafin ki ci ko dafa su. \n e.  Kada ki sha barasa ñ abarasa na iya yi wa jaririnki illa, da shafar girmansa a cikin ciki. Barasa na tauye girman jariri. \n f.  Rage dangan su kafen da ake samu a cikin goro ko kayan sha na cikin kwalba irin su kokakola. Shan su  da yawa a lokacin da mace ke da juna biyu yana rage nauyin jariri a lokacin da aka haife shi. Yana kuma sa ciki ya zube.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ko Mace Mai Juna Biyu Na Iya Ci Gaba Da Ganin Alíadarta A kai A kai?",
+        "content": "Tabbas jininki na alíada na iya ci gaba da gudana a lokacin da kike da juna biyu. Wasu matan jini na fita daga farjinsu a lokacin da suke da juna biyu. Wasu kuma jinin ne mai kama da alíada. Sai dai ba daya yake da alíada ba. Wannan jini na iya aukuwa ne saboda sauyin da ya auku can wajen farjinki da ya sa ya kara taushi, da hayayyafa kamar ëyan biyu da kamuwa da wata cuta.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Haifar Da Maleriya/ Zazzabin Cizon Sauro Ga Mai Juna Biyu.",
+        "content": "An fi samun zazzabin maleriya ne a yankunan da ake samun ruwan sama sosai da yanayi na zafi irin su Afirka. Yanayi ne da sauro ke jin dadin girma. Wadannan dalilai na iya haddasa maleriya ga mai juna biyu. \n a.  Rashin garkuwar Jiki: Juna biyu na sa garkuwar jiki ta mace ta rage karfi. Wannan ke sa mace saurin kamuwa da zazzabin maleriya. \n b.  Yankunan da ake da maleriya:  Mata da ke yankunan da zazzabin maleriya ya zama ruwan dare kan kasance suna da garkuwar jiki ta kare su daga maleriya. Saboda haka babu mamaki ka ga ba su da zazzabin. Amma a wuraren da babu maleriya sosai, matan wajen garkuwarsu ba ta da kwari, da ke nuna suna iya kamuwa da cutar cikin sauki. \n c.  Cutar HIV:  Matan da ke da cutar HIV na iya saurin kamuwa da maleriya saboda garkuwarsu ba ta da karfi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother7.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=UcIyJbEM_ko"
+        ]
+      },
+      {
+        "name": "Alamomin Zazzabin Maleriya A Mace Mai Juna Biyu.",
+        "content": "A lamunsa na farko-farko yakan yi kama da wadanda ke da marisuwa ko wata kwayar cuta. Gwada jini ne kawai zai tamaka a gano ainihin cutar. Alamomin maleriya a mata da ke da juna biyu su ne: \n a.  Tsananin zazzabi da gumi/zufa ko jin sanyi. \n b.  Kumallo. \n c.  Tari. \n d.  Ciwon kai. \n e.  Amai. \n f.  Zafin gabobin jiki. \n g.  Zawo/ gudawa. \n h.  Shawara. \n i.  Matsala wajen numfashi. \n j.  Kumburar  saifa. \n k.  Canzawar fatar jiki. \n l.  Rashin lafiya daban-daban.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Matsalolin Da Maleriya Ke Haddasa Wa Mai Juna Biyu",
+        "content": "Alamomi na ciwon kai, zazzabi, rawar sanyi, gumi da kan auku bayan duk kwana biyu zuwa uku, da yi har na tsawon awa shida zuwa goma.\nMaleriya mai tsanani na da hadarin gaske, don tana iya haifar da ciwon fara, da babbar matsala ta numfashi, da ta kwakwalwa, da lalata gabobi na cikin jiki. ga wasu daga cikin matsalolin da kan auku ga mai juna biyu.:\nMaleria ke haifar da farad a ke lalata kwayoyin halitta na jini. Fara na iya sa zubar jini bayan an haihu, har ya kai ga rasa ran uwar da jaririn.  Zazzabin maleriya na iya sa zubar ruwa hunhu. Da sanya jiki ya kasa yakar cututtuka.  Zai kuma iya shafar yawan siga a cikin jinin mace.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606565/mother/Mother9.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Sa Mace Samun Ruwan Nono A Lokacin Da Take Da Juna Biyu?",
+        "content": "Mata da dama kan soma fitar da ruwan nono na farko, kafin nono a lokacin da cikinsu ya tsufa. Wasu kuma ba haka ba ne. za ki iya sa audugar  rigar nono ta mata masu shayarwa domin kare tufafinki daga ruwan nono da ke zuba.\nRuwan nono na farko da ke fara fitowa kafin nono, yana da kauri, ruwan kwai, kuma yana kunshe da abubuwa da ke taimaka wa kare jarirai daga kwayoyin cuta. Idan kin zabi ba jaririnki, zai kara wa jaririnki lafiya, kafin ainihin ruwan nono ya gudano. Yana da abubuwa masu gina jiki, ba shi da kitse, ga saukin hadiye ga jariri, da sinadari da jariri ke bukatar farkon isowarsa duniya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haddasa Insomniya A Lokacin Da Mace Ke Da Juna Biyu?",
+        "content": " \n a.  Damuwa saboda karuwar girman ciki. \n b.  Ciwon baya. \n c.  Matsalar ji. \n d.  Yawan fita fitsari da daddare. \n e.  Damuwa. \n f.  Sa ran isowar jaririnki. \n g.  Yawan yin mafarki. \n h.  Alamomi na canji a jiki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ta Ya Zan Iya Jurewa Ko warkar Da Insomniya A Lokacin Da Nake Da Juna Biyu?",
+        "content": " \n a.  Gwada sabbin hanyoyin kwanciya yin bacci. \n b.  Shirin yin bacci ta hanyar yin wanka da ruwan dumi ko masaj, wato daddanna miki jiki. \n c.  Shirya dakin ki ta yadda za ki ji dadin bacci.  Da sanya naíurar kyautata jin dadin bacci ko sa ëyar waka mai kwantar da hankali da sa bacci. \n d.  Gwada dabarun hutawa, kamar irin wadanda aka koya muku a wajen awo. \n e.  Idan har ila yau kin kasa yin bacci, za ki iya mikewa. Ki gwada karanta littafi, ko cin dan cincin, ko shan ëyar madara mai dumi. \n f.  Motsa jiki a kai a kai da rana. \n g.  Idan kin samu damar yin bacci da rana, ki yi. Sai dai dadewa kina yin bacci da rana, na iya shafar baccinki na dare.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother12.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haddasa Wa Mai Juna Biyu Hawan Jini?",
+        "content": "Rayuwa ta kazanta na iya haifar da hawan jini ga mai juna biyu. Sun hada da nauyi/kiba, rashin kazar-kazar, shan taba, da kwankwadar barasa.\nMatar da ta samu juna biyu karon farko ke iya saurin kamuwa da  hawan jini. Haka nan mata da ke da yara masu yawa na iya kamuwa da hawan jini saboda yawan dawainiya. Mace na iya gado hawan jini a lokacin da take da juna biyu daga iyayenta. Har ila yau yawan shekarun mace, misali ta haura 40, ko wacce ke da hawan jini kafin juna biyu, na cikin hadarin cutar fiye da wadanda ba su da ita a can baya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother13.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ya Jinin Da Yake Daidai Ga Mai Juna Biyu Yake?",
+        "content": "Aikin likita ne ya gano matsayin jininki a lokacin da kike da juna biyu, da kafin ki dauki ciikin ko zuwanki awo na farko.  Za su ci gaba da auna/gwada jininki a duk lokacin da kika je ganin likita.\nGudanar jini ga mace mara juna juna biyu kan kasance 120/80. Jinin da ya haura haka daga lokacin da kika soma kafin daukar ciki na iya kawo damuwa. Hawan jinin na iya karuwa ko raguwa ya danganta.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother14.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Kawo Rashin Gudanar Jini Kamar Yadda Ya Kamata Ga Mace Mai Juna Biyu?",
+        "content": "Akwai alamomi da ke tattare da gudanar jini kasa-kasa: \n a.  Ciwon kai. \n b.  Jiri. \n c.  Kumallo. \n d.  Jin alamun suma. \n e.  Mura/sanyi, canzawar fatar jiki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother15and16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Za Ki  Sa Ido A Kan Gudanar Jinin Ki",
+        "content": "Akwai hanyoyi da daman a sanya ido a kan yadda jininki ke gudana a lokacin da kike da juna biyu. Za ki iya yin wadannan: \n a.  Ki sayo naíurar  gwada gudanar jini daga kemis. Ki kai wa likitanki ya duba lafiyar naíuarar ko tana aiki sosai. \n b.  Ki je wajen da suke da naíurar gwada hawan jini ko saukarsa  don gwada ki. \n c.  Ki tattabar kullum kina zuwa ana gwada ki. Ki zauna a lokacin da ake gwada ki, amma ban da tankwashe kafa, ko rike wani abu a hannunki. ki dinga amfani da hannu daya wajen gwajin. Ki ci gaba da gwajin a hannun da kika saba. \n d.  Ki yi sauri ki sanar da likintanki idan kin soma ganin alamu na hawan jini.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother15and16.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wadanne Matsaloli Ke Tattare Da Hawan Jini Ga Mace Mai Juna Biyu?",
+        "content": "Idan har hawan jininki ya ci gaba bayan mako 20 da samun juna biyu, zai iya zama akwai matsala.\nMaganin Hawan Jini A Lokacin Da Kike Da Juna Biyu\nAmfanin da wasu hanyoyi na gargajiya na iya haifar da matsala ga mace mai juna biyu. Ziyarci likitanki.  Idan har ba ki magance matsalar hawan jini ba, tana iya barazana ga rayuwarki da ta jaririnki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother17.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mene Ne Preeclampsia (firikilamsiya)?",
+        "content": "Wannan ciwo na iya lalata gaobobin cikin jiki da ya hada da kwakwalwa da koda. Shi ma yana iya haifar da hawan jini.\nYa kamata idan ana binciken lafiyarki da kyau a iya kula da wadannan abubuwa da su ne alamomin cutar: \n a.  Abubuwa na gina jiki da ke cikin fitsarinki. \n b.  Kumburi a hannu da kafafuwa. \n c.  Yawan ciwon kai.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother18.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Za Ki Duka Idan Kina Da Juna Biyu",
+        "content": "Ki tuna ki yi kasa da gwiwowinki maimakon mikar da bayan ki.\nZai fi kya idan za ki mike, ki dinga mikewa a hankali ta amfani da hannuwanki, cinyoyinki, da gwiwarki maimakon wahalar da cikinki. Za taimaka miki kare bayan ki, don jin dadin gudanar da ayyukanki na yau da kullum a lokacin da cikinki ke ci gaba da girma.\nIdan za ki daga/dauki abu, kada k ice za ki duka da kanki kasa, duka da gwiwowinki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother19.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake So Ki Dinga Yi Idan Kina Da Juna Biyu",
+        "content": "Ya hada da koya wa yaro tafiya, kwanciya da tsayuwa ta inda ba zai wahalar da ke ba. Girman cikin na iya sanya ki, ki ji kamar za ki fadi. Idan kika dauki wadannan ëyan matakai, za ki iya gudanar da jikinki yadda kike ya kamata.Ga wasu daga cikin yadda ake so ki yi a lokacin da ike da juna biyi: \n 1. Yadda ya kamata ki zauna. \n 2. Yadda ya kamata ki tsaya. \n 3. Yadda ya kamata ki zauna in kina tuka mota. \n 4. Yadda ya kamata ki yi idan za ki dauki/daga wani abu daga kasa. \n 5. Yadda ya kamata ki kwanta.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20bending.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20sleep.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606566/mother/Mother20drive.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Sa Mace Mai Juna Biyu Yawan Fitsari.",
+        "content": "Wasu kwayoyin halitta a cikin jikin mace ke sa mace mai juna biyu yawan yin fitsari a wasu lokuta. Da karuwar yawan jini, da zagayawarsa cikin jiki, da yadda jaririnki ke girma. Sauye-sauyen na kwayoyin halittarki ke sa jininki gudana zuwa koda cikin karin sauri, da sa mafitsararki cika kodayaushe da ke haddasa yawan yin fitsari a lokacin da kike da juna biyu.\nHar ila yau yawan jininki na karuwa a lokacin da kike da juna biyu. Wannan na nuna karuwar ruwa zuwa kodarki, da zuwa mafitsararki.\nJaririnki da ke girma yana shafar mafitsararki, da sa ki yawan fitsari a lokacin da cikinki ya tsufa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Sa Mace Mai Juna Biyu Yawan Gajiya?",
+        "content": "Kasala ba bakuwar aba ba ce, ga mai juna biyu. Wasu iya tsawon lokacin da suke da juna biyu, wasu kuma ba za su taba jin kasala ko gajiya ba. Canjin da kika samu a cikin jikinki ke haddasa gajiyar ko sanya ki jin bacci. Har ila yau jikinki na samar da Karin jinin da ke daukar abinci mai gina jiki zuwa mahaifa. Siga da hawan jini sun yi kasa. Har ila yau damuwarki na iya shafar yadda kike ji a jikinki. A watanni uku na karshe na cikinki, Karin nauyin jarri ke sa miki yawan gajiya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother22.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Za Ki Bullo Wa Yawan Gajiya A Lokacin Da Kike Da Juna Biyu",
+        "content": "\n a.  Hutu/hutawa. Ki dinga yin bacci sosai idan kin gaji.  Ki kwanta da wuri idan dare ya yi, bacci dan kadai da rana. Rage nauíin ruwa da kike sha kafin ki kwanta bacci don kauce wa yawan fita fitsari cikin dare. \n b.  Rage wa kanki aiki ñ Rage yawan aikace-aikacen da kike yi. Samu mai taimaka miki don kada ki dinga saurin gajiya. \n c.  Cin abincin da ya dace /mai gina jiki domin kara miki kuzari. Ci abinci mai gina jiki da kara kuzari, da shan ruwa wadatacce domin maganin rashin ruwa a jiki. \n d.  Dan motsa jiki daidai gwargwado ñ motsa jiki kamar tafiya ta minti 30 za ta sa ki ji karfin jiki. sai dai tiintibi likitanki kafin ki motsa jikin.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother23.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Saduwa  Da Namiji A Lokacin Da Kike Da Juna Biyu.",
+        "content": "In har cikinki ba shi da wata matsala za ki iya ci gaba da saduwa da namiji har zuwa lokacin haihuwarki. Sai dai a wasu lokuta saboda matsala ta lafiya kina iya dakatar da saduwar da namiji a lokacin da kike da juna biyu.  Likitanki zai ba ki shawarar da ta kamata.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24a.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24b.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24c.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24d.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24e.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother24f.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Sauran Abubuwan Da Suka Kamata Ki Kula Da Su A Lokacin Da Kike Da Juna Biyu",
+        "content": "Bayan kula da lafiyarki, har ila yau akwai bukatar ki kula da wadannan : \n a.  Dole ki huta a lokacin da kike da juna biyu don damuwar tana shafar fitar da ruwan nono. \n b.  Dole ki ci abinci mai gina jiki da kara kuzari, das u bitamin, da kalshiyum. Sanya ganyayyaki da ëyaíyan itatuwa na kara yawan ruwan da ke cikin jikinki. \n c.  Idan kin ji canji a nononki, laifin jikinki ne.  Juna biyu lokaci ne da hanyoyin samar da ruwan nono ke soma samuwa. Wannan ke sa nononki kara miki shaíawa musamman kan nonon.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother25.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Rigakafin Matsaloli A Lokacin Da Kike Da Juna Biyu.",
+        "content": "Kauce wa dukkan wata matsala ko wacce iri ce, da tabbatar da kin kiyaye da matakan na rigakafi kamar yadda ya kamata. Ga abin yi: \n a.  Wanke nononki a kullum da ruwa mai tsafta. \n b.  Tabbatar kina bincikar nononki a kowanne lokaci. \n c.  Da kin lura da wani canji ko rashin jin dadi a nononki, ki tabbatar kin sanar da likitanki cikin hanzari. \n d.  Kada ki bar nononki da laima domin zai iya sa tsagewa a kan nononki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606567/mother/Mother26.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wadanne Alamu Zan Gani A Lokacin Saduwa Da Za Su sa in Kira Likita Ko Unguwar Zoma?",
+        "content": "Da kin ji ba dadi ki nemi likita. Dole ki ji daban idan kin sadu da namiji ko bayan saduwa da shi. Sai dai idan bayan mintoci ba su kau ba, ko kina jin wani zafi ko zubar da jini, nemi likitanki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother27.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Sa Fitar wasu Abubuwa Daga Cikin Farjin Mace A Lokacin Da Take Da Juna Biyu?",
+        "content": "Daya daga cikin canje-canjen da za ki gani a jikinki bayan kin dauki juna biyu, har da fitar wasu abubuwa daga farjinki. Ba bakon abu ba ne, amma da kin ga ba dai-dai ba, sanar da likitanki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother28.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wadanne Abubuwa Ya Kamata A Yi, Da Wadanda Ya Kamata A Kauce Wa?",
+        "content": "Idan Kina Da Juna Biyu Kada Ki: \n a.  Amfani da auduga domin domin suna iya sa miki sabbin kwayoyin cuta zuwa cikin farjinki. \n b.  Wanke farji da ruwa ko sauran kayayyaki da suka jibanci ruwa. Wasu na hada ruwa da maganin hana abu lalacewa, aidin ko soda, duk bai kamata ba don za su iya sanya wa ki kamu da wasu cututtuka. \n c.  Warkar da wata cuta da kanki. Dinga neman likita domin gwada kid a ba ki magani. Lokacin Da Kike Da Juna Biyu Ki Yi: \n a.  Yi amfani da nauyin dan karamin wando/fant idan kina jin dadinsa. \n b.  Da kin ga wani canji a jikinki ki sanar da likitanki. \n c.  Ki huta da kyau zai taimaka miki samun karfi. \n d.  Kada ki cika wa kanki aiki don zai sa ki jigata, da haddasa miki wata matsala.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother29.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yaushe Ya Kamata In Sadar Da Likitana A Kan Fitar Abubuwa Daga Farjina?",
+        "content": "Da kin ga haka yi sauri ki sanar da likitanki, kada ki taba cewa za ki binciki kanki da yi wa kanki da kanki magani. Da kin ga jini, mai yawa, kuma ya wuce na kwana guda, ko jin wani zafi, sanar da likitanki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother30.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ya Sa Mace Mai Juna Biyu Ba Za Ta Iya Cin Abinci Mai Nauyi A Lokacin Da Cikinta Ya Tsufa Ba?",
+        "content": "Ba sabon abu ba ne ga mace mai juna biyu ta yawaita korafi. Ba za ta iya cin abinci mai nauyi ba saboda tana jin nauyi a kowanne lokaci. Girman jaririn ke sa wa tana jin hakan.  Wannan na iya sa wa ki ji wani iri idan kika ci abinci mai nauyi. Kada ki damu, sai fa in kin kasa cin abinci gabadaya ne, to sai ki tintibi liktanki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother31.jpg"
+          }
+        ]
+      },
+      {
+        "name": "A Wanne Hali Mai Juna Biyu Ke Samun Kanta A Lokacin Da Cikinta Ya Shiga Watanni Uku Na Karshe Kafin Ta Haihu?",
+        "content": " \n a.  Rashin son cin abinci -  wannan na aukuwa ne saboda karuwar girman jariri a cikinki. Dan karamin gurbi ya rage wa abinci. Abin da ya fi dacewa ki yi shi ne ki dai ci wani abu komai kankantarsa, duk bayan awa uku zuwa hudu. Kada ki sha ruwa ko jus tare da abinci. Saboda ruwa na saurin cika miki ciki, ya zama babu sauran wajen zuba abinci mai nauyi. \n b.  Daurewa Ciki -  Mata masu juna biyu kan yi fama da daurewar ciki a watanni uku na farko, da watanni uku na karshe. In kina shan ruwa, da ëyaíyan itatuwa da ganyayyaki, za su taimaka miki yin ba-haya cikin sauki. \n c.  Kumburin kafafuwa da ke  aukuwa a wasu lokuta saboda taruwar ruwa a jikinki. Domin rage wannan alama, ki rage gishiri, ko daina amfani das hi a cikin abinci, kuma idan za ki zauna ki dade a zaune dora kafafuwanki a kan wata karamar kujera. \n d.  Jigata/karancin nunfashi ñ  A watanni uku na karshe za ki ji kina dauke da lodi mai nauyi saboda ci gaba da girma da jaririnki ke.  Nauyinsa ke shafar hanyoyinki na yin numfashi, da ke haifar miki da gajiya da karancin numfashi.  A wasu lokutan ba za ki iya yin bacci ba saboda rashin jin dadi. Idan ba kya samun isasshen bacci, yana iya haifar miki da gajiya. \n e.  Kasa narkar da abinci da zafin zuciya. Jaririnki da ke girma zai shafi hanyoyinki na narkar da abinci, da sanya wasu abubuwa na cikin cikinki su koma zuwa makogwaro. Wannan ke sa zafi a zuciya. Don rage wannan zafi dinga cin abinci kadan-kadan adaga lokaci zuwa lokaci, da tauna abincinki sosai, da ci a hankali. Kada kina gama cin abinci ki kwanta. \n f.  Hawan jini/Karuwar Harbawar Jini. Hawan jini na iya jinkirta gudanar jini zuwa rigar mahaifa da hana jariri iskar da yake shaka, da abinci mai gina jiki. idan kina da hawan jini akwai bukatar ki samu Karin hutu, kada ki dade a tsaye kuma idan kina so ki dade a zaune, ki dora kafafuwanki a kan ëyar kujera ko matashi. \n g.  Cututtuka Na Mafitsara. Cututtuka ne da mai juna biyu ta fi fama da su. Zai iya shafar koda, idan ba a warkar ba, ya tilasta zuwan nakuda.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606525/baby/Baby2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Jagoran Motsa Jiki A Lokacin Da Kike Da Juna Biyu.",
+        "content": "Idan kina motsa jikinki daidai da daida, kina rigakafin manyan cututtuka irin su hawan jini, da wasu laulayin da radadi saboda karuwar nauyin jiki. idan kina da ciki ya sha bamban da sauran lokuta. Kowanne ciki na da nasa laulayin, tintibi likitanki domin yi miki jagora.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother33.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ciwon Ciki  A Lokacin Da Kike Da Juna Biyu",
+        "content": "Ciwon ciki kan auku ne saboda canjin da ke aukuwa ga jikinki domin iya samar wad a jariri wajen zama. Wani ciwon cikin na iya tsanani, da kin ga haka, nemi likintanki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother34.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Suka Fi Haddasa Wa Mace Mai juna Biyu Ciwon Ciki",
+        "content": "Ba wani sabon abu ba ne, kuma ba shi da hadari gare kid a jaririnki.\nWasu Daga Cikin Ciwon Sun Hada Da: \n a.  Za ki ji kamar ana soka miki wani abu mai tsini idan kika canza zama ko kwanciya. Ba shi da lahani kuma an fi fama da a lokacin da ciki ya shiga wata na shida. \n b.  Iska da daurewar ciki.  Sakamako ne na irin su hanji da tsokar jiki. yakan sa raguwar tafiyar abinci a cikin hanji. Don rage wannan sai ki yi ta shan ruwa, da cin abinci dangin rama da motsa jiki. \n c.  Matsewar ciki. Yakan sa ki ji kamar kina nakuda. Wannan ya fi dadewa da zafi. \n d.  Rashin jin dadi. Ba sabon abu ba ne mace ta kasance cikin rashin jin dadi saboda yadda jaririnta ke ci gaba da girma.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother35and36.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ire-iren Ciwon Ciki A Lokacin Da Kike Da Juna Biyu",
+        "content": "Koda yake yawancin mata da ke ciwon ciki a lokacin da suke da juna biyu, ba matsala ba matsala ba ce, akwai lokutan da idan cikin na ciwo zai iya zama akwai matsala.  Da kin ga daya daga cikin wadanda za a lissafo a kasa, maza ki tintibi likitanki. \n a.  Ciki a wajen mahaifa ba a ciki ba. Yakan auku sau daya cikin hamsin. Shi ne kwan ya girma a wajen mahaifa.  Sai an hada da likita don gyarawa. In tana cikin wannan yanayi tana iya fama da zafi da fitar jini tsakanin mako shida zuwa goma na juna biyu. \n b.  Fashewar mahaifa/riga. Tana da hadari saboda rigar mahaifar ta rabu da jaririn kafin a haife shi. Alamun hakan shi ne tsananin ciwon ciki na tsawon lokaci ba sauki. Kina iya fama da ciwon baya, da fitar ruwa da jini. \n c.  Barin ciki:  barin ciki kan auku ne a lokacin da cikinki ya kai mako 13. Alamomin barin ciki sun hada da tsananin ciwon baya. \n d.  Cututtuka na hanyar mafitsara:  za a iya magance wannan, sai dai idan aka yi watsi da shi yana iya zama matsala. Alamun su ne, ciwo, damuwa, jin zafi a lokacin da ake fitsari, da ciwon kasan ciki a wasu lokutan, da kumallo, da zazzabi, da gumi ko jin sanyi. Tintibi likita.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother37.jpg"
+          }
+        ]
+      },
+      {
+        "name": "A Yaushe Ya Kamata In Kira Likitana?",
+        "content": "Da kin ji daya daga wadannan alamomi na ciwon ciki da damuwa suka bayyana a gare ki: \n a.  Jin Sanyi. \n b.  Tsananin ciwo. \n c.  Jiri. \n d.  Zazzabi. \n e.  Amai da kumallo. \n f.  Fitar abu daga farjinki. \n g.  Jin zafi a lokacin da kike fitsari.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother38.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Shayar Da Jariri Nonon Uwa",
+        "content": "Nonon uwa shi ne ya fi kowanne abinci Karin lafiya ga jariri. Ba abu mai gina jiki da babu shi a cikin nono.  Ya fi duk wani abincin yara saukin narkewa a jikin yaro. Har ila yau nonon uwa na dauke da garkuwa na kare yaro daga cututtuka. Ya kamata ki shayar da jaririnki zallar nono na tsawon wata shida, zai kare jaririnka daga cututtuka irin su asma, da zawo, cututtuka na kunne, cututtuka na numfashi da kwanciya a asibiti.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother39.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Muhimmancin Shayar Da Nonon Ga Mahaifiyarsa",
+        "content": "Shayar da jaririnki nonon uwa zai taimaka miki rage kibar da kika samu a lokacin da kike da juna biyu. Zai taimaka wa mahaifarki komawa yadda take kafin ki dauki juna biyu. Shayar da yaro zai taimaka miki rage zubar jini bayan haihuwa, da rage miki kasadar kansar nono.  Yana rage bata lokaci da tsimin kudi, da bai wa mata lokacin hutawa da jariransu, da karfafa dankon kauna da kusanci tsakanin uwa da jaririnta, da tattalin kudi don babu abin da za a saya da ya jibanci abincin jarirai. Yana rage talauci saboda kyauta ne. Har ila yau  hanya c eta kula da lafiyar jariri.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother40.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Sa Ruwan Nonon Uwa Gudana?",
+        "content": "A lokacin da mace ke da juna biyu rigar mahaifa na taimaka wa jiki samar da hanyoyin yin nonon uwa.\nA lokacin da mace ke da juna biyu, rigar mahaifa na taimaka wa jikinta samar da ruwan nono. Tana haihuwa da awa 32-40 ruwan nono zai fara zuwa. Haka nonon zai dinga zuwa a duk lokacin da kika tashi shayar da jaririnki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother41and42.jpg"
+          }
+        ]
+      },
+      {
+        "name": "A  Wanne Lokaci Ruwan Nono Ke Zuwa Cikin Nonon Uwa?",
+        "content": "Ruwan nono na gudana zuwa cikin nono kwana biyu zuwa uku bayan kin haihu. Akwai nonon farko da ke fara zuwa kafin daya ruwan nonon. A lokacin da jariri ke tsotso ruwan na kara gudu wajen fitowa, kina taimaka masa matso masa yana sha. Idan ba ruwan nonon yana fita ba, yin nonon zai dakata.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606568/mother/Mother41and42.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Kawo Jinkirin Gudanar Ruwan Nono?",
+        "content": "Kodayake ruwan nono na soma zuwa cikin kwana uku da haihuwa, a wasu lokuta yakan kai kwana biyar kafin ya fara zuba. Kada ki ji tsoron cewa ba zai zo ba. Kina tsorata nonon zai jinkirta zuwa. Ki ba jaririn ya ci gaba da tsotso, tsotson zai taimaka ruwan nonon ya soma fitowa.  Idan kina da wannan matsala tintibi likitanki.Wasu daga cikin dalilan da ke kawo jinkirin gudanar ruwan nono, sun hada da; \n a.  Haihuwar bakwai na sa nono kin zuwa da wuri saboda jaririn iyakarsa wata bakwai maimakon wata tara da nonon ya kammala shirin samar da ruwan nono. \n b.  Shan wahala musamman dadewa ana nakuda, da dadewa ana kan nishin fitowar jariri, yin aiki ko sa abu a janyo jaririn na jinkirta zuwan nono. \n c.  Lalacewar hanyoyin gudanar nono. \n d.  Idan aka yi mata Karin ruwa da yawa, ruwan na iya taruwa a nono ya hana ruwan nono gudana akan lokaci. \n e.  Makalewar wani bangaren na rigar mahaifa na iya jinkirta gudanar nono. \n f.  Zubar jini da yawa na iya shafar wani bangare na kwakwalwa da ke sarrafa ruwan nono. \n g.  Haihuwar jariri mai nauyin gaske a haihuwar farko na iya jinkirta samar da ruwan nono. \n h.  Abubuwa rage zafin nakuda da aka ba mace a lokacin da take nakuda na iya jinkirta gudanar nono. \n i.  Raba jariri da mahaifiyarsa na wani tsawon lokaci na iya jinkirta gudanar nono. Shayar da jariri nono cikin awa/saía daya da haihuwarsa na taimaka wa gudanar ruwan nonon. \n j.  Nauyi ko katon ciki na da nasaba da raguwar samar da nono.",
+        "image": "mother41and42.jpeg"
+      },
+      {
+        "name": "Me Ke Haddasa Zafi/Ciwo Bayan Haihuwar Jariri?",
+        "content": "Matsewar mahaifa ke haddasa ciwo bayan kin haihu. Mahaifar na kokarin komawa yadda take a da can baya kafin ki dauki juna biyu kuma hakan na taimaka wa rage zubar jini. Zafin ko ciwon na iya zama kadan ko da yawa, kuma shayar da jariri na taimaka rage girman cikin naki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother43.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ta Ya Zan Iya Samun saukin Ciwon/Zafin Bayan Na Haihu?",
+        "content": "Yin wadannan abubuwa zai taimaka miki; \n a.  Shafawa da danna kasan cikinki. \n b.  Kwanta rib-da-ciki da matashi a kasan cikin naki. \n c.  Kwanta rib-da-ciki da auduga mai dumi a kasan cikinki. \n d.  Ki dinga yin fitsari aka-akai koda ba kya jin fitsari. Saboda mafitsarar da ke cike da fitsari na hana mahaifa komawa yadda take a da. \n e.  Sha maganin rage radadi. Dinga tintibar likitanki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother44and45.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Matsala Ta Rigar Mahaifa  (Placenta Previa)",
+        "content": "Rigar na samuwa ne a cikin mahaifa, tana dauke da iska da abinci mai gina jiki daga uwa zuwa jariri, da dauke kazanta daga jariri zuwa uwa ta cibiyar jariri.\nTakan kasance da matsala idan tana samuwa a hankali kasa da kima a cikin mahaifa ko a kofar mahaifa ta toshe haihuwar jariri kamar yadda ta kamata.Akwai matsaloli na mahaifa iri uku: \n a.  Mahaifa ta toshe gabadayan kofar mahaifa ta ciki. \n b.  Mahaifa ta toshe wani bangare  na kofar. \n c.  Mahaifar ta zama tana gefe na mabudar mahaifar.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother44and45.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Haddasa Matsalar Ta Rigar Mahaifa/Jariri.",
+        "content": "\n a.  Kwan da ya kyankyashe  na dasuwa ba sosai ba a jaririn, da ke sa rigar ta samu a kusa ko saman kofar mahaifa. \n b.  Samuwar rigar ba kan kaíida ba. \n c.  Mahaifiyar ta haura shekaru. Matan da ke da shekaru na da irin wannan matsala fiye da ëyan mata da ked a kananan shekaru. \n d.  In kin haihu fiye das au shida. \n e.  Kasance kina da irin su faburos/fibroids ko tabo daga aiki da aka taba miki ko zubar da ciki. \n f.  Idan ciki ne, na ëyan biyu ko ëyan uku. \n g.  Idan kina shan taba ko tabar ibilis. \n h.  Ko an tamaka miki samun juna biyun ta hanyoyi ne irin na zamani.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother46-48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Alamomi Na Matsaloli Na Rigar Mahaifa",
+        "content": "A wasu lokuta za a ga jini a watanni shida da samun juna biyu, ya soma ya tsaya, za a ga jinin da haske. Ba a jin zafi lokacin da jinin ke bayyana, wasu kuma za ka ga babu jini ko daya. Abubuwan da matsalar rigar mahaifa ke iya haddasawa: \n a.  Kamuwa da kwayoyin cuta da samar da jini. \n b.  Zafi na jariran da ke cikin ciki saboda rashin wadatacciyar iska. \n c.  Girman jariri a hankali ba sosai ba, saboda rashin samun wadataccen jini. \n d.  Tsorata da mutuwar mahaifiyar jariri idan zubar jinin ya cika yawa. \n e.  Jaririn na iya fama da matsalar rashin jini.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother46-48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Yi Irin Wannan Lalura",
+        "content": "Don rage matsalar ta zubar jini, ya kamata uwar jariri ta kwanta a asibiti ta samu isasshen hutu. A kuma kauce wa gwaje-gwaje na kugu ko saduwar da ka iya haifar da matsala. Babban abin yi kawai ki tintibi likitarki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother49.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wadanne Abinci Ake So Mace Da Jininta Ya Yi Kasa Bayan Ta Haihu Ta Ci?",
+        "content": " \n a.  Abinci mai sa kuzari da ke taimaka wa mace mai matsalar rashin jini. \n b.  Tafarnuwa, tana taimaka samar da ruwan nono, kuma tafarnuwa na kara dadin abinci. \n c.  Gwanda koriya. Shan gwanda da ba ta nuna ba na taimaka samun ruwan nono. Kina iya dafa ta ki ci. \n d.  Karas, na taimaka wa mai shayarwa. Don yana kunshe da abubuwan da ke taimaka wa jariri girma. \n e.  Alaiyahu yana taimaka wa samun kuzari amma a dafa shi kafin a ci shi. \n f.  Su gyada, da yazawa/kashu na taimaka wa samar da ruwan nono.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50a.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50d.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother50e.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haifar Da Zubar Jini Bayan Haihuwa?",
+        "content": "A wasu lokuta idan ya rage dad an burbushin rigar mahaifa, a jikin mahaifa, jini na iya gudana, haka nan a lokacin da mahaifa ke kokarin komawa daidai bayan kin haihu yana sa zubar jini saboda yana matsewa ne. Wasu daga cikin abubuwan da ke sa zubar jini bayan kin haihu su ne : \n a.  Fitar rigar daga mahaifa da wuri. \n b.  Rigar ta rufe kofar mahaifa. \n c.  Mahaifar tana da girma da yawa. \n d.  Hawan jini/gudanar jini da yawa a lokacin da kike da juna biyu. \n e.  Kin haihu da yawa a baya. \n f.  Dadewa wajen yin nakuda. \n g.  Tumbi. \n h.  Amfani da magani don sa nakuda. \ni.  Kwayoyin cuta. \n j.  Amfani da magani wajen dakatar da nakuda. \n k.  Amfani da wani abu wajen jawo jariri.\n l.  Gabadaya lalurar ta rigar. \n m.  Yanka a mahaifa. \n n.  Jini.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother51.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Tazarar Haihuwa",
+        "content": "Muhimman Bayanai A Kan Tazarar Haihuwa: \n 1. Mata su miliyan 214 da ke shekarun haihuwa a kasashe da ke tasowa da ke son kauce wa juna biyu ba sa amfani da sabuwar hanyar tazarar haihuwa ta zamani. \n 2.  Wasu daga cikin hanyoyin tazarar haihuwar, kamar su kondon, na rage yaduwar HIV da sauran cututtuka na jimaíi. \n 3.  Tazarar haihuwa na rage zubar da ciki musamman haihuwa cikin matsala. \n 4. Taimaka wa samun yawan ëyaíyan da ake bukata. \n 5. Kaucewa daukar cikin da ba a so, da rage mace-macen mata da jarirai. \n 6. Ana iya tazarar haihuwa rta rigakafin haihuwa da magance rashin haihuwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother52.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wacce Ce Hanyar Da Ta Fi Ta Kayyade Haihuwa?",
+        "content": "Sun hada da shekarun mace, da yanayin lafiya kamar su cuttuka na zuciya, hawan jini, sankara/kansa da sauran su. Zabinki, ko mace na shayarwa ko ba ta shayarwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606569/mother/Mother53.jpg"
+          }
+        ]
+      }
+    ],
+    "general_health": [
+      {
+        "name": "Mene ne Nonon Farko (Kolostirum)?",
+        "content": "Shi ne ruwan farko da ke fara fitowa daga nonon uwa da ta haihu. Anonon na samuwa ne a lokacin da mace ke da juna biyu kafin haihuwar jaririn. Ba shi da yawa, sai dai yana da muhimmanci wajen zama garkuwar jiki ga yara. Shi yaro ke fara sha daga nonon uwa, kafin nonon ya gudana.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ya Sa Bugun Kirjina Ke Karuwa Babu Gaira Babu Dalili?",
+        "content": "Idan kin ji haka ba wata babbar matsala ba ce, kuma shi da kansa zai daina, sai dai zai iya zama alamata ta wata babbar matsala. Kirji na iya wannan bugu da sauri saboda wadannan dalilai; \n a. Anemiya wato matsala ta rashin isasshen. \n b. Matsala ta auku ga zuciya. \n c.  Jijjigar da ba ta kamata ba a lokacin haihuwa. \n d. Cututtuka na zuciya. \n e.  Motsa jiki. \n f. Shan taba. \n g.  Jigata. \n h. Zazzabi. \n i. Hawan jinni ko saukarsa. \n j. Yawan kwankwadar barasa. \n k. Sakamakon shan wasu magunguna. \n l. Yawan shan kayan zaki na kwalba, gahwa, da sauran abubuwa da ke a matsayin kayan ëyaíyan itatuwa, da ruwa na kwalba, da shan askirin fiye da kima, goro, da cakuleti. \n m. Muíamula da miyagun kwayoyi. \n n. Wata gaba da ke cikin wuya da ke taimaka wa wajen girma da haduwar tsokar jiki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haddasa Tsoro?",
+        "content": "Tsoro kan auku ne idan mutum na tunanin ana masa barazana. Wani abu ne da ke sa jikinmu ya yi shirin fuskantar wata matsala ko ta hanyar guje wa matsalar. Saboda haka tsoro na da muhimmanci domin sanya mu kasancewa ba tare da wata matsala ba.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haddasa Cututtuka Na Ido/Idanu Ko Zafi A Ido?",
+        "content": "Kwayoyin cuta ne kan shafi lafiyar ido. Sun hada da zafi, hawaye, faduwar abubuwa daga idanu, jin kamar akwai tsakuwa-tsakuwa a cikin ido, kaikayi a ido, ëyar kumbura a saman gashin ido, ko a kasansa, jin wani iri idan an haska fitila.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haifarwa Da Babba Ciwon Shawara?",
+        "content": "Shi ne za a ga fatar jiki da kwayan ido sun koma launin ruwan kwai. Alamu ne na cuta a hunhu, mafitsara, ko a jini ko wajen da ke sarrafa siga da sauransu a cikin jiki. Ciwon shawara kan auke ne idan akwai datti da yawa a cikin jiki da ka iya yi wa jini illa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haddasa Sanyin Kirji?",
+        "content": "Shi ne idan hunhu da sauran sassan da ake amfani das u wajen numfashi sun kamu da wasu kwayoyin cuta. An fi fama da wannan lalura a lokacin sanyi. Akan farad a tari. Alamomin sanyin kirji shi ne majina a hanci, dan ciwon kai, ido ya dinga yin ruwa, da mashako. Mata da ke da juna biyu, da masu shan taba, da tsofaffi da yara duk sukan yi wannan ciwo. Haka nan wadanda garkuwarsu jikinsu ba ta da karfin yaki da cututtuka kamar wadanda ked a ciwon daji, da asma, da cututtuka na zuciya da sauran su.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Maganin Sanyin Kirji",
+        "content": "Za Ka iya warkar da shi ta hanyar yin wadannan abubuwa; \n a. Wanke baki da ruwan gishiri Yadda ake yi. Hada ruwa mara sanyi da gishiri cokali, ka kada shi sosai, har gishirin ya narke sosai, sai ka dinga kurkurawa sau a kalla biyu ko uku a rana. \n b. Nunfashi a tiriri. Yadda ake yi. Sa tafasasshen ruwa a cikin kwano ko masaki, sai a hada da ëyan digon minti mai zafi/barkono ko dai wani maid a ked a nasaba da rub da minyileta/mam zafi a ciki, sai ka rufe kanka da tawul, ka sa fuskarka tana shaker tiririn, ki shaka na wasu ëyan mintoci, zai kawar da duk wani abu . yi wanka da ruwan dumi. A lura cewa bai kamata mace mai juna biyu, ko yara, ko masu fama da tsananin ciwon zuciya, ko hawan jini su yi wannan surface ba. \n c. Apple Cider Venger (Tuffa), na da muhimmanci wajen taimaka wa jiki yaki da cututtuka. Yadda ake yi. Hada cokali biyu na tuffan da ba a tace ba, da ruwan dumi, kara cokali daya na zuma, sha gaba daya sau biyu ko uku a kalla a kowacce rana, har na a kalla mako guda. \n d. Yin amfani da citta. Debi dakakkiyar citta danya cokali daya, a sa a cikin ruwan zafi, a rufe, a barta cittar a ciki ta yi minti biya. Sai a zuba ëyar zuma a ciki a hada, sai a sha kofi uku na hadin, a kalla sau uku a rana. Ko a nika citta, da kanunfari, da  kimba, sai a hada su a shanye sau uku a lokuta daban-daban a rana, da madara ko zuma.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7d.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth7e.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Sa Wa Tafiyar Ruwa/Daukar Ruwa?",
+        "content": "Matsala ce da ke aukuwa daga kwakwalwa. Yawanci ba a san me ke haddasa ciwon ba. Sinadarai da ke cikin jini na iya haddasa ciwon na tafiyar ruwa. Rauni a ka/kai ko sankarau. Zazzabi ya fi haifar da shi, sai kuma shanyewar bangaren jiki, da rashin wadatacciyar iska zuwa kwakwalwa, matsala/nakasa ta haihuwa, da tsiro a cikin kwakwalwa. Har ila yau ciwon siga na iya hassada ciwon tafiyar ruwa, idan suka ta yi kadan a cikin jini, ko sigar ta yi yawa. Haka nan karacin sinadarin baitamin B6 na iya haddasa cutar.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mece Ce Insomnia/ Matsalar Rashin Bacci?",
+        "content": "Matsala ce ta rashin bacci ko mutum ya fara bacci sai ya farka. Ko da mutum yana da dama ta yin baccin. Wadanda ke fama da wannan lalura na iya kasance cikin rashin farin ciki, da fama da daya, ko duka wadannan alamomi, gajiya, rashin kuzari, rashin iya mayar da hankali, damuwam, da raguwar kwazo a wajen aiki ko makaranta. Har ila yau wadannan na iya haddasa rashin bacci: \n a. Samun matsalar bacci. \n b. Gajiya. \n c. Yawan farkawa cikin dare. \n d. Rashin kuzari. \n e. Idan ya farka, da kyar yake iya komawa bacci. \n f. Matsalar mayar da hankali.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth9.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Matsala ta Hanta Da Jini.",
+        "content": "Matsaloli ne guda uku da ke da hadarin gaske. Bangaren jini da hanta. Matsalar na da karfi, da ke iya yin barazana ga rayuwar mutum.  Zai iya zama sakamako ne na amai, da ciwon kai, da ciwo a saman ciki. Cutar na iya yin babbar illa ga gabobin jiki. Saboda haka kula ta gaugawa za ta rage hawan jini na uwar jariri domin kare ta, da kare lafiyar jariri. A wasu lokuta ana bukatar a yi wa mace aiki don ciro jaririn kafin lokacin haihuwarsa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haddasa Ciwon Kunne?",
+        "content": "Kwayoyin cuta na iya haddasa ciwon kunne, ko rauni ko kumburi. Yawanci kwayoyin cuta ke haddasa ciwon kunne. Sauran abubuwan da kan sa ciwon kunne su ne; a. sauyi a kadawar iska kamar in ana tafiya a cikin jirgin sama. b . Taruwar dattin kunne  c. ruwa ko man gashi a cikin kunne d. sanya bakon abu a cikin kunne  e. Mashako. f. amfani da abin susan kunne (auduga) g. matsala ta halori h. karafan da ake sa wa a hakora i. matsalar dodon kunne  j. matsala ta mukamiki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ake Nufi Da Daurewar Ciki?",
+        "content": "Daurewar ciki na nufin matsala wajen yin ba-haya. Matsala ce ba mai tsanani ba. Kowanne da yanayinsa na zuwa ba-haya. Wani na iya zuwa ba-haya har sau uku a rana, wasu sau kadan a mako. Bai kamata a ce mutum ya kai kwana uku ko fiye da haka bai yi ba-haya ba. Yana sa ba-haya ya yi tauri, da kara yin tauri a kullum. Sai ya zama an sha wuya wajen yinsa. Alamominsa su ne: rashin zuwa ba-haya a kai-akai. Shan wahala wajen fitar da ba ñhaya, kadan ko da yawa. Jin ba duka ba-hayan ya fito ba. Kumburewar ciki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606549/general_health/GeneralHealth12.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Haddasa Daurewar Ciki",
+        "content": "Daurewar ciki kan auku idan;\n a. Canza abincin da kike ci, ko aiki na motsa jiki. \n b. rashin shan isasshen ruwa. \n c. ba a cin isasshen sinadari da jiki ke bukata don saukin ba-haya. \n d. yawan cin kayan da suka danganci dabbobi. \n e. ba kuzari f. dakatawar jin ba-haya. \n g. gajiya. \n h. yawan amfani da maganin da ke sa a yi ba-haya. \n i. amfani da magani kamar na hana gajiya, da sauran su. \n J. Amfani da magani day a kunshi sinadari na kashiyum da aliminiyum. \n K. matsala ta cin abinci. \n l .  ciki mai saurin rikicewa. \n m. juna biyu. \n n. matsaoli na jijiyoyi da tsokar jiki wajen narkewar abinci. \n O. ciwon daji a hanji.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth13.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ciwon Fatar Jiki.",
+        "content": "cuta ce da idan kafar fitar zufa/gumi ta toshe da mataccen kwayar halitta, da mai/maiko daga fatar jiki. ta fi aukuwa a fuska, saman baya, kafada, goshi da kirji. Cutar na da bakin kai da farin kai. Kuraje kan fito a fuska. An fi samun cutar wajen samari, sai dai takan fitowa kowanne mutum mai shekaru ko mara shekaru. Kurajen wani na fitowa wani na mutuwa. Yakan bar tabo kuma ana warkar da wannan ciwo.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth141516.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Alamomin Ciwon Fatar Jiki.",
+        "content": "Alamun ciwon ya danganta da tsananin ciwon: \n 1. Suna da farin kai (rufaffen, tosasshen gyambo). \n 2. Suna da bakin kai (budadde). \n Kanana kuma jajaye, da ke da zafi. \n Kuraje da ke da alama a kansa. \n Manyan kuraje masu zafi a karkashin fatar jiki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth141516.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Kawo Ciwon  Fata",
+        "content": "Abubuwan da Ke Haddasa Ciwon Fata: \n a. Yawan fitar da maiko. \n b. Kwayoyin cuta. \n c. Kuraje da mai da matacciyar fata suka toshe. \n d. Tsananin sakamako na kwayar halitta.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth141516.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mene Ne Ciwon Nimoniya?",
+        "content": "Nimoniya ciwo ne na hunhu da ke sa mutum rashin lafiya. Alamomin ciwon Nimoniya su ne; tari, zazzabi, da  shan wahala wajen yin numfashi. Za za iya magance yawancin cutar a gida.  Takan warke a cikin mako biyu zuwa uku.  Manya da yara da ke da wasu cututtukan na iya kasancewa cikin tsananin rashin lafiya. Babu mamaki sai an ma kai su asibiti.\nMutum na iya kamuwa da Nimoniya ko a makaranta, ko a titi yana tafiya, ko a asibiti.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth1718.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haddasa Ciwon Nimoniya?",
+        "content": "Kwayoyin Cututtuka Na Iya Haddasa Cutar. Nimoniya na somawa ne a lokacin da mutum ya shaki kwayoyin cuta zuwa hungunsa. Mai mura ya fi saurin kamuwa da Nimoniya.  Cututtukan na sa hunhu ya kasa yakar cutar ta Nimoniya, saboda haka sai ki ga an kamu dandanan. Haka nan wanda ya dade yana fama da asma, cutar kansa/daji, cututtuka na zuciya ko ciwon siga, na iya kamuwa da ciwon Nimoniya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth1718.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wadanne Alamomi ne Na Nimoniya?",
+        "content": "Alamomin da ake saurin gane cutar sun hada da: \n a. Tari hade da majina. Majinar na iya kasancewa koriya ko hade da jini. \n b. Jin gajiya ko kasala. \n c. Zazzabi. \n d. Nunfashi da sauri da sauri ko karancin numfashin. \n e. Karkarwa da bugawar hakora. \n f. Harbawar zuciya da sauri. \n g. Amai da kumallo. \n h. Zafi a kirji da ke karuwa idan mutum ya yi tari ko shaker numfashi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth19.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Maganin Nimoniya",
+        "content": "Likitanki zai ba ki magani ya danganta a kan me ya haddasa cutar. Ki tabbatar kin yi amfani da magungunan kamar yadda likita ya umarce ki. Kada ki fara shan maganin ki dakata saboda kin ji sauki, ko kin ji sauki ki tabbatar da kin gama shan maganin.  Haka nan likita na iya baki maganin kashe kwayoyin cuta. Ki samu isasshen hutu da bacci, da shan ruwa sosai. Kada ki sha taba.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth20.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ta Ya Za Ki Iya Yin Rigakafin Nimoniya?",
+        "content": "Kyakkyawar hanyar kaucewa ciwon Nimoniya a babba ko yaro, ita ce ta hanyar yin rigakafi. Yi wa yara rigakafi akai akai har da rigakafin Nimoniya. Nesanta kai daga wadanda ke mura, bakon dauro da karambau. Ki dinga wanke hannunki da kyau domin rigakafin yaduwar kwayoyin cutar.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth21.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Wanke Hannuwa/Hannaye Da Kyau",
+        "content": "Wanke hannu ne kyakkyawar hanyar rabuwa da kwayoyin cutar. Wanke hannu, da yanke kumba. Abubuwan da ake wanke hannu da su: \n a. Ruwa mai kyau/tsafta. \n b. Sabulu. \n c. Tawul/tsumma/tishu fefa  masu tsafta.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth22.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Matakan Wanke Hannu Da Kyau:",
+        "content": "a. Jika hannu da ruwa. \n b. Wanke hannu da sabulu har sai ya yi kumfa. \n c. Wankewa daga tafin hannu zuwa tafin hannu. \n d. Wanke tsakanin yatsu. \n e. Wanke bayan yatsu. \n f. Wanke bayan hanny. \n g. Wanke wuyan hannu. \n h. Wanke kumba. \n i. Wanke kasan hannu. \n j. Dauraye hannu da kyale su, su bushe ko amfani da tawul ko tsumma busasshe mai tsafta don goge hannun ya bushe.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth23.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=3PmVJQUCm4E"
+        ]
+      },
+      {
+        "name": "Muhimmancin Wanke Hannu Da Kyau:",
+        "content": "Wanke hannu da kyau na kyautata lafiya da jin dadin mutum. Yana taimaka wa raba hannu da kwayoyin cututtuka.  Kaucewa sanya abubuwan da ba ka bukata a jikinka.  Rage kasadar kamuwa da cututtuka irin su Ebola, da Kwalara. Ceton rai da kauce wa rashin lafiya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth24.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Lokutan Wanke Hannuwa:",
+        "content": " \n a) Bayan wasannin motsa jiki ko wasa a waje. \n b) Da an gama aiki. \n c) Bayan atishawa/tari. \n d) Bayan ba-haya/ko amfani da bayi. \n e) Bayan wasa da kayan wasa. \n f) Kafin a yi girki da bayan an gama. \n g) Kafin a ci abinci da bayan an gama cin abinci. \n h) Kafin ki taba ëyaíyanki ko bayan ba su/ciyar da su abinci.\nGargadi:\n 1. Kada ki hada tawul da wani kuma ki dinga yin amfani da tawul ko tsumma mai tsafta wajen goge hannu bayan wanke-wanke ko makamancin haka. \n 2. A lokacin da kike amfani da famfo ki tuna amfani da tishu fefa wajen rufe kan fanfon, don kaucewa mayar da cututtukan hannunki. \n 3. Ki dinga wanke wajen wanke-wanken a kowanne lokaci, da tsaftace waje. \n 4.Ki yanke kumbar don kawar da cututtuka cikin sauki. \n  5. Idan ba ruwan famfo,  samu wani ya zuba ruwa ko yin wani rami ko kan famfo a mazubin ruwa. \n 6. Kada ki wanke hannu da ruwan da wasu suka wanke hannu a cikinsa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth25.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=3PmVJQUCm4E"
+        ]
+      },
+      {
+        "name": "Kiwon Lafiya/Kula Da Lafiyarki",
+        "content": "Hanya ceta kasancewa cikin tsaftar jikinki a kowanne lokaci, da ke da matukar muhimmanci ga lafiyarmu. Saboda haka yana da muhimmanci iyaye su koya wa ëyaíyansu alíada ta kiwon  lafiya . Su nuna wa ëyaíyansu ta wadannan misalai.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth262728.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ainihin Hanyoyin Kiwon Lafiya",
+        "content": " \n a) Wanka akai-akai. \n b) Dinga wanke hannu da sabulu da ruwa a kowanne lokaci bayan an fito daga wajen ba-haya, da kafin a ci abinci, da bayan an gama girki. \n c) Kada ki dinga yawo ba takalmi, haka ma ëyaíyanki. \n d) Wanke baki/hakori sau biyu a rana, da safe da kuma da daddare. \n e) Kada ki bari awaki ko sauran dabbobi su shigo gida ko wuraren da yara ke wasa. \n f) Kada ki bari kare ya lashi yaro ko hawa  gado. \n g) Tsaftace gida. \n h) Wanke tufafi, da zanen gado, da mayafi, da shanya su a rana.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth262728.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=zh7CACofsio"
+        ]
+      },
+      {
+        "name": "Dalilan Da Suka Sa Dole Ki Kula Da Kiwon Lafiyarki Su Ne:",
+        "content": " \n a. Rage kasadar kamuwa da kwayoyin cututtuka. \n b. Rage yawan lokutan da kike rashin lafiya. \n c. Rage kudin da ake kashewa wajen neman magani. \n d. Samun Karin kwanciyar hankali. \n e. Kara sanya amince da mutum a cikin alíuma. \n f. Taimaka wa iyaye su zama abin koyi ga‘ya’yansu ",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth262728.jpg"
+          }
+        ],
+        "video": [
+          "https://study.com/academy/lesson/the-importance-of-personal-hygiene.html"
+        ]
+      },
+      {
+        "name": "Mene Ne Tarin Fuka?",
+        "content": "Wata kwayar cuta ce ke yada cutar daga mutum zuwa wani ta hanyar iska.  Mai fama da cutar da bai warke ba, zai iya yadawa ta hanyar tari, ko Magana, ko atishawa, ko zubar da yawu, ko dariya ko waka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth29.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=U2D6LX-92zA"
+        ]
+      },
+      {
+        "name": "Alamomin Cutar Tarin Fuka Sun Hada Da:",
+        "content": " \n a. Tarin da ya kai har mako biyu ko fiye ana yi. \n b. Gajiya. \n c. Tarin jini. \n d. Zufa da daddare. \n e. Ciwon kirji/zafi a kirji. \n f. Rashin son cin abinci. \n g. Rama/ramewa. \n h. Zazzabi. \n i. Mura/jin sanyi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth30.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?time_continue=4&v=DXK_2WBuxb4"
+        ]
+      },
+      {
+        "name": "Me Ke Haddasa jin Jiri?",
+        "content": "Abubuwa da dama kamar damuwa, ko damuwa ta cikin kunne, kamuwa da kwayoyin cuta, rauni a cikin kunne, kazanta na iya haddasa jiri. Sauran abubuwan da ke haddasa jiri sun hada da damuwa, rashin wasu sinadarai a cikin jini, karancin siga, yayani mai zafi, da rashin shan isasshen ruwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth31.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ganin Jinin Al’ada A Lokutan Da Ba Su Kamata Ba",
+        "content": "Al’ada kan yi wa mace yawo da hankali musamman a farko-farkon balagarta ko a lokacin da mace ta gama haihuwa/ta tsufa. Da kin ji tsananin ciwo a lokacin al’ada, sai ki tintibi likitanki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606550/general_health/GeneralHealth32.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Haddasa Rikicewar Al’ada",
+        "content": " \n a. Matsala a gabar cikin jiki da ke makoshi da ke kula da narkar da abubuwa a cikin jikinmu.  Wannan na iya sanya rikirkicewar alíada.  Alamominsu su ne kara kiba, gajiya, yawan jin sanyi, ko ramewa, damuwa, kumburi a wuraren makoshi. Ya kamata likita ya binciki cutar a jikinki da ba ki maganin da ya dace. \n b. Matsala a wajen mahaifa da ke hana fitar kwayaye daga mahaifar mace domin mace ta ga ba ta ga alíadarta ba ko yi mata wasa. A wasu lokuta matan na yin gashi a fuskarsu. \n c. Ciwon sankara/daji shi ma yana iya miki wasa da alíada. Idan kin ga haka, ki je a miki gwaji na sankarar mahaifa. \n d. Tsananin rama/rage kiba na haddasa matsala ta al’ada. Ki tabbatar kin tattauna wannan da likitanki. Ki tabbatar kina samun abinci mai gina jiki tare da kula da nauyinki. \n e. Gajiya/jigata na sa mata ganin alíada ba a lokacin da ya dace ba.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth33.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Amfanin Tazarar Haihuwa",
+        "content": "\na) Inganta lafiyar jariri da ta uwa da ci gaban al’uma \nb) Rigakafin kamuwa da cututtukan da kan shafi juna biyu. Ta iya zabar lokacin da take son juna biyu da ke iya tasiri ga lafiyarta. Taimaka wa mace tsara ‘ya’yanta, da haihuwarta da lokacin da take so ta haihu. \nc) Rage zubar da ciki \nd) Rage mutuwar jarirai saboda gwanne, da rage mutuwar mai juna biyu saboda rashin hutun haihuwa. \ne)Taimaka wa rigakafin cutar Aids saboda mace mai cutar Aids na iya sa wa jaririnta.  Haka nan amfani da kondom na rigakafin yaduwar cutar Aids da sauran cututtuka na jima’i. \nf)Karfafa jama’a  iya zabar yadda suke so su gudanar da jima’insu da hayayyafa. Da bai wa mata dammar samun ilimi da samun aikin yi saboda ba sa kwashe lokutansu wajen kula da  tarin yara masu yawa. Haka nan iyali na samun isasshen kudi don tura ‘ya’yansu da ba su da yawa makaranta. \ng) Yana rage yadda matasa ke daukar ciki.  ‘yan mata da ke daukar ciki da wuri na zame musu matsala ga lafiyarsu.  Akan haifi yaran kanana ko bakwaini. \nh) Yana taimaka wa rage yawan jama’a a kasa, da kan shafi tattalin arziki da yanayi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth34.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Hanyoyi Na Zamani Na Rigakafin Daukar Juna Biyu.",
+        "content": " \n a. Shan kwayoyin/magungunan hana daukar juna biyu. Suna hana daukar ciki, da rigakafin sankarar mahaifa. Suna da bangarori biyu na hana daukar ciki. \n b. Magunguna hana daukar juna biyu masu bangare guda daya da ake kira Progestogen only pills. Suna toshe kafar shigar maniyyi da kwai don hana su haduwa. Suna kuma hana fitar da kwayayen. Kina iya amfani das hi a lokacin da kike shayarwa. \n c. Magungunan da ake sha har kwana biyar bayan saduwa da namiji. Kuma ba shafar cikin da aka rigaya aka dauka. \n Wanda ake makalawa a hannu. Maíaikatan lafiya ke sa wa mace da cire mata. Za a iya amfani das hi har tsawon shekara uku zuwa biyar. Zai iya sa wa ki ga kina zubar da jini, amma ba shi da illa. \n e. Wani abu mai kama da  T da ake tura wa a cikin mahaifa yana hana daukar ciki. Yana hana maniyyi da kwai haduwa. \n f. Allura.  Za a iya yenta duk bayan wata biyu ko uku ta danganta ga irin allurer. Tana hana maniyyi haduwa da kwan mace, ko hana maniyyi shiga cikin mahaifa. Zai iya sa wa ki ga alíadarki na miki gardama. \n g. Kondon na maza roba ce da namiji ke sa wa a burarsa/azzakarin namiji. Idan namiji ya kawo iyakacin maniyyin a cikin robar, ba zai shiga cikin alíaurar mace ba. Kondon na hana daukar cututtuka da ke yaduwa ta jimaíi. dole namiji ya sa ta da kyau idan yana so ta masa aiki sosai. \n h. Kondon na mata. Ana sa shi ne can cikin farjin mace. Yana hana maniyyin namiji shiga cikin farjin mace. Shi ma yana rigakafin daukar cututtuka na jima’i. \n i. Dandaka. Ita ce dandake namiji ya zama an toshe kafar da maniyyi ke tasowa daga jakar kwalatai zuwa azzakari.  Ba ta shafar kwazon namiji wajen saduwa da mace. A tabbatar an sanar da shi cewa idan aka masa ba zai taba iya yi wa mace ciki/juna biyu ba. \n j. Dandake mace. Ita ce toshe mata kafar da ke dauke da kwayaye zuwa cikin mahaifa.  Tana hana maniyyi da kwai saduwa/haduwa.  Dole ita ma a sanar da ita kafin a mata.",
+        "video": [
+          "https://www.youtube.com/watch?v=uaICnx0BfZQ"
+        ],
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": ""
+          }
+        ]
+      },
+      {
+        "name": "Hanyoyin Hana Daukar Ciki/Juna Biyu Na Gargajiya",
+        "content": " \n a. Shayar da jariri nonon uwa sosai -  Hanya ce ta wucin-gadi ta rigakagfin daukar juna biyu ga matan da ba su dade da haihuwa ba, kuma bas su soma sake ganin alíadarsu ta wata-wata ba. Wannan hanya tana aiki ga mata da ke yin wata shida suna shayar da jaririnsa nonon uwa ba tare da ba su wani abinci ba. Yana hana kwayayen mace kutsawa cikin mahaifa.  Sai da ba kowacce mace wannan hanya take mata aiki ba. \n b. Amfani da kalanda ñ hanya ce ta amfani da kalanda wajen lissafin kwanakin da mace ke iya daukar juna biyu. Ranar farko da mace za tag a alíada ita ce Rana ta 1. Za ki kidaya zuwa kwana 12 bayan alíada, har zuwa rana ta 16 bayan al’ada. Rana ta 12 zuwa ta 16 bayan alíada, su ne kwanakin da mace za ta iya daukar ciki idan ta sadu da namiji ba tare da rigakafi ba. Wannan na nufin kwanakin da mace za ta iya daukar juna biyu a cikinsu, kwana biyar ne a kowanne wata. \n c. Amfani da janye azzakari daga farjin mace don zubar da maniyyin a waje, ba a cikin farjin mace ba. Yana da sauki ga namiji ya san lokacin da zai zare azzakarinsa daga farjin mace.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth36.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Warin Baki Da Yadda Ake Magance Shi",
+        "content": "Yawanci rashin wanke baki/hakori ke kawo warin baki. Har ila yau warin baki alama ce ta wasu cututtuka.  Da kin lura kina da warin baki, tintibi likita don gano me ya haddasa miki.\nAkwai warin baki iri-iri ya danga ga me ya haddasa shi. Idan kina so ki san ko kina da warin baki, tambayi kawarki ko cikin iyalai ko ëyan uwanki. In kina so ki gano da kanki lashi wuyan hannunki, ki bar shi ya bushe, ki shinshina.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth37.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Maganin Warin Baki",
+        "content": "Hanyar da ta fi dacewa ta magance warin baki, ita ce kyakkyawar kula da lafiyar bakinki. Kula da lafiyar baki ya hada da \n a. Wanke bakin ki da burushi sau biyu a rana. \n b. Sakuce. \n c. Canza burushin wanke bakin ki duk bayan wata uku. \n d. Amfani da man goge hakora da ke kunshe da abubuwan kashe kwayoyin cuta. \n e. Ziyarci likitan hakori domin duba lafiyar hakorinki da wanke miki shi sau biyu a shekara. Wannan zai tamaika miki hana  ki ciwon hakori ko dafewarsa. \n f. Goge harshe/halshenki: Kwayoyin cuta, da abinci, da matattun ëyaíyan kwayoyin halitta kan taru a kan harshenki musamman wadanda ke shan taba ko bakinsu ke yawan bushewa.  Yi amfani da abin kankare harshe idan ya zama dole. \n g. Kauce wa bushewar baki. Ki dinga shan ruwa mai yawa. Kauce wa kwankwadar barasa, da shan taba saboda suna busar da cikin baki. Tauna cingam, ko shan suwi, musamman wadanda babu siga/sikari a cikinsu, zai taimaka wajen karuwar samar da miyau. Ko ki ziyarci likita da zai iya fada miki abin da zai sa yawun ki gudana. \n h. Abinci : Karin kumallo da ya hada da abincin da zai taimaka miki wanke hakoranki. Ki kauce wa albasa, da tafarnuwa, da abinci mai kayan kamshi. Haka nan abinci mai siga/sikari na harfar da numfashi mara kyau. Ki rage shan gahwa da barasa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth38.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Suka Fi Haifar Da Warin Baki",
+        "content": " \n a. Taba. Shan taba na haifar da wari baki, da haddasa sankaran dasashi, da ke iya haifar da numfashi mara dadi. \n b. Abinci:  Abinci da ke makalewa a hakori na iya sa warin baki. Albasa da tafarnuwa na iya sa warinsu a baki, saboda bayan sun narke suna bin jini zuwa hunhu da suke iya shafar numfashi. \n c. Busasshen baki:  Miyau ke wanke baki, idan baki na karancin yawu, baki na iya yin wari. \n d. Kula da lafiyar hakora: Wanke baki na taimaka wa kawar da abubuwan da ke iya makalewa a hakori su haifar da warin baki.  Irin wadannan abubuwa na iya shafar dasashi ya kumbura ko boye kwayoyin cuta. \n e. Abinci da ba mai gina jiki ba: yin azumi da rashin cin abinci dangin su masara na iya haifar da warin baki. Saboda jiki zai ta narkar da kitse, halin da kan haifar kamshi ba karami ba. \n f. Magunguna: shan wasu magunguna na iya rage yawu/yau ya haifar da warin baki. \n g. Kwayoyin cuta a baki/baka, da hanci da makoshi/makogwaro:  Cututtuka a wadannan wurare na iya haifar da warin baki. \n h. Bakon abu: kasancewa wani abu a kafar shaker iska, musamman a yara, na iya haifar da warin baki. \n i. Cututtuka:  Wasu cututtuka kamar su sankara, da gazawar  hanta, da sauran cututtuka na ciki na iya haifar da warin baki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth39.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mene Ne Cututtukan Da Ake Dauka A Bayan Gida (Ba-Haya)?",
+        "content": "An fi kiran su, da cututtukan da farjin mata ke dauke a wajen ba-haya. Wasu daga cikin alamomin irin wadannan cututtuka, sun hada da kunbirin farjin mace, da doyi/wari, kaikayi, radadi, fitar da ruwa fari-fari ko ruwan kwai mai wari, da ciwo a wasu lokuta,.\nAkwai cututtuka na farjin mace iri daban-daban, da suka hada da ciwon sanyi/Gonoriya, kilamidiya,  da sauran kwayoyin cuta. Kuma cututtukan suna kama da juna. Saboda haka yana da muhimmanci ki je a bincike ki don gano wacce iri ce ke damun ki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth40-41.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Alamomi na Cututtukan Da Ake Dauka A Wajen Ba-Haya",
+        "content": "A kula da kyau ciwo ne na jimaíI da aka fi samu a mata. A wasu lokuta akwai alamomi da ba kwayoyin cuta ke haddasa su a farjin mace ba wato Non-infection Vaginitis. Alamonin sun hada kaikayi, da fitar ruwa daga farji, da jin zafi a ciki. Kai wa shekarun daina haihuwa ko cire abubuwa da suka shafi mahaifa na iya haddasa shi.  Haka nan suna iya aukuwa sakamakon amfani da wasu kayayyaki. Sun hada da; \n a. Sabulu. \n b. Turaren fesawa a farjin mace. \n c. Abin kashe maniyyi. \n d. Dan kamfai/fant/wando. \n e. Sabulan kamshi. \n f. Da dai sauran su.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth40-41.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Hanyoyin Magance Cututtuka Na Farjin Mace A Gida",
+        "content": "Cuta Mai Kama Da Yis ñ Mai na alíaurar mace na da amfani wajen warkar da wannan cuta. Akwai kuma wasu magungunan idan ciwon ya yi tsanani, da likita zai ba da shawara. Kada ki sa a can cikin farjinki saboda cutar na iya yaduwa zuwa cikin mahaifarki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth4243.png"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Magance Cutar Ta Yis A Gida",
+        "content": " \n a. Tsoma auduga cikin yogat sai ki cusa shi cikin farjinki. Za ki iya yin haka sau biyu a kullum har sai alamun sun kau. \n b. Tafarnuwa; bare bayan tafarnuwa ki cusa tafarnuwar cikin farjinki. Ki dinga kwana da ita, har sai kin samu sauki. Tana magani sosai. \n c. Man bishiyar shayi/ti: man na taimakawa wajen rage kaikayi da radadi da cutar ta yis ke haddasawa. Dan diga man a auduga ki cusa a cikin farjin ki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth4243.png"
+          }
+        ]
+      },
+      {
+        "name": "Rigakafin Cututtukan Da Ake Dauka A Bayan Gida/ Wajen Ba-Haya.",
+        "content": " \n a. Tsaftace kan ki a kowanne lokaci da busar da jikinki. \n b. Kaucewa turaren da ake fesawa a farji, ko yin amfani da sabulu mai karfi/zafi a farjinki. \n c. Ki lura da kyau kada a lokacin tsarki, ki yabo najasa daga duburarki zuwa farjinki. \n d. Kauce wa sanya tufafi mai rike zafi da laima, kamar sikel, ko dan kamfai na leda/roba, da dai sauransu da ba a yi su da auduga ba. \n e. Amfani da kondon na iya taimaka wa rigakafin yaduwar cutttuka. \n f. Shan yogat na iya taimaka wa rage cutar nan ta yis. \n g. Ka da ki yi amfani da audugar mata da aka sa wa sabulu. \n h. Ci gaba da barin kaya masu zufa ko datti/dauda na iya taimaka wa Karin cutar. \n i. Ki yi kokari ke je a duba lafiyar jikinki wajen likitan mata a duk shekara.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth44.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Haddasa Kaikayi Bayan Wanka, da Rigaka Da Magani",
+        "content": "Kaikayi hanya ce  da jiki ke nuna yadda fatar jiki ke radadi ko ko cikin wani hali. Gargadi ne na a dau mataki kafin barna ta auku. Zai iya zama daga tuwa, ko yanayi, ko tabawa, da sauran kayayyaki na wanka irin su sabulai da mai da soso.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth45and46.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Haddasa Kaikayin Jiki Bayan An Yi Wanka",
+        "content": " \n a. Ruwa: Ruwa na iya sa kaikayi. Idan ya dade yana yi a jiki, zai iya kasancewa  an dade ana wanka ko ba a goge jiki ya bushe gabadaya. \n b. Yanayi: Ruwan da ake wanka  da shi na iya sanya kaikayi, idan ruwan na da sanyi, ko iya kona fatar jiki, ko tsananin kaikayi. Kaikayin ya fi tsanani idan akwai rauni ko yanka a jiki.  ruwan zafi ke kara tsananin kaikayin. \n c. Kayan Wanka: Kayan wanka irin su makilin, da man shamfo na iya shafar fatar jiki.  idan kina wanke baki da burushi kina wanka a shawa a lokaci guda, makilin din na iya zuba a jikinki. Yana zuba, idan ba ki wanke da kyau ba, fatar jikinki za ta amsa. \n d. Goga soso: Idan kina ta goga soso mai karfi za ki darje fatar jikinki ta soma kaikayi. \n e. Idan da ma can fatar jikinki na da matsala, kuma aka goge ta da karfi kuma a lokacin zafi, yana iya haddasa kaikayi. \n f. Kwayoyin cuta: Idan akwai kananan kwayoyin cuta a cikin ruwan da ka iya shafar fatar jiki a lokacin da kike yin wanka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth45and46.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Rigakafin Kaikayin Jiki",
+        "content": " \n a. Yi amfani da sabulu da shamfo mara zafi. Yi amfani da sabulun da aka saba amfani da shi yau da kullum ko sabulun yara. Kaucewa amfani da sabulu da ke kunshe da magani na kashe kwayoyin cuta. Ki tabbatar kin wanke dukkan wani sabulu ko shamfo da kika yi amfani da shi wajen wanke jikinki. Ki dauraye jikinki da sauri bayan kin goga sabulu ko shamfo. \n b. Yi wanka da ruwa ba mai zafi ban a dan gajeren lokaci domin kauce wa wanka na dogon lokaci da amfani da tafasshen ruwa wajen yin wanka. \n c. Ki dinga sa soso da sabulu a jikinki a hankali a lokacin da kike wanka domin kauce wa ji wa kan ki ciwo.  Dukkan matattun kwayoyin halitta da ke jikinki za su zube a hankali da kan su. \n d. Bayan kin gama wanka ki tabbatar kin bushe. Ta amfani da tawul. Ki dan bari ki bushe kafin ki sa kaya/tufafi. \n e. Ki shafa mai a jiki bayan kin yi wanka. Ki tabbatar fatar jikinki ta bushe kafin ki shafa mai. Ki guje wa amfani da man da zai miki zafi a jiki idan har kin san fatar jikinki ba ta da juriya.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth47.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Hanyoyin Samun Saukin Kaikayi A Fatar Jiki",
+        "content": " \n a. Ki sake yin wanka na dan gajeren lokaci da ruwa ba mai zafi ko sanyi ba. Ki goje jikinki da hannu. Kada ki yi amfani da soso ko makamancinsa a fatar jikinki. Ki bushed a kyau bayan kin yi wanka. \n b. Amfani da fanka ko iyakwandishan wajen bushewa kafin sa tufafi. Idan yanayi na sanyi ne, ki kauce wa yin hakan saboda kina iya jin sanyi, saboda kin yi wanka ne da ruwan zafi. \n c. Yi amfani da basilin a wuraren da fatar ke miki kaikayi. Kada ki yi amfani da man da ke da ruwa har sai kaikayin ya daina.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606551/general_health/GeneralHealth48.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Hawan Jini",
+        "content": "Hawan jini na nufin jininki ya haura 140/90. Wannan yanayi ne na damuwa ga wasu mata da ke da juna biyu. Idan mace na da juna biyu kuma tana da hawan jini, to akwai hadari. Yana iya shafar uwa da jaririnta. Bayani na nuna a Amurka mata da ke cikin wannan yanayi na ci gaba da karuwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth49.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ke Haddasa Ciwon Zuciya?",
+        "content": "Wannan yanayi ne na toshewar hanyar gudanar jini zuwa zuciya, babu mamaki saboda taruwar kitse, da kolastaral da dangoginsu. Da hanyar jini ta toshe, sai barna ta auku, ko lalata wani sashe na jikin zuciya.\nAbubuwan da suka fi haifar da ciwon zuciya  zuciya su ne; \n a. Shan taba. \n b. Yawan kwalastaral a jiki. \n c. Ciwon siga. \n d. Hawan jini. \n e. Gajiya. \n f. Katon ciki/teba. \n g. Rashin kazar-kazar a rayuwa. \n h. Rashin cin isassun kayan itatuwa da ganyayyaki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606553/general_health/GenralHealth50.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Me Ake Nufi Da Asifiziya (Asphhyxia)?",
+        "content": "Yanayi ne na rashin wadatacciyar iska a kwakwalwar yaro da sauran gabobin jikinsa, kafin haihuwarsa, da a lokacin haihuwarsa, da bayan haihuwarsa. Wannan na iya aukuwa ba tare da kowa ya sani ba. In ba iska, kwayoyin halitta na jiki ba za su yi aiki daidai ba.Illar wannan ciwo a lokacin haihuwa ya danganta: \n a. Dadewar da jariri ya yi babu wadatacciyar iskar. \n b. Matsayin karancin iskar. \n c. Hanzarin da aka yin a magance matsalar.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth51.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Alamomin Wannan Cuta Ta Azifiziya",
+        "content": "Za su iya hada wa da; \n a. Rashin numfashi ko numfashi na dan lokaci. \n b. Fatar jiki ta zama ruwan bula, fari-fari, ko haske fiye da kima. \n c. Harbawar zuciya a hankali. \n d. Matsalar wajen naman jiki. \n e. Rashin karfi. \n f. Yawaita sinadarin asid a jini. \n g. Ruwan wanka tattare da kashin farko. \n h. Daukewa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth52and53.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Magance Afiziya",
+        "content": "Idan jaririnki na dan fama da wannan cuta a lokacin da kika haife shi, za a iya tallafawa musu da numfashi har su iya yin numfashi da kan su. Za a iya sa ido a kan jariri don tabbatar da babu wata matsala.\nJariri da ke fama da babbar matsala ta Afiziya na iya bukatar; \n a. Naíurar yin numfashi, \n b. Taimaka masa da numfashi. \n c. Ruwa. \n d. Maganin hana daukewa. \n e. Maganin da zai ba hanjin jariri lokacin farfadowa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth52and53.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mene Ne HIV/AIDS?",
+        "content": "Cuta ce- ta karya garkuwar jiki.  Kwayoyin cuta ne da ke fada da garkuwar jiki, domin cuta ta samu saukin shiga cikin jikin mutum.\nZa ta iya yin shekara biyu zuwa goma sha biyar a jikin mutum kafin ta bayyana. Mai cutar na iya zama yana da cutar sankara, da sauran cututtuka masu tsanani.\nAlamomin Cutar ta HIV sun danganta ka tsananin da cutar ta yi.  Alama ta farko ta an kamu da cutar ita ce zazzabi, ciwon kai, mashako, da kuraje. Har ila yau, a wasu lokuta za ka tarar da mai cutar ba shi da wata alama ta kamuwa da ita. Sannu a hankali sai mutum ya soma nuna sauran alamomi kamar su gudawa, ramewa, da tari.  Idan har ba a warkar da wadannan cutttuka ba, har ila yau za su soma tarin fuka, sankarau, kamuwa da cututtuka masu tsanani, da sankara. \nZa a iya yada cutar HIV ta haduwar ruwan jiki da wanda ke da ita. Ruwan jiki da ke iya yada cutar ga wani shi ne jini, ruwan nono, maniyyi, da farjin mace, amfani da allura mutum biyu da mai ciwon da mara ciwon, da gabar jiki. mutum ba zai iya daukar cutar HIV ta sumbata, ko runguma, ko shan hannu, ko amfani da tufafi daya, ko ruwa ko abinci ba.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth54.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mece Ce Cutar Sankara/Kansa?",
+        "content": "Sankara shi ne idan kwayoyin halitta na jikin mutum na yin girman da bai kamata ba, suna girma cikin hanzari su wuce iyakarsu.  Sankara na iya shafar kowanne bangare na jiki, har da hunhu, da nono, da fatar jiki, da ciki, da al’aura.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth55.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mene Ne Kwalara?",
+        "content": "Kwalara mugun ciwo ne na zawo, ta ake dauka sakamakon cin abinci ko ruwa mara tsafta. Alamunsa su ne amai da gudawa. Ana daukar awa 12 zuwa kwana biyar ana zawo bayan mutum ya ci/sha gurbataccen ruwa. Kwalara na iya kashe mutum cikin sa’o’I kadan da kamuwa da ciwon in ba a yi hanzari wajen magance shi ba.  Domin rigakafin kwalara, ki dinga rufe abincinki da ruwanki daga guda, da wanke hannu kafin ki ci abinci, da tsaftace muhalli.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth56.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mece Ce Ebola?",
+        "content": "Wata kwayar cut ace ke haifar da Ebola. Da mutum ya kamu da Ebola za ta fara bayyana bayan kwana 2-21. Alamu na farko na cutar su ne, zazzabi farat daya, gajiya, ciwo jiki, ciwon kai, mashako. sai amai, da gudawa, da kurajen fatar jiki, da alamun ciwon koda da na hanta. Sai kuma zubar jini ta ciki da waje da daga dasashi da kuma a cikin kashi. Ana kamuwa da cutar daga dabbobi da ke da ita, irin su jaki, da biri da goggon biri, da jemage da sauran tsintsaye ko dabbobi matattu a daji, ko da ba su da lafiya. Haka nan wajen rufe gawar mai cutar, ana iya dauka.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606552/general_health/GeneralHealth57.jpg"
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "name": "Me ke kawo kurajen gaba?",
+        "content": "An fi samun kuragen gaba ne daga kwayoyin cuta. Daga ruwa da danshi/laima/sanyi a zagayen/kewayen alíaura, da sanya kaya matsattsu ko masu kauri na wani tsawon lokaci. Kuma kurajen gaba na iya aukuwa sakamakon shigar bakon abu cikin jiki, ko cututtuka na jima’i.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mene ne Tunjere?",
+        "content": "Tunjere ciwon sanyi ne da ke yaduwa ta jimaía. alamun tunjere shi rauni/ciwo mara zafi a kusa da alíaura, ko dubura ko a bakin mutum.  Tunjere na iya yaduwa daga mutum zuwa wani ta raunin/ciwon. Mutum zai iya dauka daga ciwon wani.\nAkwai ciwon tunjere iri-iri, sai dai tunjere ko wane iri ne, yana ci gaba da kasancewa a cikin jikin mutum bayan raunin/ciwon/gyambon ya warke. Za a iya warkar da tunjere tun wuri, sai dai idan ba a warkar das hi ba, yana iya shafar kwakwalwa, da zuciya, da sauran gabobi/sassan jiki.\nJariri da ke cikin mahaifiyarsa  zai iya daukar cutar daga mahaifiyarsa tasa tun a cikin ciki kafin a haife shi. Akan haifi jariri ba tare da wata alama ta cutar ba, wasu kuma akan haife su da ita. Alamar takan hada da kurumta, ko wasu irin hakora, ko hanci nananne.\n   Wasu daga cikin hanyoyin daukar ciwon tunjere sun hada da yin jimaíi da mutum fiye da guda daya, da maza da ke saduwa da maza, da yin jimaíi ba da kariya/kondom ba,  da kuma in mutum yana da cutar HIV wato Eds.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Cututtukan da ake dauka ta jimaíi/saduwa",
+        "content": "Cututtukan da ake dauka ta jima’i(STDs) su ne wadanda mutum ke dauka daga wani ta hanyar jima’i. Kwayoyin cuta iri daban-daban ke haddasa cututtukan. Akwai ire-iren cututtukan da ake dauka fiye da ashirin da suka hada da n \na) Chlamydia \nb) Genital herpes – kurajen gaba \nc) Gonorrhea – gonoriya  - ciwon sanyi \nd) HIV/AIDS  - Cutar Eds \ne) HPV \nf) Syphilis – Tunjere \ng) Trichomoniasis Yawancin wadannan cututtuka na jima’i na shafar maza da mata, sai dai sun fi tsanani ga mata. Idan har mace mai ciki/juna biyu na da cutar, tana iya shafar lafiyar jaririnta. Akwai magunguna na kashe kwayoyin cutar.  Sai dai akwai irin wannan cuta da ba ta jin magani, sai dai akwai maganin da ke iya taimakawa a gano cutar ko shawo kanta.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex3.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=TRGZcNMR24o"
+        ]
+      },
+      {
+        "name": "Shin saduwa da mace mai juna biyu na iya yi wa jaririnta illa?",
+        "content": "Saduwa da mace mai juna biyu ba za ta yi wa jaririn da ke cikinta wata illa ba. Jariri yana kwance cikin wata riga ta kariya abinsa, babuwata cuta da za ta iya kaiwa gare shi. Alíaurar namiji ba za ta iya kaiwa inda jaririn yake ba.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex4and11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Shin saduwa da mace mai juna biyu na iya sa ta haifi bakwaini?",
+        "content": "Ko kada, saduwa da mace ba ta haddasa nakuda ko yin bari.  Jin dadin saduwa na iya sa motsawar wani bangare na dan lokaci amma ba wata illa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "A yanzun da naked a juna biyu ta ya zan dinga jin jima’a?",
+        "content": "A lokacin da kike da juna biyu za ki ji shaíawarki ta saduwa da namiji ta karu ko ta ragu kuma jin dadin na iya karuwa. Saboda gudun jini zai karu zuwa alíaura, ya sa ta kara girma. A wasu lokuta kuma saduwar ba dadi. Babu mamaki saboda mace ba ta son yadda take jin canjin na aukuwa gare ta. A lokacin da kike da juna biyu nononki na iya yin taushi, kuma ko ya aka taba miki shi shaíawa za ta kama ki. Ko kuma shaíawar taki ta iya raguwa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yanayin saduwa a lokacin da kike da juna biyu",
+        "content": "Za ki iya saduwa da namiji duk ta yadda kika ga dama a lokacin da kike da juna biyu. In kuna saduwar ta yadda ba ta miki dadi ba, ki masa magana ku canza wata iri daban.\nDuba kasa ki ga saduwa iri-iri da yadda ake yin kowacce.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7a.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7_2.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7s.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex7j.png"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex72.png"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=dEWcJIELHGU"
+        ]
+      },
+      {
+        "name": "Tunda na samu ciki shaíwata ta saduwa da namiji ta ragu, ba wata matsala?",
+        "content": "Ba sabon abu ba ne ki ji shaíawarki ga namiji ta ragu a lokacin  da kike da juna biyu. Sai dai kada ki damu, gaba kadan shaíawarki za ta dawo.  Har ila yau kada ki damu a kan jikinki da na jaririnki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Saduwa da ni ta baki ba matsala idan ina da juna biyu?",
+        "content": "A wasu lokuta irin wannan saduwa ta baki tana da matsala. Kada ki yarda a miki huci ko hura iska zuwa cikin farjinki.  Saboda iska na iya shiga cikin inda jininki ke gudana. Kodayake ba a cika samun haka ba, yana da matukar hadari gare ki, da jaririnki. Lasa/shan alíaurar wanda kike saduwa da shi tana da hadari/hatsari idan yana da cututtuka na jimaíI irin su tunjere.  Haka nan idan kina da irin wadannan cututtuka kada ki bari ya sha alíaurarki.  Saboda bincike ya nuna idan ke ko shi kuna da cutar HIV daya na iya dauka idan akwai yanka a bakin mutum ko yawu. Ki tintibi likita idan kina da wasu tambayoyin.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex9.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=_mPyYNJgEj4"
+        ]
+      },
+      {
+        "name": "Ta wacce hanya zan iya kare kaina daga cututtukan da ake dauka ta jimaíi?",
+        "content": "Idan har kina yin jimaíi da maza barkatai fiye da mutum daya, ko shi yana yin jimaíi da mata barkatai fiye da daya, za ki iya dauka. Saboda haka don kare kan ki, ko kare shi sai ki yi wadannan abubuwa. 1. Kasance kina saduwa da mutum daya ne kawai. 2. Ki yi amfani da rigar kariya/kondom a duk lokacin da za ku sadu. Da tabbatar da kin sa kondom din dai-dai. Yadda ake sa kondom dai-dai.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wacce hanya ta fi dadin saduwa idan ina da juna biyu? ",
+        "content": "Wacce kika fi jin dadi ita za ki zaba. Ki duba ire-iren hanyoyin saduwa idan mace na da juna biyu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606587/sex/Sex4and11.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wacce alama zan gani/ji da za ta sa in hanzarta kiran likitana ko unguwar zoma?",
+        "content": "Da kin ji wani canji a jikinki, ki kira likita. Dole ki dinga jin canji na matsewa a lokacin da kuke saduwa ko bayan kun gama. Idan bayan ëyan mintoci kika ci gaba da ji, ko wani zafi ko zubar jinni ya auku bayan saduwa, ki sanar da likitanki.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606588/sex/Sex12.jpg"
+          }
+        ]
+      }
+    ],
+    "sibiling": [
+      {
+        "name": "Cututtuka na fatar jiki da suka fi addabar yara: Alamomi da Abubuwan da ke kawo/haddasa su.",
+        "content": "Kwayoyin cuta, da shigar bakon wani abu cikin jiki, da zafi da nafkin jikakke na iya haddasa wa yara kurajen jiki. Kurajen da suka fi damun yara sun hada da: \n a) Kurajen Zafi zufa da ba ta saurin bushewa a jikin yaro ke haddasa ta. Za a gan su ëyan kanana wasu lokuta jajaye. Wasu lokuta a duwawu da baya. Yara da ke kasashe masu zafi da dumi suka fi yin su. Yawan zufa a yanayi mai zafi, da zazzabi, da sanya wa yaro tufafi masu yawan dumi ko kauri da yawa duk suna haddasa wa yaro kurajen jiki. Sai shafa mai mai kauri da ke toshe kofofin fitar zufa daga jikin yaro. \n b) Kurajen Nafkin  Yara ëyan wata 9 zuwa 12 suka fi yin su. Za a gan su jajaye a inda aka saw a yaro nafkin. Dadewar yaro da fitsari ko kashi a cikin nafkin na haddasa shi. Ko a bar nafkin ya dade a jikin yaro, ko ci gaba da maimaita masa nafkin da ya jike ko yake dauke da wasu kananan kwayoyin cuta. \n c) Kurajen ka/kai- Kuraje ne jajaye ko ruwan hoda da ke fitowa a kan yaro. A wasu lokuta za a gan su a hammata ko wuya. Kananan kwayoyin cuta ke haddasa su, da suka jibanci mai. \n d) Kirci Jajaye ne suna da kaikayi a fatar jikin yaro. Sukan fito a wuyan yaro ko a kafafuwansa, wani lokaci sukan fitowa manya/babba a jiki. Ba a san me ke haddasa sub a, sai dai abubuwan da kan taimaka musu. Suna sa jikin yaro zafi, da iya sa wani ya dauka, suna da zafi idan aka sa musu wasu sabulai ko man shafawa.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1a.jpgg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1b.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1c.jpg"
+          },
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings1d.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Rigakafi da Yadda Ake Magance Cututtukan Da Ke Addabar Fatar Yara",
+        "content": "Ki sanya wa yaro/jaririnki kaya mara nauyi, ya danganta ga yanayin da ake ciki, da kauce wa amfani da nafkin musamman a lokacin zafi. Kada ki yi amfani da sabulu mai karfi musamman sabulu mai kunshe da magunguna.  Rage tsawon lokacin yi wa yaro/jariri wanka zuwa minti b5 10. Yi amfani da mai mara nauyi wajen shafe fatar jikin yaro. \n a) Maganin Kurajen Zafi ñ Kaucewa saw a yaro nafkin mai nauyi. Sanya wa yaro kaya mara nauyi. Daki ya kasance cikin sanyi. Kauce wa man jiki mai kauri. Yi wa yaro wanka da ruwan sanyi. Yi amfani man maganin kuraje a jikin yaro. \n b) Maganin Kurajen Nafkin ñ  A dinga canza wa yaro nafkin akan lokaci, da amfani da ruwa wajen wanke duwawun yaro bayan an canza masa nafkin, a shafe duwawun da man basilin. Yi amfani da man da aka ba ki shawarar amfani das hi wajen warkar masa da cututtukan da ke addabarsa. \n c) Maganin Kurajen Ka/Kai ñ A shafa wa yaro man zaitun a ka na tsawon awa daya kafin a masa wanka. Zai taimaka wajen sa kan ya yi taushi kafin a masa wanka. Da dai sauran man shafawa na warkar da kurajen ka. \n d) Maganin Kirci ñ yi wa yaro wanka da ruwa mai dan dumi da sabulu mara zafi. Kada a goge jikin yaro a lokacin da ake son ya bushe. Yi masa amfani da man maganin kirji a kullum.  Yi amfani da man da aka ba ki shawara ki yi amfani da shi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Haddasawa Yaro Zazzabi Da Dumewar Jiki",
+        "content": "Ana bukatar jikin yaro ya kasance 36.5oC ñ 38oC. idan dumin jikin yaro ya zarce/wuce/haura haka alamu ne na ba shi da lafiya/zazzabi. Zazzabi ba sabon abu ba ne ga jikin yaro da ke yaki da cututtuka.\nAbubuwa da dama na iya haddasa wa yaro zazzabi, kuma kalilan ne ke saurin tafiya. A wasu lokuta zazzabin kan dau dogon lokaci, da ka iya zama cuta/ciwo mai tsanani. Yawanci kwayoyin cuta da yara ke dauka ke haddasa nusu zazzabi.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Alamomin Zazzabi",
+        "content": "Dumewar jiki da saukarsa kusan kullum . da safe sai a ji jikin ya yi sanyi, sai can da rana zuwa yamma jikin ya sake dumewa. Zazzabi na iya shiga a hankali ko tashi guda.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Abubuwan Da Ke Haddasa Zazzabi",
+        "content": " \n a) Kananan kwayoyin cuta (Bairos) na iya haddasa wa yaro zazzabi, kamar sanyi, ko cututtuka na madaukai da bakon dauro. \n b) Kwayoyin cuta na Bakteriya da ke haifar da ciwon kunne, da makogwaro, da sankarau, da cututtuka na mafitsara, da na nimoniya, da mashako, da cututtuka na cikin jinni. \n c) Sakamakon shigar bakon abu cikin jikin yaro ñ ko bayan shan magani, ko allura, ko sakamakon gurbacewar yanayi ko iska.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Siblings5.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Lokacin ganin Likita a Game Da Zazzabin Yaro ko Zafin Jiki.",
+        "content": " \n a) Idan jariri yana kasa da watanni uku kuma yana fama da zazzabi. Yi maza ki tafi wajen likita saboda yana da wahalar gaske ki gane me ya haddasa masa zazzabin. \n b) Idan jariri/yaron na tsakanin wata uku zuwa goma sha biyu kuma yana zazzabi. Hanzarta zuwa wajen likita. \n c) Idan yaron yah aura wata goma sha biyu hanzarta ki nemi likita idan kin lura da wadannan alamomi: \n d) Numfashi da kyar. \n e) Jiri. \n f) Yawan amai ko kasha. \n g) Yawan ciwon kai, makalewar wuya, kuma haske na damun idon yaro. \n h) Karuwar laulayi, kara ramewa, kasala da kasa natsuwa. \n i) Kin shan ruwa kuma ba ya yin fitsari kamar da. \n j) Na radadi. \n k) Bai samu sauki ba bayan saía 48. \n l) In kina cikin damuwa akan wani dalilin.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Sibling6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Maganin Zazzabi.",
+        "content": "Yana da muhimmanci ki ba yaronki/jaririnki isasshen ruwa don kaucewa karewar ruwa a jikinsa. Idan jaririn ba ya shan isasshen ruwa sanar da likitanki. Yi wadannan abubuwa domin magance zazzabin da ke addabar jaririnki. \n a) Sanya wa yaro kaya/tufafi mara nauyi. \n b) Kauce wa fanka. \n c) Shayar da yaro nono sosai. \n d) Idan yaron na cin abincin jarirai, ki ba shi wanda ya saba ci kadan-kadan. \n e) Idan har yaron ya haura wata shida, ci gaba da ba shi nono ko sauran abinci. Ba yaron ruwa ya sha. \n f) Ba yaron farasitamol da sauran magunguna kamar yadda likita ya umarce ki. Kada ki cika wa yaro magani/ba shi fiye da kaíida, saboda dura masa magani fiye da kaíida na iya lalata masa hunhu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606605/sibilings/Sibilings7.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=HsRBsNp_cNw"
+        ]
+      }
+    ],
+    "spouse": [
+      {
+        "name": "Me Ke Sa Namiji Kasa Fitar Da Maniyyi (Kasa Yi Wa Mace Ciki)?",
+        "content": "Namiji na kasa/gaza fitar da maniyyi ne idan maniyyin nasa ya shiga mafitsara, maimakon ya fito ta kafar/ramin da ke kan azzakarinsa.  Ciwon siga, da hawan jini, da rauni a kashin baya, da aiki a mazakuta, da makamantansu.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse1and2.jpg"
+          }
+        ],
+        "video": [
+          "https://www.youtube.com/watch?v=h6xBne6GBd0"
+        ]
+      },
+      {
+        "name": "Me Ake Nufi Da Rashin Tashin Azzalari?",
+        "content": "Wannan na nufin namiji ya kasa tayar da azzakarinsa ta yi karfin da za ta iya saduwa da mace wato jimaíi. har ila yau ana kiran wannan matsala, da matsalar rashin haihuwa ko kasa yi wa mace ciki/juna biyu. Namiji zai iya gamuwa da wannan matsala ko yana saurayi, ko a ya zama magidanci, amma ta fi aukuwa ga manya masu shekaru da ke da matsaloli na lafiya. Yawancin maza kan kamu da wannan lalura ta rashin tashin azzakari, kuma ba abin damuwa ba ne.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse1and2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wadanne Matsaloli Ne Ke Haddasa Matsalar Fitar Maniyyi Daga Namiji?",
+        "content": "Wadannan Matsaloli sun hada da: \n a. Yawan kwankwadar barasa. \n b. Sauran matsaloli irin su siga, da hawan jini, da tsoro, da gajiya, bakin ciki. \n c.  Gajiya. \n d. Sakamakon shan wasu magunguna. \n e. Matsala ta jiki kamar rauni a cikin jiki, ko rashin jini zuwa azzakari. \n f. Aiki da ya hada da aiki a mafitsara, irin su aikin kansa a alíaura.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Wadanne Ne Alamominsa?",
+        "content": "Babbar alamar ita ce azzakarin namiji ta kasa tashi ta tsaya domin iya saduwa da mace. Kuma namijin da ke da wannan matsala na iya samun jin dadi na saduwa da mace, har ya kawo.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse4.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ta Ya Ake Magance Ko Duba Wannan Lalura?",
+        "content": "Likita zai tambayi namiji a kan lafiyarsa yi masa gwaji. Likita zai so ya san sau nawa matsalar ke aukuwa? Akwai gwaje-gwajen da zai masa don gano inda matsalar take.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Sposue5.png"
+          }
+        ]
+      },
+      {
+        "name": "Yadda Ake Maganin Cutar",
+        "content": "Hanyoyin sun hada da: \n a. Kaucewa shan sigari da kwayoyi da rage shan/kwankwadar barasa. \n b. Gano magungunan da ke zama matsala ga namiji, da daina shan su. \n c. Tattauna matsalar da abokin zamanki. \n d. Samun shawarwari da motsa shaíawa. \n e. Aiki a azzakari da yin maganin da ya dace.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse6.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Ko Cikina/Juna Biyu Zai Iya Shafar Shaíawar Saduwa Ta Mijina?",
+        "content": "Tabbar zai iya shafar shaíwar mijinki ta saduwa da ke. Juna biyunki na iya sa shi ya kara shaíawarki, ya nemi Karin saduwa da ke. Yana kuma iya sa shi cikin damuwar zai zama uba. Wannan na iya sa shaíawarsa ta ragu. Abu ne mai muhimmanci tattauna damuwarku da abubuwan da kuke tsoro. Zai taimaka muku kwanciyar hankali da jin dadin juna.",
+        "image": [
+          {
+            "id": 339964,
+            "imagePath": "https://res.cloudinary.com/ho8zxfzps/image/upload/v1563606620/spouse/Spouse7.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
+
