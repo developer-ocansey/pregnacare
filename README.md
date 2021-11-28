@@ -7,8 +7,8 @@ cloudinary for video and image management
 
 ### steps to execute App
 
-![](/Users/developer_ocansey/code/react/mobile/pregnacare/shot.png)shot To run this app you would need a MAC operating
-system.
+![](/shot.png) {:height="36px" width="36px"}
+To run this app you would need a MAC operating system.
 
 1. Setup npm or yarn use documentation to achieve this =>https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
 2. Clone project and execute yarn install or it's npm equivalent
